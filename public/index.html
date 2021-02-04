@@ -5,12 +5,15 @@
   <link rel="stylesheet" href="./stylesheets/style.css">
   <script>
     function get() {
-      document.getElementById('link-download').innerHTML = 'loading...';
+      document.getElementById('note').innerHTML = 'loading...';
+      document.getElementById('link-download').innerHTML = '';
       const code = document.getElementById("linkcode").value;
       fetch(window.location.href + 'get/' + code)
       .then(res => {
         res.text().then(data => {
-          document.getElementById('link-download').innerHTML = data;
+          document.getElementById('note').innerHTML = '';
+          document.getElementById('link-download').innerHTML = 'Download';
+          document.getElementById('link-download').href = data;
         })
       })
       .catch(err => console.log(err));
@@ -22,7 +25,8 @@
   <div id="container">
     <h1>Get Link Fshare Vippromax</h1>
     <p><i>by</i> <b>manhsuper171@gmail.com</b></p>
-    <p id="link-download">Nhập code file cần tải.<br> 
+    <p><a href="" id="link-download" target="_blank"></a></p>
+    <p id="note">Nhập code file cần tải.<br> 
       VD: https://www.fshare.vn/file/<b>LVCSNN3554RA</b>?token=1612146449<br>
       Nhập <b>LVCSNN3554RA</b>. Giới hạn 2 lần get / 15 phút.
     </p>
