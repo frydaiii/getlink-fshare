@@ -38,3 +38,34 @@
 {"message":"getting download link...","level":"info"}
 {"message":"https://download040.fshare.vn/dl/avK4Q9qgiapgiQL5c7WYozLfY0I42O1JJQ1mab2ukuLj-3DpAdB6CCF6pYPiMLEcflpwB9wK33yEhkzb/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
 {"message":"shorten url error: URL is invalid.","level":"error"}
+{"message":"::ffff:117.5.155.109 GET /download/RB1XCMTY39SX","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"get link failed: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3","level":"error"}
+{"message":"logging out","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/site/login","level":"info"}
+{"message":"status: 200","level":"info"}
+{"message":"logging in with different account...","level":"info"}
+{"message":"getting token and cookie...","level":"info"}
+{"message":"auTeyTR3ynpnLMH0XBQq-juHN6Oisxnszpz4MMw5yMwDp7yeAUeySj5N98I7eRuXVMsDlfXLX7ab7bx7qV6ggA==\nfshare-app=kortlr80gj0tn0roinkughq5in","level":"info"}
+{"message":"logging in ...","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/file/manager","level":"info"}
+{"message":"status: 200","level":"info"}
+{"message":"::ffff:117.5.155.109 GET /download/RB1XCMTY39SX","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://www.fshare.vn/download/redirect?id=FBRIxE&code=RB1XCMTY39SX","level":"info"}
+{"message":"get link failed: Error: wrong download url","level":"error"}
+{"message":"logging out","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/","level":"info"}
+{"message":"status: 200","level":"info"}
+{"message":"logging in with different account...","level":"info"}
+{"message":"getting token and cookie...","level":"info"}
+{"message":"BOE8yICl8zo0JyG44n1dHoa_BrpLWDBOlYp-JqZTPx02sW2Cxf-Vb3F_EfKXGTFoyOtq7X8vXAbD-idj4wtUew==\nfshare-app=tac9r54lkfopq82sso2hemo3aj","level":"info"}
+{"message":"logging in ...","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/file/manager","level":"info"}
+{"message":"status: 200","level":"info"}

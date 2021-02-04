@@ -3,11 +3,6 @@ const router = express.Router();
 const redis = require('redis');
 const client = redis.createClient();
 const fetch = require('node-fetch');
-const rateLimit = require('express-rate-limit');
-const limiter = rateLimit({
-    windowMs: 15 * 60 * 1000,
-    max: 2
-});
 
 const get = require('../services/redis-get');//get value from redis
 const login = require('../services/login');

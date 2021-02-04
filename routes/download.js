@@ -1,8 +1,13 @@
 const express = require('express');
 const router = express.Router();
 const fetch = require('node-fetch');
+const rateLimit = require('express-rate-limit');
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000,
+    max: 2
+});
 
-router.get('/', (req, res) => {
+router.get('/', limiter, (req, res) => {
     const link = req.query.link.replace(/ /g, "+");
     console.log(link);
     fetch(link).then(file => {
