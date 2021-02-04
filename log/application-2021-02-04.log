@@ -1,0 +1,40 @@
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"get link failed: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3","level":"error"}
+{"message":"out of storage per day","level":"info"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"get link failed: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3","level":"error"}
+{"message":"logging out","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/site/login","level":"info"}
+{"message":"status: 200","level":"info"}
+{"message":"logging in with different account...","level":"info"}
+{"message":"getting token and cookie...","level":"info"}
+{"message":"MTbAJD07TLsDhm5BCAkMASNPQ12-Sj55gtyKGDgHeloFWI5RaQME2UXTCQ1FRlRtdTgWEN0BWw_WludRSX4iEQ==\nfshare-app=m659p40v7jssuatdvk82b1e241","level":"info"}
+{"message":"logging in ...","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/","level":"info"}
+{"message":"status: 302","level":"info"}
+{"message":"redirect link: https://www.fshare.vn/file/manager","level":"info"}
+{"message":"status: 200","level":"info"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/N-UYImQE-aNC0gwaiDn4cpOBj915nAYUiVuuGMIZyl8td3cgUbtismlT33dN7sn3WUQ8xwt83GeCSC0V/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/j2s+Ivd8-6yPXTpuUP2KnLpybnGhzLfwgDlm6uhVs7Df5RGnLYK7UOiFPFbLgjUeQtjg+kfejj7nXQy7/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/70U+DdmvFTvs4SnchDgsbU+MNI-C5+Y72JXB4ivXV2jwfgTKPjxQKByZNaNSkJQ2ALOwLlwXb4csZ9-Y/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/aXgoeoy3P7a9r1fY9tZPWi6TXCIkFj+KASxYCK52qMSKYknWywitwYB5tVPUy5pHlcPSs8mcs-AFoBvp/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"shorten url error: URL is invalid.,Alias already exists.","level":"error"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/+h-VVpBpWrsZUzt3Qqp39qEQh+Xmqpa3LnbzlJuO7UmJq2Gzk8hVu0MXxPA6mvVkVhCFjZBFO2b6ca52/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"shorten url error: URL is invalid.","level":"error"}
+{"message":"::1 GET /download/LVCSNN3554RA","level":"info"}
+{"message":"getting download link...","level":"info"}
+{"message":"https://download040.fshare.vn/dl/avK4Q9qgiapgiQL5c7WYozLfY0I42O1JJQ1mab2ukuLj-3DpAdB6CCF6pYPiMLEcflpwB9wK33yEhkzb/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
+{"message":"shorten url error: URL is invalid.","level":"error"}

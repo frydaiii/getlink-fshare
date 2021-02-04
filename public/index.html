@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <title>Get Link Fshare Vippromax</title>
+  <link rel="stylesheet" href="./stylesheets/style.css">
+  <script>
+    function get() {
+      document.getElementById('link-download').innerHTML = 'loading...';
+      const code = document.getElementById("linkcode").value;
+      fetch(window.location.href + 'get/' + code)
+      .then(res => {
+        res.text().then(data => {
+          document.getElementById('link-download').innerHTML = data;
+        })
+      })
+      .catch(err => console.log(err));
+    }
+  </script>
+</head>
+
+<body>
+  <div id="container">
+    <h1>Get Link Fshare Vippromax</h1>
+    <p><i>by</i> <b>manhsuper171@gmail.com</b></p>
+    <p id="link-download">Nhập code file cần tải.<br> 
+      VD: https://www.fshare.vn/file/<b>LVCSNN3554RA</b>?token=1612146449<br>
+      Nhập <b>LVCSNN3554RA</b>. Giới hạn 2 lần get / 15 phút.
+    </p>
+    <div class="form">
+      <input type="text" value="" id="linkcode"/>
+      <button onclick="get()">Get</button>
+    </div>
+  </div>
+</body>
+
+</html>
