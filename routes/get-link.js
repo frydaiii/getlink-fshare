@@ -18,7 +18,7 @@ checkLink = async function (req, res, next) {
     else res.status(404).send("File not found.");
 }
 
-router.get('/:linkcode', checkLink, limiter, async (req, res) => {
+router.get('/:linkcode', checkLink, async (req, res) => {
     let token = await get.key(client, "token");
     let cookie = await get.key(client, "cookie");
     const linkcode = req.params.linkcode;
