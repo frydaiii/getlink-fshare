@@ -1,8 +1,5 @@
-'use strict'
-
-const redis = require('redis');
-const client = redis.createClient();
-const get = require('../services/redis-get');
+const client = require('../services/redis-command').client;
+const get = require('../services/redis-command').get;
 const Options = require('../methods/request-options');
 const fetch = require('node-fetch');
 const cookie = get.key(client, "cookie");

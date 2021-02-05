@@ -16,10 +16,12 @@
             document.getElementById('note').innerHTML = '';
             document.getElementById('link-download').innerHTML = 'Download';
             document.getElementById('link-download').href = data;
-          })
-        } else if (res.status == 404) {
-          document.getElementById('note').innerHTML = 'Không tìm thấy file';
-        } else document.getElementById('note').innerHTML = 'Lỗi';
+          });
+        } else {
+          res.text().then(data => {
+            document.getElementById('note').innerHTML = data;
+          });
+        }
       })
       .catch(err => console.log(err));
     }

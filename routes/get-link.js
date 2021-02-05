@@ -1,20 +1,19 @@
 const express = require('express');
 const router = express.Router();
-const redis = require('redis');
-const client = redis.createClient();
 const fetch = require('node-fetch');
 const rateLimit = require('express-rate-limit');
 const limiter = rateLimit({
     windowMs: 15 * 60 * 1000,
     max: 2,
-    message: 'Đã vượt quá giới hạn tải'
+    message: 'Đã nói 15 phút tải được 2 lần thôi'
 });
 
-const get = require('../services/redis-get');//get value from redis
+const get = require('../services/redis-command').get;
+const client = require('../services/redis-command').client;
 const login = require('../services/login');
 const logout = require('../services/logout');
 const getDownloadLink = require('../services/get-download-link');
-const update = require('../services/update-token-cookie-currentacc');
+const update = require('../services/redis-command').set.mset;
 const logger = require('../methods/logger');
 
 checkLink = async function (req, res, next) {
@@ -51,7 +50,7 @@ router.get('/:linkcode', checkLink, limiter, async (req, res) => {
 
             if (current == accounts.length - 1) {
                 await logger.info('out of storage per day');
-                res.status(200).send('da het luu luong tai cua hom nay');
+                res.status(100).send('Account hết lưu lượng cmnr, mai thử lại nhé');
             }
             else {
                 await logout(cookie);

@@ -1,8 +1,6 @@
 const schedule = require('node-schedule');
-const redis = require('redis');
+const client = require('../services/redis-command').client;
 
 schedule.scheduleJob('0 0 0 * * *', () => {
-    const client = redis.createClient();
     client.set("current", "-1");
-    client.quit();
 });
