@@ -6,7 +6,8 @@ const fetch = require('node-fetch');
 const rateLimit = require('express-rate-limit');
 const limiter = rateLimit({
     windowMs: 15 * 60 * 1000,
-    max: 2
+    max: 2,
+    message: 'Đã vượt quá giới hạn tải'
 });
 
 const get = require('../services/redis-get');//get value from redis
