@@ -12,7 +12,7 @@ async function login(token, cookie, email, password) {
     form.append('_csrf-app', token);
     form.append('LoginForm[email]', email);
     form.append('LoginForm[password]', password);
-    form.append('LoginForm[rememberMe]', 0);
+    form.append('LoginForm[rememberMe]', 1);
 
     const options = new Options.POST(form, cookie);
 

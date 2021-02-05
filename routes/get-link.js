@@ -38,6 +38,7 @@ router.get('/:linkcode', checkLink, limiter, async (req, res) => {
             link = req.protocol + '://' + req.get('host') + '/redirect.html?link=' + encodeURIComponent(base64link);
             const shortenRes = await fetch('https://megaurl.in/api?api=6137549b1c06c25a2153b4a10f050643aef11f34&url=' + link);
             const shorten = await shortenRes.json();
+
             if (shorten.status == 'error') logger.error('shorten url error: ' + shorten.message);
             else logger.info('shortenUrl: ' + shorten.shortenedUrl);
             res.status(200).send(shorten.shortenedUrl);
@@ -54,11 +55,14 @@ router.get('/:linkcode', checkLink, limiter, async (req, res) => {
             else {
                 await logout(cookie);
                 await logger.info('logging in with different account...');
+
                 current++;
+
                 const email = accounts[current].email;
                 const password = accounts[current].password;
                 [token, cookie] = await login(email, password);
                 const data = ["token", token, "cookie", cookie, "current", current];
+                
                 await update(client, data);
             }
         }
