@@ -34,7 +34,7 @@ router.get('/:linkcode', checkLink, limiter, async (req, res) => {
     let running = true;
     while (running) {
         let link = await getDownloadLink(token, cookie, linkcode).catch(err => logger.error('get link failed: ' + err));
-        if (link) {
+        if (typeof link === 'string') {
             const base64link = new Buffer.from(link).toString('base64');
             link = req.protocol + '://' + req.get('host') + '/redirect.html?link=' + encodeURIComponent(base64link);
             const shortenRes = await fetch('https://megaurl.in/api?api=6137549b1c06c25a2153b4a10f050643aef11f34&url=' + link);
