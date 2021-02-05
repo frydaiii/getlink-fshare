@@ -13,3 +13,4 @@ v1.3 add limit bandwidth to download router & set remember login<br>
 v1.4 fix file corrupt after download, set limit to file size, add message to rate limit<br>
 v1.4.1 fix buffer error at get-link router & updata index.html<br>
 v1.4.2 add timestamp to logger and update its format<br>
+v1.4.3 fix readme<br>
