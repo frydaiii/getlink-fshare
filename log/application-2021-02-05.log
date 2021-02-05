@@ -1,21 +1,4 @@
-{"message":"::ffff:117.5.155.109 GET /get/LVCSNN3554RA","level":"info"}
-{"message":"getting download link...","level":"info"}
-{"message":"get link failed: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3","level":"error"}
-{"message":"::ffff:117.5.155.109 GET /get/LVCSNN3554RA","level":"info"}
-{"message":"getting download link...","level":"info"}
-{"message":"get link failed: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3","level":"error"}
-{"message":"logging out","level":"info"}
-{"message":"redirect link: https://www.fshare.vn/site/login","level":"info"}
-{"message":"status: 200","level":"info"}
-{"message":"logging in with different account...","level":"info"}
-{"message":"getting token and cookie...","level":"info"}
-{"message":"YY6CR8GRTBFddM-SNqvHtmk0z1tEuKG2L9LVPJYljVYu9vgqtMU2V2QMguJgnKXTHmeuKDTs0_NBtY9GwGvsAQ==\nfshare-app=77u6hjlj0t5p7o4icjaolqle4s","level":"info"}
-{"message":"logging in ...","level":"info"}
-{"message":"status: 302","level":"info"}
-{"message":"redirect link: https://www.fshare.vn/","level":"info"}
-{"message":"status: 302","level":"info"}
-{"message":"redirect link: https://www.fshare.vn/file/manager","level":"info"}
-{"message":"status: 200","level":"info"}
-{"message":"getting download link...","level":"info"}
-{"message":"https://download040.fshare.vn/dl/BohrvgYangbPAFYgg7Se1yu1+9aNNx1YJqRb+HGgumLtzR+Q26XWMReseq7LGutycFaKeV80Nye9P514/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso","level":"info"}
-{"message":"shortenUrl: http://megaurl.in/POxzFU","level":"info"}
+2021-02-05T08:53:30.984Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-05T08:53:30.986Z info: getting download link...
+2021-02-05T08:53:32.990Z info: https://download040.fshare.vn/dl/St9QN284AQn-+TPvh+9dkqR-QOl1AHLoJZc1zHDiUpWf72DjS75JKRsrZNbTaHexseS-c706aKfcxpEA/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso
+2021-02-05T08:53:34.409Z info: shortenUrl: http://megaurl.in/IOGJT
