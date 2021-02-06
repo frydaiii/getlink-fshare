@@ -34,3 +34,36 @@
 2021-02-05T13:29:29.573Z info: getting download link...
 2021-02-05T13:29:30.400Z info: https://download024.fshare.vn/dl/+7vricOvnJiOkylT7HpaV37zWIKFVKMn7VYPdtWW9xkkANbxdkdoATMhPeWMmhC6tScZHhTO8zDuzptZ/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
 2021-02-05T13:29:33.180Z info: shortenUrl: http://megaurl.in/E2SafN9
+2021-02-05T16:19:03.221Z info: ::ffff:123.27.17.195 GET /get/LVCSNN3554RA
+2021-02-05T16:19:03.222Z info: getting download link...
+2021-02-05T16:19:03.855Z info: https://download802.fshare.vn/dl/WRQdVmF6U96WrV79RGMNJSLPnVLJnoETu+0knUzK0HOghkc+TFTa0BERS-QHp5LuMcK+OcDysLPL1dWy/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso
+2021-02-05T16:19:05.411Z info: shortenUrl: http://megaurl.in/PBGZE
+2021-02-05T16:22:19.934Z info: ::ffff:123.27.17.195 GET /get/LVCSNN3554RA
+2021-02-05T16:22:19.934Z info: getting download link...
+2021-02-05T16:22:30.922Z info: https://download802.fshare.vn/dl/zdu9Ns7eaDfkqgXWPiJZez6GWNMNIDN5JPvidjRhrUdW0VAyVCPknqotVxz-L-oT-8Hofctgvjcfbf6F/%5BFullcrackpc.com%5D%20Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX.iso
+2021-02-05T16:22:32.439Z info: shortenUrl: http://megaurl.in/2lTV
+2021-02-05T16:30:37.007Z info: ::ffff:123.27.17.195 GET /get/4PZKLZYKNA7U
+2021-02-05T16:30:37.007Z info: getting download link...
+2021-02-05T16:30:37.309Z info: undefined
+2021-02-05T16:30:37.310Z error: get link failed: TypeError: Cannot read property 'slice' of undefined
+2021-02-05T16:30:37.311Z info: logging out
+2021-02-05T16:30:47.669Z info: redirect link: https://www.fshare.vn/
+2021-02-05T16:30:47.979Z info: status: 200
+2021-02-05T16:30:47.979Z info: logging in with different account...
+2021-02-05T16:30:47.980Z info: getting token and cookie...
+2021-02-05T16:30:48.293Z info: D6DPfNfdmJKsKn67r09bRmI2H5khe17JRmMiCq3EX9N-1Jw4562gpchhStPiAj4iBG51qlIPFbF3VVJS_aAr5Q==
+fshare-app=n3neh4fq3lonpv0i389t0pjfea
+2021-02-05T16:30:48.294Z info: logging in ...
+2021-02-05T16:30:59.943Z info: status: 302
+2021-02-05T16:30:59.943Z info: redirect link: https://www.fshare.vn/
+2021-02-05T16:31:00.189Z info: status: 302
+2021-02-05T16:31:00.189Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-05T16:31:10.663Z info: status: 200
+2021-02-05T16:31:10.666Z info: getting download link...
+2021-02-05T16:31:11.366Z info: undefined
+2021-02-05T16:31:11.366Z error: get link failed: TypeError: Cannot read property 'slice' of undefined
+2021-02-05T16:31:11.367Z info: out of storage per day
+2021-02-05T16:31:11.367Z info: getting download link...
+2021-02-05T16:31:11.993Z info: undefined
+2021-02-05T16:31:11.994Z error: get link failed: TypeError: Cannot read property 'slice' of undefined
+2021-02-05T16:31:11.994Z info: out of storage per day

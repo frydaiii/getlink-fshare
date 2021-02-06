@@ -1,0 +1,92 @@
+2021-02-06T06:03:25.295Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RB
+2021-02-06T06:03:25.297Z info: getting download link...
+2021-02-06T06:03:25.602Z error: get-link router: Error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-06T06:04:10.818Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RB
+2021-02-06T06:04:10.819Z info: getting download link...
+2021-02-06T06:04:11.190Z error: get-link router: Error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-06T06:08:55.706Z info: ::ffff:117.5.155.109 GET /get/5MDO2YCMRQ56
+2021-02-06T06:08:55.707Z info: getting download link...
+2021-02-06T06:08:56.067Z error: get-link router: Error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-06T06:21:44.996Z info: ::ffff:117.5.155.109 GET /get/5MDO2YCMRQ57
+2021-02-06T06:21:44.998Z info: getting download link...
+2021-02-06T06:21:45.332Z error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-06T06:21:45.334Z info: logging out
+2021-02-06T06:21:45.596Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-06T06:21:45.895Z info: status: 200
+2021-02-06T06:21:45.895Z info: logging in with different account...
+2021-02-06T06:21:45.896Z info: getting token and cookie...
+2021-02-06T06:21:46.193Z info: DlV45XBKmFriVVw_rH_E4-X0An2b0N0yzIVeY8yceqJ0PRq8OwDxMNUNcW3dKbCWqsJjBfaal1OB1AQQh6Uj8Q==
+fshare-app=bq27ugcj2q3h3it1r3k5g1ui84
+2021-02-06T06:21:46.193Z info: logging in ...
+2021-02-06T06:21:47.953Z info: status: 302
+2021-02-06T06:21:47.953Z info: redirect link: https://www.fshare.vn/
+2021-02-06T06:21:48.218Z info: status: 302
+2021-02-06T06:21:48.218Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-06T06:21:48.566Z info: status: 200
+2021-02-06T06:21:48.570Z info: getting download link...
+2021-02-06T06:21:48.853Z error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token T in JSON at position 0
+2021-02-06T06:21:48.854Z info: logging out
+2021-02-06T06:21:49.141Z info: redirect link: https://www.fshare.vn/
+2021-02-06T06:21:49.436Z info: status: 200
+2021-02-06T06:21:49.436Z info: logging in with different account...
+2021-02-06T06:21:49.436Z info: getting token and cookie...
+2021-02-06T06:21:49.695Z info: erXnpeTMzDEVnH4qw_6HDrGhVU68G-SoByvTdIV0MEs5xI-U0pqcaGDsM36yl91exuQDAs1zgZt0YYo49TgBDA==
+fshare-app=ggbbpu32drn0id0r4mn7ja768n
+2021-02-06T06:21:49.695Z info: logging in ...
+2021-02-06T06:21:51.593Z info: status: 302
+2021-02-06T06:21:51.594Z info: redirect link: https://www.fshare.vn/
+2021-02-06T06:21:51.808Z info: status: 302
+2021-02-06T06:21:51.808Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-06T06:21:53.496Z info: status: 200
+2021-02-06T06:21:53.500Z info: getting download link...
+2021-02-06T06:21:53.923Z error: get-download-link service: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token T in JSON at position 0
+2021-02-06T06:21:53.924Z info: out of storage per day
+2021-02-06T06:22:34.355Z info: ::ffff:117.5.155.109 GET /get/5MDO2YCMRQ56
+2021-02-06T06:22:34.356Z info: getting download link...
+2021-02-06T06:22:35.050Z error: get-download-link service: Error: https://www.fshare.vn/download/redirect?id=5l7rG9&code=5MDO2YCMRQ56
+2021-02-06T06:22:35.051Z info: out of storage per day
+2021-02-06T06:31:47.551Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T06:31:47.553Z info: getting download link...
+2021-02-06T06:31:48.254Z error: get-download-link service, link error: Error: https://www.fshare.vn/download/redirect?id=SKVVoR&code=LVCSNN3554RA
+2021-02-06T06:31:48.255Z info: out of storage per day
+2021-02-06T06:35:31.485Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T06:35:31.485Z info: getting download link...
+2021-02-06T06:35:32.091Z error: get-download-link service, link error: Error: https://www.fshare.vn/download/redirect?id=xtzhcP&code=LVCSNN3554RA
+2021-02-06T06:35:32.092Z info: out of storage per day
+2021-02-06T06:37:51.786Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T06:37:51.788Z info: getting download link...
+2021-02-06T06:37:52.501Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=ubbGyx&code=LVCSNN3554RA
+2021-02-06T06:37:52.502Z info: out of storage per day
+2021-02-06T06:40:53.524Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T06:40:53.525Z info: getting download link...
+2021-02-06T06:41:04.226Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=BYknyL&code=LVCSNN3554RA
+2021-02-06T06:41:04.227Z info: out of storage per day
+2021-02-06T06:41:20.519Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T06:41:20.519Z info: getting download link...
+2021-02-06T06:41:21.153Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=q0S8bx&code=LVCSNN3554RA
+2021-02-06T06:41:21.154Z info: out of storage per day
+2021-02-06T07:26:43.130Z info: ::ffff:117.5.155.109 GET /get/LVCSNN3554RA
+2021-02-06T07:26:43.132Z info: getting download link...
+2021-02-06T07:26:44.916Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=BVtxuC&code=LVCSNN3554RA
+2021-02-06T07:26:44.918Z info: logging out
+2021-02-06T07:26:45.196Z info: redirect link: https://www.fshare.vn/
+2021-02-06T07:26:45.460Z info: status: 200
+2021-02-06T07:26:45.461Z info: logging in with different account...
+2021-02-06T07:26:45.461Z info: getting token and cookie...
+2021-02-06T07:26:45.706Z info: QVBqFnCqlkgVliQN-gye8LLybRRxpErW6gALzsfDs8QPAwFjFYfBBFzBQUiOfK-1ypA5eUHyPLLfS1yYk4DXrg==
+fshare-app=2n0s0qbl1thcb9oeouvvukks9c
+2021-02-06T07:26:45.706Z info: logging in ...
+2021-02-06T07:26:47.375Z info: status: 302
+2021-02-06T07:26:47.375Z info: redirect link: https://www.fshare.vn/
+2021-02-06T07:26:47.577Z info: status: 302
+2021-02-06T07:26:47.578Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-06T07:26:47.965Z info: status: 200
+2021-02-06T07:26:47.970Z info: getting download link...
+2021-02-06T07:30:27.127Z info: ::ffff:117.5.155.109 GET /get/RB1XCMTY39SX
+2021-02-06T07:30:27.129Z info: getting download link...
+2021-02-06T07:32:36.532Z info: ::ffff:117.5.155.109 GET /get/RB1XCMTY39SX
+2021-02-06T07:32:36.534Z info: getting download link...
+2021-02-06T07:36:18.342Z info: ::ffff:117.5.155.109 GET /get/RB1XCMTY39SX
+2021-02-06T07:36:18.344Z info: getting download link...
+2021-02-06T07:36:56.242Z info: ::ffff:117.5.155.109 GET /get/RB1XCMTY39SX
+2021-02-06T07:36:56.243Z info: getting download link...

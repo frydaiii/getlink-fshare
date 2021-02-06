@@ -6,20 +6,28 @@ const Options = require('../methods/request-options');
 const logger = require('../methods/logger');
 
 async function getDownloadLink(token, cookie, linkCode) {
-    await logger.info('getting download link...');
-    const form = new FormData();
-    form.append('_csrf-app', token);
-    form.append('linkcode', linkCode);
-    form.append('withFcode5', '0');
+    try {
+        await logger.info('getting download link...');
+        const form = new FormData();
+        form.append('_csrf-app', token);
+        form.append('linkcode', linkCode);
+        form.append('withFcode5', '0');
 
-    const options = new Options.POST(form, cookie);
+        const options = new Options.POST(form, cookie);
+        const response = await fetch('https://www.fshare.vn/download/get', options);
 
-    const response = await fetch('https://www.fshare.vn/download/get', options);
-    const jsonResponse = await response.json();
+        try {
+            const jsonResponse = await response.json();
+            if (jsonResponse.url.slice(0, 16) != 'https://download') throw new Error(jsonResponse.url);
+            return [jsonResponse.name, jsonResponse.url];
+        } catch (err) {
+            await logger.error('get-download-link service, link err: ' + err);
+            return '';
+        }
 
-    await logger.info(jsonResponse.url);
-    if (jsonResponse.url.slice(0, 16) != 'https://download') throw new Error('wrong download url');
-    return jsonResponse.url;
+    } catch (err) {
+        throw new Error('get-download-link service: ' + err);
+    }
 }
 
 module.exports = getDownloadLink;

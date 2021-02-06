@@ -17,7 +17,8 @@
     <script>
         const params = new URLSearchParams(window.location.search);
         const base64link = params.get('link');
-        document.getElementById('download').href = '/download?link=' + base64link;
+        const base64name = params.get('filename');
+        document.getElementById('download').href = '/download?filename=' + base64name + '&link=' + base64link;
     </script>
 </body>
 </html>

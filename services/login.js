@@ -23,34 +23,39 @@ async function login(token, cookie, email, password) {
 }
 
 async function main(email, password) {
-    await logger.info('getting token and cookie...');
-    let [token, cookie] = await originTokenCookie();
-    await logger.info(token + '\n' + cookie);
-    await logger.info('logging in ...');
-    let response = await login(token, cookie, email, password);
-    await logger.info('status: ' + response.status);
+    try {
 
-    
-    while (response.status > 300 && response.status < 400) {
-        if (response.headers.get('set-cookie')) {       
-            const setCookie = response.headers.get('set-cookie');
-            const cookieBegin = setCookie.search('fshare');
-            const cookieEnd = setCookie.search(';');
-            cookie = setCookie.slice(cookieBegin, cookieEnd);
-        }
-
-        //get redirect link
-        const redirectLink = response.headers.get('location');
-        await logger.info('redirect link: ' + redirectLink);
-        const options = new Options.GET(cookie);
-        response = await fetch(redirectLink, options);
+        await logger.info('getting token and cookie...');
+        let [token, cookie] = await originTokenCookie();
+        await logger.info(token + '\n' + cookie);
+        await logger.info('logging in ...');
+        let response = await login(token, cookie, email, password);
         await logger.info('status: ' + response.status);
+        
+        
+        while (response.status > 300 && response.status < 400) {
+            if (response.headers.get('set-cookie')) {       
+                const setCookie = response.headers.get('set-cookie');
+                const cookieBegin = setCookie.search('fshare');
+                const cookieEnd = setCookie.search(';');
+                cookie = setCookie.slice(cookieBegin, cookieEnd);
+            }
+            
+            //get redirect link
+            const redirectLink = response.headers.get('location');
+            await logger.info('redirect link: ' + redirectLink);
+            const options = new Options.GET(cookie);
+            response = await fetch(redirectLink, options);
+            await logger.info('status: ' + response.status);
+        }
+        
+        let plainHtml = await response.text();
+        token = getToken(plainHtml);
+        
+        return [token, cookie]
+    } catch (err) {
+        throw new Error('login service: ' + err);
     }
-   
-    let plainHtml = await response.text();
-    token = getToken(plainHtml);
-    
-    return [token, cookie]
 }
 
 module.exports = main;

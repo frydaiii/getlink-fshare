@@ -6,6 +6,11 @@ redis-server
 npm start
 ```
 ## update log
+### v1.5.1
+- update err notification in index.html
+- add limit filesize & update validateLink to get-link router
+- move limiter from get-link router to download router
+- handle error by try...catch & next(error)
 ### v1.5 
 - add limit to number of visitors
 - update code about redis
