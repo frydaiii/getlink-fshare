@@ -19,6 +19,7 @@ async function getDownloadLink(token, cookie, linkCode) {
         try {
             const jsonResponse = await response.json();
             if (jsonResponse.url.slice(0, 16) != 'https://download') throw new Error(jsonResponse.url);
+            logger.info(jsonResponse.url);
             return [jsonResponse.name, jsonResponse.url];
         } catch (err) {
             await logger.error('get-download-link service, link err: ' + err);

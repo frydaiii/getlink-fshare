@@ -1,6 +1,12 @@
 const express = require('express');
 const router = express.Router();
 const fetch = require('node-fetch');
+const rateLimit = require('express-rate-limit');
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000,
+    max: 2,
+    message: 'Đã nói 15 phút tải được 2 lần thôi'
+});
 
 const get = require('../services/redis-command').get;
 const client = require('../services/redis-command').client;
@@ -23,11 +29,11 @@ const validateLink = async function (req, res, next) {
 
     // validate
     if (fileExist == false) res.status(404).send('Không tìm thấy file');
-    else if (filesize > 5) res.status(406).send('Chỉ tải file dưới 5 Gb');
+    else if (filesize > 6) res.status(406).send('Chỉ tải file dưới 6 Gb');
     else next();
 }
 
-router.get('/:linkcode', validateLink, async (req, res, next) => {
+router.get('/:linkcode', limiter, validateLink, async (req, res, next) => {
     try {
         let token = await get.key(client, "token");
         let cookie = await get.key(client, "cookie");
@@ -58,7 +64,7 @@ router.get('/:linkcode', validateLink, async (req, res, next) => {
                 if (current == accounts.length - 1) {
                     running = false;
                     await logger.info('out of storage per day');
-                    res.status(202).send('Account hết lưu lượng cmnr, mai thử lại nhé');
+                    res.status(202).send('Account hết lưu lượng cmnr, mai thử lại nhé :))');
                 }
                 else {
                     await logout(cookie);

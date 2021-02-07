@@ -90,3 +90,246 @@ fshare-app=2n0s0qbl1thcb9oeouvvukks9c
 2021-02-06T07:36:18.344Z info: getting download link...
 2021-02-06T07:36:56.242Z info: ::ffff:117.5.155.109 GET /get/RB1XCMTY39SX
 2021-02-06T07:36:56.243Z info: getting download link...
+2021-02-06T08:40:04.101Z info: ::ffff:14.190.136.84 GET /get/WWM5K4K886TE
+2021-02-06T08:40:04.104Z info: getting download link...
+2021-02-06T12:43:19.184Z info: ::ffff:123.27.17.195 GET /get/3B5FEI2J62HWVDZ
+2021-02-06T12:43:19.186Z info: getting download link...
+2021-02-06T13:22:07.326Z info: ::ffff:117.5.155.109 GET /get/3B5FEI2J62HWVDZ
+2021-02-06T13:22:07.327Z info: getting download link...
+2021-02-06T13:22:11.009Z info: start download
+2021-02-06T13:25:31.786Z info: ::ffff:117.5.155.109 GET /get/PUUFAT3NSOPC
+2021-02-06T13:25:31.789Z info: getting download link...
+2021-02-06T13:25:40.410Z info: start download
+2021-02-06T13:26:12.547Z info: ::ffff:117.5.155.109 GET /get/PUUFAT3NSOPC
+2021-02-06T13:26:12.551Z info: getting download link...
+2021-02-06T13:44:46.257Z info: ::ffff:117.5.155.109 GET /get/YIE7IPREGUK1
+2021-02-06T13:44:46.257Z info: getting download link...
+2021-02-06T13:44:50.169Z info: start download
+2021-02-06T13:46:32.805Z info: ::ffff:117.5.155.109 GET /get/YIE7IPREGUK1
+2021-02-06T13:46:32.805Z info: getting download link...
+2021-02-06T13:46:35.901Z info: start download
+2021-02-06T13:52:41.689Z info: ::ffff:171.236.119.69 GET /get/4K6VNBDNV6WQ
+2021-02-06T13:52:41.691Z info: getting download link...
+2021-02-06T13:52:45.326Z info: start download
+2021-02-06T13:57:02.074Z info: ::ffff:117.5.155.109 GET /get/YIE7IPREGUK1
+2021-02-06T13:57:02.077Z info: getting download link...
+2021-02-06T13:57:15.856Z info: ::ffff:14.190.137.124 GET /get/YIE7IPREGUK1
+2021-02-06T13:57:15.858Z info: getting download link...
+2021-02-06T13:57:59.150Z info: start download
+2021-02-06T13:58:56.556Z info: ::ffff:171.236.119.69 GET /get/7NH5ZCFSGK71
+2021-02-06T13:58:56.558Z info: getting download link...
+2021-02-06T13:59:10.934Z info: start download
+2021-02-06T14:00:20.208Z info: ::ffff:117.5.155.109 GET /get/YIE7IPREGUK1
+2021-02-06T14:00:20.211Z info: getting download link...
+2021-02-06T14:02:36.942Z info: ::ffff:117.5.155.109 GET /get/YIE7IPREGUK1
+2021-02-06T14:02:36.942Z info: getting download link...
+2021-02-06T14:02:39.006Z info: ::ffff:171.236.119.69 GET /get/4K6VNBDNV6WQ
+2021-02-06T14:02:39.006Z info: getting download link...
+2021-02-06T14:03:19.448Z info: ::ffff:79.141.162.81 GET /get/4K6VNBDNV6WQ
+2021-02-06T14:03:19.448Z info: getting download link...
+2021-02-06T14:03:24.478Z info: start download
+2021-02-06T14:09:44.933Z info: ::ffff:171.234.194.188 GET /get/R7GEFKCQGPXBH52
+2021-02-06T14:09:44.934Z info: getting download link...
+2021-02-06T14:09:49.961Z info: ::ffff:171.234.194.188 GET /get/R7GEFKCQGPXBH52
+2021-02-06T14:09:49.962Z info: getting download link...
+2021-02-06T14:10:40.425Z info: ::ffff:1.54.5.191 GET /get/PW4J3HY5GNJK
+2021-02-06T14:10:40.425Z info: getting download link...
+2021-02-06T14:10:46.461Z info: start download
+2021-02-06T14:12:45.993Z info: ::ffff:171.236.119.69 GET /get/4K6VNBDNV6WQ
+2021-02-06T14:12:45.994Z info: getting download link...
+2021-02-06T14:13:02.834Z info: ::ffff:123.20.218.135 GET /get/CZO4AV72FOW7
+2021-02-06T14:13:02.834Z info: getting download link...
+2021-02-06T14:13:06.701Z info: start download
+2021-02-06T14:13:25.029Z info: start download
+2021-02-06T14:13:25.622Z info: start download
+2021-02-06T14:13:32.370Z info: start download
+2021-02-06T14:18:49.734Z info: ::ffff:171.236.119.69 GET /get/AJK16HLBIE57
+2021-02-06T14:18:49.736Z info: getting download link...
+2021-02-06T14:25:53.696Z info: ::ffff:171.236.119.69 GET /get/AJK16HLBIE57
+2021-02-06T14:25:53.697Z info: getting download link...
+2021-02-06T14:34:42.224Z info: ::ffff:116.109.144.109 GET /get/RMLT1DI75UMC
+2021-02-06T14:34:42.224Z info: getting download link...
+2021-02-06T14:34:48.844Z info: start download
+2021-02-06T14:35:03.527Z error: download router: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2021-02-06T14:35:03.634Z info: start download
+2021-02-06T14:35:04.599Z info: start download
+2021-02-06T14:35:13.645Z info: start download
+2021-02-06T14:45:39.225Z info: start download
+2021-02-06T14:45:40.022Z info: start download
+2021-02-06T14:50:34.464Z info: ::ffff:171.236.119.69 GET /get/AJK16HLBIE57
+2021-02-06T14:50:34.472Z info: getting download link...
+2021-02-06T14:50:38.152Z info: start download
+2021-02-06T14:50:39.289Z info: start download
+2021-02-06T14:51:12.308Z info: ::ffff:171.236.119.69 GET /get/AJK16HLBIE57
+2021-02-06T14:51:12.309Z info: getting download link...
+2021-02-06T15:01:00.900Z info: ::ffff:171.236.119.69 GET /get/AJK16HLBIE57
+2021-02-06T15:01:00.900Z info: getting download link...
+2021-02-06T15:01:06.827Z info: start download
+2021-02-06T15:11:22.812Z info: ::ffff:117.5.219.167 GET /get/2CB8WODJALU6
+2021-02-06T15:11:22.814Z info: getting download link...
+2021-02-06T15:14:25.906Z info: ::ffff:14.254.243.173 GET /get/9KSY917KXRP2
+2021-02-06T15:14:25.906Z info: getting download link...
+2021-02-06T15:17:02.178Z info: ::ffff:171.236.119.69 GET /get/9YU2HX2467AJ
+2021-02-06T15:17:02.178Z info: getting download link...
+2021-02-06T15:17:23.894Z info: start download
+2021-02-06T15:17:24.404Z info: start download
+2021-02-06T15:23:07.899Z info: ::ffff:27.66.32.106 GET /get/TQ1WBBFA2T
+2021-02-06T15:23:07.901Z info: getting download link...
+2021-02-06T15:23:28.017Z info: start download
+2021-02-06T15:23:32.010Z info: start download
+2021-02-06T15:27:50.778Z info: ::ffff:171.236.119.69 GET /get/3X6S7BQFLJK1
+2021-02-06T15:27:50.781Z info: getting download link...
+2021-02-06T15:27:59.734Z info: start download
+2021-02-06T15:28:00.601Z info: start download
+2021-02-06T15:30:42.403Z info: ::ffff:14.190.137.124 GET /get/YIE7IPREGUK1
+2021-02-06T15:30:42.406Z info: getting download link...
+2021-02-06T15:32:48.234Z info: ::ffff:27.66.32.106 GET /get/LKPNU1B6NG4WXP
+2021-02-06T15:32:48.237Z info: getting download link...
+2021-02-06T15:33:04.994Z info: start download
+2021-02-06T15:33:05.553Z info: start download
+2021-02-06T15:34:43.745Z info: ::ffff:14.190.137.124 GET /get/YIE7IPREGUK1
+2021-02-06T15:34:43.747Z info: getting download link...
+2021-02-06T15:39:36.799Z info: ::ffff:27.66.32.106 GET /get/K72EKDUUHJ1A
+2021-02-06T15:39:36.802Z info: getting download link...
+2021-02-06T15:44:56.320Z info: ::ffff:1.52.235.90 GET /get/L4I19ZXG651C
+2021-02-06T15:44:56.320Z info: getting download link...
+2021-02-06T15:45:01.720Z info: start download
+2021-02-06T15:45:02.285Z info: start download
+2021-02-06T15:45:50.449Z info: ::ffff:14.169.181.213 GET /get/5J2DELHFDA24
+2021-02-06T15:45:50.452Z info: getting download link...
+2021-02-06T15:45:57.061Z info: start download
+2021-02-06T15:46:01.099Z info: start download
+2021-02-06T15:46:18.403Z info: ::ffff:171.224.133.240 GET /get/L4I19ZXG651C
+2021-02-06T15:46:18.406Z info: getting download link...
+2021-02-06T15:46:46.788Z info: ::ffff:27.2.72.241 GET /get/4BXG8HHNMWF2Q8O
+2021-02-06T15:46:46.791Z info: getting download link...
+2021-02-06T15:47:04.627Z info: ::ffff:185.128.24.187 GET /get/K84OQFOSPTR2
+2021-02-06T15:47:04.630Z info: getting download link...
+2021-02-06T15:47:16.700Z info: start download
+2021-02-06T15:47:35.248Z info: start download
+2021-02-06T15:48:00.319Z info: start download
+2021-02-06T15:49:00.175Z info: ::ffff:27.2.72.241 GET /get/SOSOQFKCO5C342L
+2021-02-06T15:49:00.177Z info: getting download link...
+2021-02-06T15:59:39.483Z info: ::ffff:171.236.119.69 GET /get/RMLT1DI75UMC
+2021-02-06T15:59:39.486Z info: getting download link...
+2021-02-06T16:00:00.650Z info: start download
+2021-02-06T16:00:01.180Z info: start download
+2021-02-06T16:01:21.810Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:01:21.812Z info: getting download link...
+2021-02-06T16:01:44.147Z info: start download
+2021-02-06T16:09:19.502Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:09:19.504Z info: getting download link...
+2021-02-06T16:09:23.523Z info: start download
+2021-02-06T16:09:58.530Z info: start download
+2021-02-06T16:13:15.248Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:13:15.250Z info: getting download link...
+2021-02-06T16:13:29.134Z error: download router: ReferenceError: Cannot access 'filename' before initialization
+2021-02-06T16:14:26.725Z info: start download
+2021-02-06T16:16:35.690Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:16:35.692Z info: getting download link...
+2021-02-06T16:16:39.337Z info: start download
+2021-02-06T16:18:07.062Z info: start download
+2021-02-06T16:18:19.360Z info: start download
+2021-02-06T16:26:19.499Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:26:19.501Z info: getting download link...
+2021-02-06T16:26:22.687Z info: start download
+2021-02-06T16:31:00.564Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:31:00.566Z info: getting download link...
+2021-02-06T16:31:04.033Z info: start download
+2021-02-06T16:31:06.065Z info: download done
+2021-02-06T16:31:19.489Z info: start download
+2021-02-06T16:31:21.919Z info: download done
+2021-02-06T16:41:57.727Z info: ::ffff:117.5.155.109 GET /get/PUUFAT3NSOPC
+2021-02-06T16:41:57.729Z info: getting download link...
+2021-02-06T16:42:01.893Z info: start download
+2021-02-06T16:42:24.024Z info: download done
+2021-02-06T16:43:05.925Z info: start download
+2021-02-06T16:43:10.675Z info: download done
+2021-02-06T16:49:26.035Z info: start download
+2021-02-06T16:49:28.024Z info: download done
+2021-02-06T16:49:43.679Z info: ::ffff:117.5.155.109 GET /get/PW4J3HY5GNJK
+2021-02-06T16:49:43.681Z info: getting download link...
+2021-02-06T16:49:54.811Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:49:54.812Z info: getting download link...
+2021-02-06T16:49:56.687Z info: start download
+2021-02-06T16:49:58.765Z info: download done
+2021-02-06T16:50:01.398Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:50:01.399Z info: getting download link...
+2021-02-06T16:50:22.223Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:50:22.223Z info: getting download link...
+2021-02-06T16:50:49.522Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:50:49.523Z info: getting download link...
+2021-02-06T16:50:55.644Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:50:55.645Z info: getting download link...
+2021-02-06T16:52:13.645Z info: ::ffff:1.53.199.211 GET /get/GX26E9SZA6OO
+2021-02-06T16:52:13.646Z info: getting download link...
+2021-02-06T16:52:19.893Z info: start download
+2021-02-06T16:56:25.646Z info: ::ffff:1.53.199.211 GET /get/WUCSR7D1O5D5
+2021-02-06T16:56:25.651Z info: getting download link...
+2021-02-06T16:57:34.721Z info: download done
+2021-02-06T16:58:06.826Z info: start download
+2021-02-06T16:59:28.730Z info: download done
+2021-02-06T17:03:00.122Z info: start download
+2021-02-06T17:03:12.997Z info: download done
+2021-02-06T17:03:27.113Z info: ::ffff:1.53.199.211 GET /get/LPI5UMA82B38
+2021-02-06T17:03:27.114Z info: getting download link...
+2021-02-06T17:03:27.502Z info: https://download038.fshare.vn/dl/ZGBYoZ6Lc27WM-UJstFO-bLfyqCdafTCGJLYsYOE23fSGtIDSXXOgCWNXOeL70dgo-LfKC4gwouD-ytN/SMS%20Marketing%20c%C4%83n%20b%E1%BA%A3n.zip
+2021-02-06T17:03:35.905Z info: start download
+2021-02-06T17:05:03.237Z info: download done
+2021-02-06T17:06:22.153Z info: ::ffff:1.53.199.211 GET /get/L6ONYLU62FQ7
+2021-02-06T17:06:22.155Z info: getting download link...
+2021-02-06T17:06:22.464Z info: https://download038.fshare.vn/dl/vxCDr9C+UrpnJWtpqgIqBMYjXPsQvG5nnZY7Qvt9i1t2Xj1uS7+8PHOWTFki+LhCui5KGQ93D8FlCiGK/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20marketing%20online%20c%C6%A1%20b%E1%BA%A3n%20cho%20Startup%206%20th%C3%A1ng%20%C4%91%E1%BA%A7u.zip
+2021-02-06T17:06:31.116Z info: start download
+2021-02-06T17:15:05.317Z info: download done
+2021-02-06T17:19:39.686Z info: ::ffff:1.53.199.211 GET /get/3EFQ2UR2OZO4
+2021-02-06T17:19:39.689Z info: getting download link...
+2021-02-06T17:19:39.972Z info: https://download003.fshare.vn/dl/2QZGOFOFhUVd4ouhndPJP75ZhCjD8psjbomI8liFATbSoNflOVce1sy+GcDYPkMBvTxthy06mCMwzYZw/KH%C3%93A%20H%E1%BB%8CC%20SKETCHUP%20C%C6%A0%20B%E1%BA%A2N.zip
+2021-02-06T17:19:48.159Z info: start download
+2021-02-06T17:25:32.875Z info: download done
+2021-02-06T17:31:36.425Z info: ::ffff:1.53.199.211 GET /get/PW816L4K84OR
+2021-02-06T17:31:36.426Z info: getting download link...
+2021-02-06T17:31:36.708Z info: https://download041.fshare.vn/dl/jI76vhIZiv5zqknuyHPt4vQQ4M6w0qTd8V-IpDk6dO5XMLEdfJhHIOR91ig7ngLaLPqr3pLDIyQCTn6H/Lam%20video%20ban%20hang-20180712T090613Z-001.zip
+2021-02-06T17:31:44.601Z info: start download
+2021-02-06T17:35:59.795Z info: download done
+2021-02-06T17:39:39.853Z info: start download
+2021-02-06T17:40:25.747Z info: download done
+2021-02-06T17:41:09.119Z info: ::ffff:1.53.199.211 GET /get/27KXQNQHWS2M
+2021-02-06T17:41:09.122Z info: getting download link...
+2021-02-06T17:41:09.431Z info: https://download041.fshare.vn/dl/P6cUC7eApSB7i2YNxzQfD2Z-PMHtJ5oiOaDmN6I9-gFeYtPylIsWG5Th6mWjOdtxhmrurVrhpYHD-z5T/B%C3%AD%20quy%E1%BA%BFt%20ch%E1%BB%91t%20%C4%91%C6%A1n%20th%C3%A0nh%20c%C3%B4ng-20180710T100800Z-001.zip
+2021-02-06T17:42:16.646Z info: start download
+2021-02-06T17:49:47.456Z info: download done
+2021-02-06T22:17:05.498Z info: ::ffff:27.77.43.201 GET /get/9VDYEW2A1ZN2
+2021-02-06T22:17:05.498Z info: getting download link...
+2021-02-06T22:17:05.876Z info: https://download024.fshare.vn/dl/qdu8JipBZbxLdSOjMLa-g5pBWii2XY6KOZNBFq-VuXTBSlr5bYIwMjDZu91Jyv+vA3v7gRBfykouHlCC/SSNI-677~1.rar
+2021-02-06T22:26:53.256Z info: ::ffff:27.77.43.201 GET /get/9VDYEW2A1ZN2
+2021-02-06T22:26:53.257Z info: getting download link...
+2021-02-06T22:26:53.756Z info: https://download024.fshare.vn/dl/gz0BU2Yj48a-7taxkFPDN5mimnoDCYV8rL7IfY4MDUevHvVJ-uD12pAH4ZYRujDLztp5NWYjcOQx1316/SSNI-677~1.rar
+2021-02-06T22:38:45.722Z info: ::ffff:27.77.43.201 GET /get/9VDYEW2A1ZN2
+2021-02-06T22:38:45.722Z info: getting download link...
+2021-02-06T22:38:46.104Z info: https://download024.fshare.vn/dl/6YPDcmYnzVH0Okk2NFwGbX5hJjzlVX3IEil9lIH-O3KtebKQ4wH4zHljelR7B4WQZle2G5jxacYV827u/SSNI-677~1.rar
+2021-02-06T22:50:03.966Z info: ::ffff:27.67.182.16 GET /get/3J9EXA96UHJ2
+2021-02-06T22:50:03.966Z info: getting download link...
+2021-02-06T22:50:04.387Z info: https://download015.fshare.vn/dl/YT4zWxTXnvKAWSXRJK3gVUwlbhlzMYDkcgpt6-c3wN3lZ3j0PRQKdU8Rr3gUzVso2WB+UWm-Px41KkS1/Family.Guy.S12E02.Vestigial.Peter.1080p.NF.WEB-DL.DDP5.1.x264.mkv
+2021-02-06T22:50:37.614Z info: start download
+2021-02-06T22:50:41.064Z info: download done
+2021-02-06T22:50:56.038Z info: start download
+2021-02-06T22:50:57.844Z info: start download
+2021-02-06T22:50:58.211Z info: download done
+2021-02-06T22:50:58.282Z info: download done
+2021-02-06T22:51:14.340Z info: start download
+2021-02-06T22:51:14.771Z info: download done
+2021-02-06T22:51:21.350Z info: start download
+2021-02-06T22:51:22.546Z info: download done
+2021-02-06T23:08:16.510Z info: ::ffff:14.231.185.121 GET /get/27HMESK5PXBG
+2021-02-06T23:08:16.511Z info: getting download link...
+2021-02-06T23:08:16.934Z info: https://download037.fshare.vn/dl/fBhctoMQlxCc6QxvC4jC9vvjTNsa1MWnSI5NXR8Sl0JM7WjcwzJc4trkOLSyoMpFWxi3bpAFUGARFkT1/ipx588.Uncen.mp4
+2021-02-06T23:08:22.692Z info: start download
+2021-02-06T23:09:13.314Z info: ::ffff:14.231.185.121 GET /get/ZGZEQ8L4IVM6
+2021-02-06T23:09:13.317Z info: getting download link...
+2021-02-06T23:09:13.676Z info: https://download035.fshare.vn/dl/26PwQL+FsDkqECDnMEvFCdm9BxZtPnyK4jQH5ahZDgr0xVccQNUjrrtUbWmi-l7c4gzUi65XGb2gACCW/ipx581.Uncen.mp4
+2021-02-06T23:09:20.138Z info: start download
+2021-02-06T23:41:27.393Z info: download done
+2021-02-06T23:42:41.223Z info: start download
+2021-02-06T23:42:50.987Z info: download done
+2021-02-06T23:50:34.490Z info: start download
+2021-02-06T23:50:49.933Z info: download done

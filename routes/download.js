@@ -1,25 +1,20 @@
 const express = require('express');
 const router = express.Router();
 const fetch = require('node-fetch');
+const contentDisposition = require('content-disposition');
 const client = require('../services/redis-command').client;
 const incrKey = require('../services/redis-command').set.incr;
 const decrKey = require('../services/redis-command').set.decr;
+const getKey = require('../services/redis-command').get.key;
 const logger = require('../methods/logger');
-const rateLimit = require('express-rate-limit');
-const limiter = rateLimit({
-    windowMs: 15 * 60 * 1000,
-    max: 2,
-    message: 'Đã nói 15 phút tải được 2 lần thôi'
-});
 
-router.get('/', limiter, async (req, res, next) => {
+router.get('/', async (req, res, next) => {
     try {
-        let order = await incrKey(client, 'visitors').catch(err => next(err));
+        let order = await getKey(client, 'visitors').catch(err => next(err));
         order = Number(order);
         
-        if (order > 20) {
+        if (order > 8) {
             res.status(201).send('Server full, thử lại lúc khác nhé fen');
-            await decrKey(client, 'visitors').catch(err => next(err));
             return;
         }
 
@@ -28,13 +23,12 @@ router.get('/', limiter, async (req, res, next) => {
 
         if (!headResponse) {
             res.status(404).send('đù');
-            await decrKey(client, 'visitors').catch(err => next(err));
             return;
         }
 
-        const filename = new Buffer.from(req.query.filename, 'base64').toString('ascii');
+        let filename = new Buffer.from(req.query.filename, 'base64').toString('ascii');
 
-        fetch(link).then(file => {
+        fetch(link).then(async (file) => {
             // ----------limit stream--------------
             // file.body.on('data', chunk => {
             //     file.body.pause();
@@ -43,19 +37,21 @@ router.get('/', limiter, async (req, res, next) => {
             //         res.write(chunk);
             //     }, 4)
             // });
-            res.set('Content-Disposition', `attachment; filename=${filename}`);
+            logger.info('start download');
+            await incrKey(client, 'visitors');
+            res.set('Content-Disposition', contentDisposition(filename));
             file.body.pipe(res);
             file.body.on('end', async () => {
                 setTimeout(() => { res.status(200).end(); }, 100);
-                await decrKey(client, 'visitors').catch(err => next(err));
             });
-            res.on('close', () => {
+            res.on('close', async () => {
                 file.body.unpipe(res);
-                decrKey(client, 'visitors').catch(err => next(err));
+                logger.info('download done');
+                await decrKey(client, 'visitors');
             });
         });
     } catch (err) {
-        await logger.error('download router: ' + err);
+        logger.error('download router: ' + err);
         next(err);
     }
 });

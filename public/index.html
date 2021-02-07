@@ -2,9 +2,40 @@
 
 <head>
   <title>Get Link Fshare</title>
-  <meta name="description" content="get getlink leech fshare">
+  <meta name="description" content="get link fshare">
+  <meta name="google-site-verification" content="Fmg_9nf2EPkoyKFZMrkpd0cK7iqkUMsO4RNpQQLdzSg" />
   <link rel="stylesheet" href="./stylesheets/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LN2TKX1GM6"></script>
   <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LN2TKX1GM6');
+  </script>
+</head>
+
+<body>
+  <div id="container">
+    <h1>Get Link Fshare Vippromax</h1>
+    <h4><i>fb.com/getlinkfshare</i></h4>
+    <p><a href="" id="link-download" target="_blank"></a></p>
+    <p id="note">Nhập code file cần tải.<br> 
+      VD: https://www.fshare.vn/file/<b>LVCSNN3554RA</b>?token=1612146449<br>
+      Nhập <b>LVCSNN3554RA</b>. 
+    </p>
+    <p>
+      Giới hạn 6Gb/1 file và 2 lần get/15 phút. Tải lại trang để get tiếp.<br>
+      <b>Một số file bị lỗi tên bạn hãy đặt lại tên và thêm đuôi để tải về.</b>
+    </p>
+    <div class="form">
+      <input type="text" value="" id="linkcode"/>
+      <button onclick="get()" id="button">Get</button>
+    </div>
+  </div>
+
+  <script>
+    window.onload = init;
     function get() {
       document.getElementById('note').innerHTML = 'loading...';
       document.getElementById('button').style.visibility = 'hidden';
@@ -26,23 +57,6 @@
       .catch(err => console.log(err));
     }
   </script>
-</head>
-
-<body>
-  <div id="container">
-    <h1>Get Link Fshare Vippromax</h1>
-    <h4><i>by</i> <b>manhsuper171@gmail.com</b></h4>
-    <p><a href="" id="link-download" target="_blank"></a></p>
-    <p id="note">Nhập code file cần tải.<br> 
-      VD: https://www.fshare.vn/file/<b>LVCSNN3554RA</b>?token=1612146449<br>
-      Nhập <b>LVCSNN3554RA</b>. 
-    </p>
-    <p>Giới hạn 5Gb/1 file và 2 lần get/15 phút. Tải lại trang để get tiếp ok?</p>
-    <div class="form">
-      <input type="text" value="" id="linkcode"/>
-      <button onclick="get()" id="button">Get</button>
-    </div>
-  </div>
 </body>
 
 </html>
