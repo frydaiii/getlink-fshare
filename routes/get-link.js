@@ -17,20 +17,24 @@ const update = require('../services/redis-command').set.mset;
 const logger = require('../methods/logger');
 
 const validateLink = async function (req, res, next) {
-    const linkcode = req.params.linkcode;
-    const response = await fetch('https://www.fshare.vn/file/' + linkcode);
-    const plainHtml = await response.text();
-    const fileExist = plainHtml.search('id="linkcode"') == -1 ? false : true;
-
-    // get file size 
-    const begin = plainHtml.search(/\((.*)GB\)/) + 1;
-    const end = plainHtml.search(/\sGB\)/);
-    const filesize = Number(plainHtml.slice(begin, end));
-
-    // validate
-    if (fileExist == false) res.status(404).send('Không tìm thấy file');
-    else if (filesize > 6) res.status(406).send('Chỉ tải file dưới 6 Gb');
-    else next();
+    try {
+        const linkcode = req.params.linkcode;
+        const response = await fetch('https://www.fshare.vn/file/' + linkcode);
+        const plainHtml = await response.text();
+        const fileExist = plainHtml.search('id="linkcode"') == -1 ? false : true;
+        
+        // get file size 
+        const begin = plainHtml.search(/\((.*)GB\)/) + 1;
+        const end = plainHtml.search(/\sGB\)/);
+        const filesize = Number(plainHtml.slice(begin, end));
+        
+        // validate
+        if (fileExist == false) res.status(404).send('Không tìm thấy file');
+        else if (filesize > 6) res.status(406).send('Chỉ tải file dưới 6 Gb');
+        else next();
+    } catch (err) {
+        next(err);
+    }
 }
 
 router.get('/:linkcode', validateLink, limiter, async (req, res, next) => {
@@ -48,7 +52,8 @@ router.get('/:linkcode', validateLink, limiter, async (req, res, next) => {
                 const base64link = new Buffer.from(link).toString('base64');
                 const base64name = new Buffer.from(filename).toString('base64');
                 link = req.protocol + '://' + req.get('host') + '/redirect.html?filename=' + base64name + '&link=' + base64link;
-                // const shortenRes = await fetch('https://megaurl.in/api?api=6137549b1c06c25a2153b4a10f050643aef11f34&url=' + link);
+                // link = encodeURIComponent(link);
+                // const shortenRes = await fetch('https://link1s.com/api?api=9fce4a3ce21f62d52b6d8d0d8767d4c344bbfb2a&url=' + link);
                 // const shorten = await shortenRes.json();
 
                 // if (shorten.status == 'error') logger.error('shorten url error: ' + shorten.message);

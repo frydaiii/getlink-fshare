@@ -18,7 +18,9 @@ router.get('/', async (req, res, next) => {
             return;
         }
 
-        const link = new Buffer.from(req.query.link, 'base64').toString('ascii');
+        // let link = decodeURIComponent(req.query.link);
+        let link = req.query.link;
+        link = new Buffer.from(link, 'base64').toString('ascii');
         const headResponse = await fetch(link, { method: 'HEAD' });
 
         if (!headResponse) {

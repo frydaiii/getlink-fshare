@@ -6,6 +6,8 @@ redis-server
 npm start
 ```
 ## update log
+### runner 1.1.1
+- add try/catch to validateLink
 ### runner 1.1
 - fix 'visitors' in download router
 - fix index.html
