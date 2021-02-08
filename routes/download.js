@@ -10,7 +10,7 @@ const logger = require('../methods/logger');
 
 router.get('/', async (req, res, next) => {
     try {
-        let order = await getKey(client, 'visitors').catch(err => next(err));
+        let order = await getKey(client, 'visitors');
         order = Number(order);
         
         if (order > 8) {
@@ -19,7 +19,7 @@ router.get('/', async (req, res, next) => {
         }
 
         const link = new Buffer.from(req.query.link, 'base64').toString('ascii');
-        const headResponse = await fetch(link, { method: 'HEAD' }).catch(err => next(err));
+        const headResponse = await fetch(link, { method: 'HEAD' });
 
         if (!headResponse) {
             res.status(404).send('đù');

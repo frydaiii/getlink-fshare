@@ -33,7 +33,7 @@ const validateLink = async function (req, res, next) {
     else next();
 }
 
-router.get('/:linkcode', limiter, validateLink, async (req, res, next) => {
+router.get('/:linkcode', validateLink, limiter, async (req, res, next) => {
     try {
         let token = await get.key(client, "token");
         let cookie = await get.key(client, "cookie");

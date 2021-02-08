@@ -13,6 +13,7 @@
 
     gtag('config', 'G-LN2TKX1GM6');
   </script>
+  <script data-ad-client="ca-pub-6618528019970480" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
@@ -35,12 +36,11 @@
   </div>
 
   <script>
-    window.onload = init;
     function get() {
       document.getElementById('note').innerHTML = 'loading...';
       document.getElementById('button').style.visibility = 'hidden';
       const code = document.getElementById("linkcode").value;
-      fetch(window.location.href + 'get/' + code)
+      fetch('http://getlink.vippromax.xyz/get/' + code)
       .then(res => {
         if (res.status == 200) {
           res.text().then(data => {

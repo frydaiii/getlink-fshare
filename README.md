@@ -6,6 +6,10 @@ redis-server
 npm start
 ```
 ## update log
+### runner 1.1
+- fix 'visitors' in download router
+- fix index.html
+### runner version
 ### v1.5.1
 - update err notification in index.html
 - add limit filesize & update validateLink to get-link router
