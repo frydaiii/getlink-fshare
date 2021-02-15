@@ -6,6 +6,8 @@ const Options = require('../methods/request-options');
 const originTokenCookie = require('./origin-token-cookie');
 const getToken = require('../methods/get-token');
 const logger = require('../methods/logger');
+const get = require('../services/redis-command').get;
+const update = require('../services/redis-command').set.mset;
 
 async function login(token, cookie, email, password) {
     const form = new FormData();
@@ -17,17 +19,18 @@ async function login(token, cookie, email, password) {
     const options = new Options.POST(form, cookie);
 
     const response = await fetch('https://www.fshare.vn/site/login', options)
-    // const response = await fetch('http://localhost:8081/testurl', options);
 
     return response;
 }
 
-async function main(email, password) {
+async function main(current) {
     try {
+        const accounts = await get.list('accounts');
+        const email = accounts[current].email;
+        const password = accounts[current].password;
 
         await logger.info('getting token and cookie...');
         let [token, cookie] = await originTokenCookie();
-        await logger.info(token + '\n' + cookie);
         await logger.info('logging in ...');
         let response = await login(token, cookie, email, password);
         await logger.info('status: ' + response.status);
@@ -49,10 +52,10 @@ async function main(email, password) {
             await logger.info('status: ' + response.status);
         }
         
-        let plainHtml = await response.text();
-        token = getToken(plainHtml);
-        
-        return [token, cookie]
+        token = getToken(await response.text());
+        const data = ["token", token, "cookie", cookie, "current", current];
+        await update(data);
+
     } catch (err) {
         throw new Error('login service: ' + err);
     }

@@ -1,8 +1,7 @@
-const client = require('../services/redis-command').client;
 const get = require('../services/redis-command').get;
 const Options = require('../methods/request-options');
 const fetch = require('node-fetch');
-const cookie = get.key(client, "cookie");
+const cookie = get.key("cookie");
 
 async function logout(cookie) {
     await console.log('logging out');

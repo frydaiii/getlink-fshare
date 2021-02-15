@@ -1,0 +1,297 @@
+2021-02-10T04:22:34.020Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-10T04:22:34.024Z info: getting download link...
+2021-02-10T04:22:34.265Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-10T04:22:34.267Z info: logging out
+2021-02-10T04:22:34.450Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-10T04:22:34.660Z info: status: 200
+2021-02-10T04:22:34.661Z info: logging in with different account...
+2021-02-10T04:22:34.661Z info: getting token and cookie...
+2021-02-10T04:22:34.865Z info: 16bfzCSbfHzWO9sI1xWykXbSsPp5hKkfbUW0veQiYgGf7JX4caM6DrluokKITMfzAOH3mE2pnUAXH_2OrWcQNQ==
+fshare-app=u52kvgge8aig9j0vqgim2rfh4s
+2021-02-10T04:22:34.866Z info: logging in ...
+2021-02-10T04:22:37.386Z info: status: 302
+2021-02-10T04:22:37.387Z info: redirect link: https://www.fshare.vn/
+2021-02-10T04:22:37.536Z info: status: 302
+2021-02-10T04:22:37.536Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-10T04:22:37.794Z info: status: 200
+2021-02-10T04:22:37.799Z info: getting download link...
+2021-02-10T04:22:38.327Z info: https://download024.fshare.vn/dl/WHl7AiJZX6hJQqu7a3Za3ttFw1d+hGvQuVOMAu7kfe1R7T7Ll7HQ+nVFmfLZBSLd72vOf40-HN9RcE7V/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-10T04:29:44.225Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-10T04:29:44.225Z info: getting download link...
+2021-02-10T04:29:44.693Z info: https://download024.fshare.vn/dl/E0wApvs7IhyTHjbCRecoVQCPkSe7b4YpGJX31vzdetEc8PhvBFXwLRYcEz+x2wkZo18kD8bIg3RmNHEL/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-10T04:35:13.701Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-10T04:35:13.703Z info: getting download link...
+2021-02-10T04:35:14.007Z info: https://download024.fshare.vn/dl/K2+z3cnX4bN7I+RfdKZ+IczrRpiCjoWiQmBEe7+E5+KD-dZYuCf7HYpY3qOJfbEhdvKcrZxeAmRzdyiI/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-10T04:39:36.073Z info: 117.5.155.109 GET https://www.fshare.vn/file/WHEAXLXM243T
+2021-02-10T04:39:36.074Z info: getting download link...
+2021-02-10T04:39:36.294Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-10T04:39:36.296Z info: logging out
+2021-02-10T04:39:36.498Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-10T04:39:36.714Z info: status: 200
+2021-02-10T04:39:36.715Z info: logging in with different account...
+2021-02-10T04:39:36.716Z info: getting token and cookie...
+2021-02-10T04:39:36.924Z info: bNalICTKyW78BCzjBcPYxTLYzeySPPYUNQ_rEb7HR5obh-9GT42GX8loSbt_j62EdeCamKtsjFp2fblD0KsYqg==
+fshare-app=6063ink9k9mk29ame0fqq5bcqc
+2021-02-10T04:39:36.924Z info: logging in ...
+2021-02-10T04:39:38.786Z info: status: 302
+2021-02-10T04:39:38.787Z info: redirect link: https://www.fshare.vn/
+2021-02-10T04:39:38.956Z info: status: 302
+2021-02-10T04:39:38.957Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-10T04:39:39.239Z info: status: 200
+2021-02-10T04:39:39.245Z info: getting download link...
+2021-02-10T04:39:39.714Z info: https://download023.fshare.vn/dl/6dKYIniJHmJdQ+XRvCum16aN2+gdkGonrpbv9EzR064RvEcksY5HUiop0rzDEmcHAK-8R55-JaNV6Bgi/02.CEO%20VinaLink%20chia%20s%E1%BA%BB%20c%C3%A1ch%20l%C3%A0m%20Marketing%20tr%C3%AAn%20Facebook%20t%E1%BB%AB%20A-Z.rar
+2021-02-10T04:41:12.913Z info: 103.216.196.3 GET https://www.fshare.vn/file/WHEAXLXM243T
+2021-02-10T04:41:12.913Z info: getting download link...
+2021-02-10T04:41:13.236Z info: https://download023.fshare.vn/dl/PzuuiiC0gw37Rx1iczaYrt53DuD3dBY3fLpjhHQNdF5Tkf+7Hv1FSrOqa9bHFYYVEki66I4zor4+ct7L/02.CEO%20VinaLink%20chia%20s%E1%BA%BB%20c%C3%A1ch%20l%C3%A0m%20Marketing%20tr%C3%AAn%20Facebook%20t%E1%BB%AB%20A-Z.rar
+2021-02-10T05:18:05.243Z info: 1.53.25.106 GET https://www.fshare.vn/file/2TPTQZG3OYJG
+2021-02-10T05:18:05.244Z info: getting download link...
+2021-02-10T05:18:05.645Z info: https://download031.fshare.vn/dl/5jrvsTIn-Tr5JdQzwbnt+iXC0UzVKVI3uFh2zzZ6P8RIL7rQkC+WhIe5MLKe8Y4VQ40GYs1ceCOPpxin/Adobe_Acrobat_Pro_DC_2020.06.20042.zip
+2021-02-10T05:54:06.407Z info: 27.78.217.48 GET https://www.fshare.vn/file/TGVKQMQMYT
+2021-02-10T05:54:06.407Z info: getting download link...
+2021-02-10T05:54:06.800Z info: https://download023.fshare.vn/dl/JF05HXLQaWTI5QbPymTs87Ky0868WJqhvNbNyITfN-DMIj3XcMgME-aPauijwWmJBv64utxtWSlKRezf/%5BJ-Zone%5D.High.School.Debut.2011.KST.NET.VN.mkv
+2021-02-10T05:57:20.348Z info: 1.53.25.106 GET https://www.fshare.vn/file/KRUOLM3B2ZKM6OKL
+2021-02-10T05:57:20.349Z info: getting download link...
+2021-02-10T05:57:20.721Z info: https://download016.fshare.vn/dl/MsAVF9BpcBJG8dOUY69FYgvs+f5dStAIleUTWZZ0mt9TK2Boq3kGTzhWcWjDS7TgoY0KOrrhnFBz+1pG/OM.rar
+2021-02-10T06:06:37.067Z info: 14.250.102.72 GET https://www.fshare.vn/file/I88884MIE7JU
+2021-02-10T06:06:37.068Z info: getting download link...
+2021-02-10T06:06:37.394Z info: https://download032.fshare.vn/dl/4FXmeS1VP2SbVYQdW4uAVVeEdvyrxjm5+CTBqkTJQgW6R7JJ4Z9PFnrBFD4S+HkN8oa3CLiAUihtZ-L1/Win10%20x64_LNBG_LITE.iso
+2021-02-10T06:08:39.353Z info: 14.250.102.72 GET https://www.fshare.vn/file/I88884MIE7JU
+2021-02-10T06:08:39.354Z info: getting download link...
+2021-02-10T06:08:39.750Z info: https://download032.fshare.vn/dl/+2hk-hYB8cxujm3h6sZUUkpk2gruivkRH5agoQVA8CIDYbGt5Kll63TBZ8WRHYI+AWIozp5-5DDa-zwi/Win10%20x64_LNBG_LITE.iso
+2021-02-10T06:16:34.337Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-10T06:16:34.341Z info: getting download link...
+2021-02-10T06:16:34.344Z error: get-link router: Error: get-download-link service: TypeError: source.on is not a function
+2021-02-10T06:18:31.218Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-10T06:18:31.222Z info: getting download link...
+2021-02-10T06:18:41.604Z info: https://download024.fshare.vn/dl/oXQ+fMbWgQjikhgRFWTEYTloL5B9rHWx6+98EfhxNkbF3U08YxpN-dquHTt3UjkQMjHktA2XvvRXmAZa/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-10T06:18:41.847Z info: shortenUrl: http://link1s.com/DhOD
+2021-02-10T06:21:25.266Z info: 117.5.155.109 GET https://www.fshare.vn/file/RB1XCMTY39SX
+2021-02-10T06:21:25.267Z info: getting download link...
+2021-02-10T06:21:25.608Z info: https://download032.fshare.vn/dl/LV-lfMebnxpYpTcsvuhOOLS-38OKoZbJ9kre9ShOYkn174UAcu7Z9F+v87wzoTbhGCmR1Sljf-JEib7w/Avatar.The.Last.Airbender.S01E01.1080p.BluRay.REMUX.AVC.DTS-HD.MA.2.0-H72.mkv
+2021-02-10T06:21:25.877Z info: shortenUrl: http://link1s.com/N6LqFm
+2021-02-10T06:59:29.072Z info: 117.2.92.40 GET https://www.fshare.vn/file/TY6K5R3TOLN93C6
+2021-02-10T06:59:29.075Z info: getting download link...
+2021-02-10T06:59:29.490Z info: https://download024.fshare.vn/dl/EMsVVBTrcKZ53ZSyQ7t-bXiET0V4J7pMAcs1qbzQWZadq8Ci-CZpDDnCKMrIgBFj-UYJ0v2ibUXp69HR/Youve.Got.Mail.1998.m720p.BluRay.DD5.1.x264-FreeHD_I-Max.VN.mkv
+2021-02-10T06:59:29.745Z info: shortenUrl: http://link1s.com/Z5DpXs
+2021-02-10T08:16:29.089Z info: 42.119.63.45 GET https://www.fshare.vn/file/7IPSHR4ZCIAM
+2021-02-10T08:16:29.089Z info: getting download link...
+2021-02-10T08:16:39.539Z info: https://download010.fshare.vn/dl/X9Tm0IbVaCn1nSb9teEKOHVGdj5mWzHyuM01zM7ZMTDJZTdBjpmbOQFgRtyeJi0u83Ehvm-3hho0h+5G/Office_Professional_Plus_2016_x64bit%20full.rar
+2021-02-10T08:16:39.802Z info: shortenUrl: http://link1s.com/9BDd
+2021-02-10T08:55:18.911Z info: 125.235.235.124 GET https://www.fshare.vn/file/KGBYKOI64Q6A
+2021-02-10T08:55:18.911Z info: getting download link...
+2021-02-10T08:55:19.387Z info: https://download004.fshare.vn/dl/aPC4yx2gUMa8v25mL6aNRl6IJmIv7Ka3gwszzz-KNoUbrfn6Q+vRI56tKTQafPxqLdyISQPDWxzOz1jV/Trang.Quynh.2019.1080p.NF.WEB-DL.DDP5.1.x264.mkv
+2021-02-10T08:55:19.661Z info: shortenUrl: http://link1s.com/AhZxKMNp
+2021-02-10T09:36:59.548Z info: 125.235.235.124 GET https://www.fshare.vn/file/JHHQW4J5QZKL
+2021-02-10T09:36:59.548Z info: getting download link...
+2021-02-10T09:37:00.012Z info: https://download007.fshare.vn/dl/VgTD19TNL6WJW1SK8p3kT4KIE98PbOIM5kWGKZJxEOEFLxCxgLvMvK83OTfCAVTrZXGfbgOhO1N+XEYh/Go-Go%20Sisters%202018%201080p%20NF%20WEB-DL%20DDP5.1%20x264%281%29.mkv
+2021-02-10T09:37:00.306Z info: shortenUrl: http://link1s.com/lsxt
+2021-02-10T10:40:31.643Z info: 1.52.51.166 GET https://www.fshare.vn/file/TY6K5R3TOLN93C6
+2021-02-10T10:40:31.644Z info: getting download link...
+2021-02-10T10:40:32.088Z info: https://download024.fshare.vn/dl/griD070LZjpHrvU0Axv+tR+ZS+m7x+1CodlAAC0AKShdxTQazh6t0HjvLjSpznLRupWs8k5j2xV4j-Zy/Youve.Got.Mail.1998.m720p.BluRay.DD5.1.x264-FreeHD_I-Max.VN.mkv
+2021-02-10T10:40:32.405Z info: shortenUrl: http://link1s.com/kpVS
+2021-02-10T11:33:47.993Z info: 1.52.51.166 GET https://www.fshare.vn/file/RBZSPXBH8DUZ
+2021-02-10T11:33:47.994Z info: getting download link...
+2021-02-10T11:33:58.522Z info: https://download031.fshare.vn/dl/1u9KTxI+3jV98eLP6SL12uhg7znAy+UYvqVTUcZ4MZzLaqQ92i8YnKR9er-UTcRfuyNUzNL2rDFciLxg/Sai%20Gon%20in%20The%20Rain%202020.mkv
+2021-02-10T11:33:58.796Z info: shortenUrl: http://link1s.com/O8INv
+2021-02-10T11:40:38.664Z info: 58.186.51.105 GET https://www.fshare.vn/file/J4OSNNZRMH9L
+2021-02-10T11:40:38.664Z info: getting download link...
+2021-02-10T11:40:40.200Z info: https://download001.fshare.vn/dl/yAGZwFUEfxnrIqichsMGLt4ryZ+6PqLQRZ6FSnUOhhhJyEYJfkbmSRiRdgbkDOT1UuK5egtLnHHxdM5C/Build%20a%20Shopping%20Cart%20App%20with%20React%20Node%20and%20Stripe.rar
+2021-02-10T11:40:43.561Z info: shortenUrl: http://link1s.com/7rr1
+2021-02-10T11:54:32.108Z info: 1.52.51.166 GET https://www.fshare.vn/file/V72GUK15FFMH
+2021-02-10T11:54:32.108Z info: getting download link...
+2021-02-10T11:54:35.600Z info: https://download005.fshare.vn/dl/9eY6FvwKie5q9SACezDXfT-NAwA-xUVs9bd5QXSsYFU97KmnIDCLrLhaFyWJtdmzz-HX7xYQP3mhyesy/My.God.Father.2020.1080p.NF.WEB-DL.DDP5.1.x264-tG1R0.mkv
+2021-02-10T11:54:41.960Z info: shortenUrl: http://link1s.com/qewLb
+2021-02-10T12:09:27.616Z info: 1.52.51.166 GET https://www.fshare.vn/file/IK29VCTTFB21
+2021-02-10T12:09:27.617Z info: getting download link...
+2021-02-10T12:09:28.654Z info: https://download036.fshare.vn/dl/8oXbwcZ8KC7+Wc0YCUzQnDrRmOotU6HgIxZCmD76HrLPaLU93vVapVLRqW62Zz0xQWKKy7-JtbWToEP1/the.dig.2021.1080p.web.h264-naisu.mkv
+2021-02-10T12:09:39.409Z info: shortenUrl: http://link1s.com/YoXx5sd1
+2021-02-10T12:32:10.820Z info: 113.176.229.17 GET https://www.fshare.vn/file/DQDCA4FLG55X
+2021-02-10T12:32:10.821Z info: getting download link...
+2021-02-10T12:32:11.325Z info: https://download009.fshare.vn/dl/reRHSAvXOV3A-LorbbkVKCt2OPH6rpoy0HDIPjoIu7bl3n9iK3LXDSLX+SQnHPIfv6cCAdkxiSOO49O7/%5Bdaominhha.com%5D_SS%20v0.20.5.rar
+2021-02-10T12:32:11.645Z info: shortenUrl: http://link1s.com/6TjDSR0
+2021-02-10T12:42:47.964Z info: 1.52.51.166 GET https://www.fshare.vn/file/WUBO6M9829XN
+2021-02-10T12:42:47.965Z info: getting download link...
+2021-02-10T12:42:58.833Z info: https://download043.fshare.vn/dl/5rGThV0uZz4fq9YitG5RVjEJBPH7QNODbcuB0L0UBGXygMXnBk0qkU-Zn5dPDg8KvAsamWwdOoDEu07m/Netflix-B%E1%BA%B1ng%20Ch%E1%BB%A9ng%20V%C3%B4%20H%C3%ACnh.mp4
+2021-02-10T12:42:59.170Z info: shortenUrl: http://link1s.com/R6UDznE8
+2021-02-10T13:02:58.002Z info: 42.114.199.127 GET https://www.fshare.vn/folder/GMG65XYRQ2SJ
+2021-02-10T13:02:58.003Z info: getting download link...
+2021-02-10T13:02:58.224Z error: get-download-link service, link err: TypeError: Cannot read property 'slice' of undefined
+2021-02-10T13:02:58.226Z info: logging out
+2021-02-10T13:02:58.432Z info: redirect link: https://www.fshare.vn/
+2021-02-10T13:02:58.634Z info: status: 200
+2021-02-10T13:02:58.634Z info: logging in with different account...
+2021-02-10T13:02:58.636Z info: getting token and cookie...
+2021-02-10T13:02:58.826Z info: logging in ...
+2021-02-10T13:03:00.586Z info: status: 302
+2021-02-10T13:03:00.587Z info: redirect link: https://www.fshare.vn/
+2021-02-10T13:03:00.748Z info: status: 302
+2021-02-10T13:03:00.748Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-10T13:03:01.013Z info: status: 200
+2021-02-10T13:03:01.030Z info: getting download link...
+2021-02-10T13:03:01.215Z error: get-download-link service, link err: TypeError: Cannot read property 'slice' of undefined
+2021-02-10T13:03:01.216Z info: out of storage per day
+2021-02-10T13:03:01.459Z info: 42.114.199.127 GET https://www.fshare.vn/file/BXF4ZFUPOZNZ
+2021-02-10T13:03:01.460Z info: getting download link...
+2021-02-10T13:03:01.961Z info: https://download037.fshare.vn/dl/Wj7GPIN1Ztdd-HYkla8LyEiT8vogfIgV7bLkIL5bhtf+bqYmdpq9APq3TczxdqJBA2V1PTFLSzGrHmTH/YiihuuCreatinganAdvancedCinematicCharacterVagrantKnight.part1.rar
+2021-02-10T13:03:06.593Z info: 125.235.235.124 GET https://www.fshare.vn/file/P5AQI4R9M4GN
+2021-02-10T13:03:06.593Z info: getting download link...
+2021-02-10T13:03:07.164Z info: https://download046.fshare.vn/dl/gJStElhUme3ZtIYstzU2+2RQ5sPZfdIfwdMGWvhH0OO+CQMcrG55zdOXaA+0UFDT+DRI+DaZfziACowf/1992.Porco.Rosso.1992.1080p.NF.WEB-DL.DDP2.0.x264-LTPDV.mkv
+2021-02-10T13:03:07.523Z info: shortenUrl: http://link1s.com/GzaqAl
+2021-02-10T13:03:12.571Z info: shortenUrl: http://link1s.com/LQdzOTxP
+2021-02-10T13:46:29.800Z info: 1.52.51.166 GET https://www.fshare.vn/file/AOB9Z1V19U8BKNC
+2021-02-10T13:46:29.800Z info: getting download link...
+2021-02-10T13:46:30.326Z info: https://download010.fshare.vn/dl/oxNwMEszcQcL5-LHEP0xfVBukTVtHAoUzqXgdK8BfHoVkVSpbZu8ZRwqgNwE9gT9jjpdoRVoGup3ISUv/%5BJ-zone%5D.My.Rainy.Days.2009.KITES.VN.mkv
+2021-02-10T13:46:30.880Z info: shortenUrl: http://link1s.com/qLOKB
+2021-02-10T13:47:51.440Z info: 14.236.244.213 GET https://www.fshare.vn/file/ZV6YZU1C93D9
+2021-02-10T13:47:51.441Z info: getting download link...
+2021-02-10T13:47:52.014Z info: https://download008.fshare.vn/dl/rLh1oKS4y8UX2rDjL8nik4KJyCORmmmTGEAqc76fd0D4l6OENibslP01XxRq2lkTNu8m0jlhDemFhtdi/10.Cloverfield.Lane.2016.720p.BluRay.DD5.1.x264-SpaceHD.mkv
+2021-02-10T13:47:52.321Z info: shortenUrl: http://link1s.com/xW4K
+2021-02-10T13:55:42.158Z info: 1.52.51.166 GET https://www.fshare.vn/file/H9N8VJOJF7HJYXK
+2021-02-10T13:55:42.159Z info: getting download link...
+2021-02-10T13:55:42.765Z info: https://download037.fshare.vn/dl/OnhJjNN2B0K53Z1CdofOnXTy5agbAeyxxjfUo4DzC+L83WQG4uSb7XT6b49BOdObim5QwCxARhtvP7fK/Viva%20Erotica%201996%20DVDRip%20x264%20AC3.mkv
+2021-02-10T13:55:43.445Z info: shortenUrl: http://link1s.com/5pczXE
+2021-02-10T14:08:07.520Z info: 116.111.224.198 GET https://www.fshare.vn/file/5K6WPJALVAHA
+2021-02-10T14:08:07.520Z info: getting download link...
+2021-02-10T14:08:08.145Z info: https://download029.fshare.vn/dl/FskTruX6tCj73dFuvQU0KLCPAwSXb642TS+2hxzfAgLZuPOFtzhbB4-2cUlHP-ZCUZfKMhBJP0TJ+90V/%5B357x.blogspot.com%5Dpred-044.mp4
+2021-02-10T14:08:08.484Z info: shortenUrl: http://link1s.com/29dMKo
+2021-02-10T14:33:47.957Z info: 1.52.51.166 GET https://www.fshare.vn/file/54UPP6HK5S8FARR
+2021-02-10T14:33:47.957Z info: getting download link...
+2021-02-10T14:33:48.516Z info: https://download036.fshare.vn/dl/bmNqgFWknUd1vdHfTuSKxW8VwZe6-51J9MscvWsFetETvT6kLuhb28J-ZaPwKTRlyl8FZcAhMbQOTJf6/My%20Flying%20Wife%201991%201080i%20HDTV%20MP2%20H264-HDVN.ts
+2021-02-10T14:33:48.866Z info: shortenUrl: http://link1s.com/8cxsv
+2021-02-10T15:01:59.958Z info: 117.7.124.188 GET https://www.fshare.vn/file/Y8YWF1NWBLQN
+2021-02-10T15:01:59.958Z info: getting download link...
+2021-02-10T15:02:00.539Z info: https://download021.fshare.vn/dl/U+ZYXr47yPKFMBmXjqoRz9WQHfw-yDHoY6pt7XoXnXxOcXX-Rgu-GK3WoJ7ytW4nI-XiK5jcmM8Diu8i/N1048.rar
+2021-02-10T15:02:01.206Z info: shortenUrl: http://link1s.com/xkfbq6XN
+2021-02-10T15:09:20.819Z info: 1.52.51.166 GET https://www.fshare.vn/file/4GOPA26CXF3R
+2021-02-10T15:09:20.820Z info: getting download link...
+2021-02-10T15:09:21.464Z info: https://download017.fshare.vn/dl/LEGJLuKnebFaR8804fzIutllKAREoxiddITkV32K6IAvU88nDSwUrJDRB4ZOp5VvCvbmXt5YncmSQEwr/Jingle.Jangle.A.Christmas.Journey.2020.1080p.WEB.H264-STRONTiUM.mkv
+2021-02-10T15:09:24.841Z info: shortenUrl: http://link1s.com/mYbamm
+2021-02-10T15:27:24.447Z info: 59.153.245.122 GET https://www.fshare.vn/file/8T8DW7Y1W7XV
+2021-02-10T15:27:24.447Z info: getting download link...
+2021-02-10T15:27:25.119Z info: https://download048.fshare.vn/dl/ep8piWfgkM6hPiwryVPydlgmHsp+QStUQplmg6vxXgi56GTuA+codbsOvK0YgLE33nGQjlgg886yTyBn/Great%20Teacher%20Onizuka%20-%20Episode%2002.mkv
+2021-02-10T15:27:25.350Z info: shortenUrl: http://link1s.com/8vOGr5
+2021-02-10T15:39:00.871Z info: 171.252.154.62 GET https://www.fshare.vn/file/JPKIL7WPI75V
+2021-02-10T15:39:00.872Z info: getting download link...
+2021-02-10T15:39:01.398Z info: https://download033.fshare.vn/dl/JOWvkxMgxvLfXKj9F8qdQDBDoyxSgt0cGvUNhhcwspL9AzOlVHFVMCQJikeL4dWkAjkdkTWDbJYNaEsj/Win10x64FS_Lite2.0.iso
+2021-02-10T15:39:02.651Z info: shortenUrl: http://link1s.com/NC2k6
+2021-02-10T15:41:19.100Z info: 171.236.112.47 GET https://www.fshare.vn/file/CP7L7TBSTIPR
+2021-02-10T15:41:19.100Z info: getting download link...
+2021-02-10T15:41:22.744Z info: https://download018.fshare.vn/dl/-WQPkqlMzBU3i1KSkGpc5EseXKdU8MnyYlRtPO7nu16josW2HIJg971xGB2oyPiIOMHzSIA2xo7U2WUY/4-Koma%20Theater%2016.mkv
+2021-02-10T15:41:22.967Z info: shortenUrl: http://link1s.com/pqyH
+2021-02-10T15:42:01.999Z info: 113.172.212.153 GET https://www.fshare.vn/folder/HY4EEJ6Y38M7
+2021-02-10T15:42:01.999Z info: getting download link...
+2021-02-10T15:42:12.509Z error: get-download-link service, link err: TypeError: Cannot read property 'slice' of undefined
+2021-02-10T15:42:12.511Z info: out of storage per day
+2021-02-10T15:43:51.040Z info: 171.247.175.25 GET https://www.fshare.vn/file/N8WJOKJOI8DU
+2021-02-10T15:43:51.041Z info: getting download link...
+2021-02-10T15:44:01.737Z info: https://download023.fshare.vn/dl/k1MwalCUJzdjKwjhry+sxrknCM1mMOOL6FdVaSHToTZxQMGwNfW5+aJ4ll1uVBqzhZJrjzcx07XWCy9k/SSNI-275.HD.mkv
+2021-02-10T15:44:07.876Z info: shortenUrl: http://link1s.com/La7mQvu
+2021-02-10T15:52:01.323Z info: 59.153.245.122 GET https://www.fshare.vn/file/EVYYKQPZO21N
+2021-02-10T15:52:01.323Z info: getting download link...
+2021-02-10T15:52:02.035Z info: https://download009.fshare.vn/dl/HWMfodz-Vp5zn-g7okuawaZDzjmm7wGh6nOUT3ft4eAr8tNJP5LHDnLd4E2V+vjGIzYhIJm4aLuzHn8q/Great%20Teacher%20Onizuka%20-%20Episode%2003.mkv
+2021-02-10T15:52:02.632Z info: shortenUrl: http://link1s.com/ntrUmlI
+2021-02-10T15:53:07.128Z info: 171.236.112.47 GET https://www.fshare.vn/file/NERC49QMOA3AU89
+2021-02-10T15:53:07.129Z info: getting download link...
+2021-02-10T15:53:10.872Z info: https://download036.fshare.vn/dl/m3oNunM8fkk7izhdXp2grFjg1n2gJpzYxPXJacNv1CjFuUKfGo76w8QOqvzGGIXin3+Vjc1BIyPtQ-13/Tom%20and%20Jerry%20-%20Willy%20Wonka%20And%20The%20Chocolate%20Factory%20%282017%29.mkv
+2021-02-10T15:53:11.521Z info: shortenUrl: http://link1s.com/zIJCAT
+2021-02-10T15:59:36.952Z info: 14.252.160.140 GET https://www.fshare.vn/folder/OW85R4ZDLKT4
+2021-02-10T15:59:36.952Z info: getting download link...
+2021-02-10T15:59:37.127Z error: get-download-link service, link err: TypeError: Cannot read property 'slice' of undefined
+2021-02-10T15:59:37.128Z info: out of storage per day
+2021-02-10T15:59:44.851Z info: 14.252.160.140 GET https://www.fshare.vn/folder/OW85R4ZDLKT4
+2021-02-10T15:59:44.854Z info: getting download link...
+2021-02-10T15:59:45.035Z error: get-download-link service, link err: TypeError: Cannot read property 'slice' of undefined
+2021-02-10T15:59:45.037Z info: out of storage per day
+2021-02-10T16:08:02.913Z info: 123.20.6.91 GET https://www.fshare.vn/file/2OZMVBKPI8AH
+2021-02-10T16:08:02.914Z info: getting download link...
+2021-02-10T16:08:03.468Z info: https://download028.fshare.vn/dl/8nk2EjkpC2+stugts8Q1TZYCIBFBsf03gqARfVEFA58+4ZWEQCkrf8iCv+1m13Ifo7Y0ohmknCmnPCKL/%5BFullcrackpc.com%5D%20Dragon.Ball.FighterZ-CODEX.iso
+2021-02-10T16:08:03.739Z info: shortenUrl: http://link1s.com/kDV52zKp
+2021-02-10T16:15:33.643Z info: 171.229.238.216 GET https://www.fshare.vn/file/NXHBU3MJJT8E/
+2021-02-10T16:15:33.643Z info: getting download link...
+2021-02-10T16:15:43.865Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token T in JSON at position 0
+2021-02-10T16:15:43.867Z info: out of storage per day
+2021-02-10T16:27:49.447Z info: 171.236.48.160 GET https://www.fshare.vn/file/D1O49N7RY92B
+2021-02-10T16:27:49.447Z info: getting download link...
+2021-02-10T16:28:00.416Z info: https://download045.fshare.vn/dl/jxvq7P6F2MI2HJCkljH2PmY9VJ8ppY7L-bPqrq+sKnxjYMC8AuGYuo4WWRQQxf00hZ1Z-OkfFZWy-NWE/MatDau.P3.E33.2020.1080i.x264.mkv
+2021-02-10T16:28:00.789Z info: shortenUrl: http://link1s.com/gMUeRhLL
+2021-02-10T16:28:37.380Z info: 171.236.48.160 GET https://www.fshare.vn/file/6OLN7S51DLJM
+2021-02-10T16:28:37.381Z info: getting download link...
+2021-02-10T16:28:37.924Z info: https://download040.fshare.vn/dl/TfPY6xT8XPfMzH8N7jbDiMWighuzlVzjS7zGjCaA3zVRDLwwNySESf147ej4u2QOWFCpIqBV-r-QjXkI/MatDau.P3.E34.2020.1080i.x264.mkv
+2021-02-10T16:28:38.542Z info: shortenUrl: http://link1s.com/1iHo6bzf
+2021-02-10T16:40:44.900Z info: 171.236.48.160 GET https://www.fshare.vn/file/6OLN7S51DLJM
+2021-02-10T16:40:44.901Z info: getting download link...
+2021-02-10T16:40:55.858Z info: https://download040.fshare.vn/dl/PO0PKr6K20RjZxFmD9yajcf3SIuXm-3M7HRT5Z6JH3bTn3LBZRjq6lAKO95rXttecgydHCCPFGOomGco/MatDau.P3.E34.2020.1080i.x264.mkv
+2021-02-10T16:40:56.433Z info: shortenUrl: http://link1s.com/RrYoJw
+2021-02-10T17:25:28.842Z info: 171.239.88.198 GET https://www.fshare.vn/file/86XVEZIDYJIL
+2021-02-10T17:25:28.842Z info: getting download link...
+2021-02-10T17:25:29.084Z info: https://download007.fshare.vn/dl/r-8YMdjF-dyXb0rwK7CgqEbO8y57O1ULAQkUrg4tnJbVaNbB28Pr1Gl9Yw-bdmYcG+SFDJ8-qXKPkMGy/khodohoa.vn%20Ti%E1%BA%BFng%20Anh%20giao%20ti%E1%BA%BFp%20c%C4%83n%20b%E1%BA%A3n%20cho%20ng%C6%B0%E1%BB%9Di%20M%E1%BA%A5t%20g%E1%BB%91c-20170810T144551Z-001.zip
+2021-02-10T17:25:29.359Z info: shortenUrl: http://link1s.com/8Or8sm
+2021-02-10T17:30:41.370Z info: 171.239.88.198 GET https://www.fshare.vn/file/86XVEZIDYJIL
+2021-02-10T17:30:41.371Z info: getting download link...
+2021-02-10T17:30:41.603Z info: https://download007.fshare.vn/dl/qOYc5S+2dEP4GvJP1Mb9l3eN5Ok-+cdU6dXU3iv2NFz48jMMV5hWTKVnE5g7nUYwaCjv5oFwTCPRKsX5/khodohoa.vn%20Ti%E1%BA%BFng%20Anh%20giao%20ti%E1%BA%BFp%20c%C4%83n%20b%E1%BA%A3n%20cho%20ng%C6%B0%E1%BB%9Di%20M%E1%BA%A5t%20g%E1%BB%91c-20170810T144551Z-001.zip
+2021-02-10T17:30:41.820Z info: shortenUrl: http://link1s.com/meF4SJBz
+2021-02-10T17:35:06.647Z info: 171.229.238.216 GET https://www.fshare.vn/file/NXHBU3MJJT8E
+2021-02-10T17:35:06.647Z info: getting download link...
+2021-02-10T17:35:06.833Z info: https://download024.fshare.vn/dl/f56f78IuUKBv-uF+LwO5zQtk7EC+U1Il4dn-3HRB7kc0+jPvT-mXaisZmAkixb7Ownyi02igwfguagek/Football.Manager.2021.v21.2.2.dmg
+2021-02-10T17:35:08.086Z info: shortenUrl: http://link1s.com/ib56vPl
+2021-02-10T17:38:28.946Z info: 171.239.88.198 GET https://www.fshare.vn/file/86XVEZIDYJIL
+2021-02-10T17:38:28.947Z info: getting download link...
+2021-02-10T17:38:29.161Z info: https://download007.fshare.vn/dl/NAclqzejH6q3ytfsujhME0Rlw0WogmygdyxFqQp7svPLwFfC111eDv1HtibV7pyzIdKMtkZB9CLR6S4V/khodohoa.vn%20Ti%E1%BA%BFng%20Anh%20giao%20ti%E1%BA%BFp%20c%C4%83n%20b%E1%BA%A3n%20cho%20ng%C6%B0%E1%BB%9Di%20M%E1%BA%A5t%20g%E1%BB%91c-20170810T144551Z-001.zip
+2021-02-10T17:38:34.768Z info: shortenUrl: http://link1s.com/5kLkLyI
+2021-02-10T17:44:29.721Z info: 27.67.191.138 GET https://www.fshare.vn/file/WM5K5PUVL11U
+2021-02-10T17:44:29.721Z info: getting download link...
+2021-02-10T17:44:39.987Z info: https://download032.fshare.vn/dl/u6JEoI1eZqgqDi2Fs0g4dmPRom83ClFcMTJdnWlkiEvX8tCuqurJ2SaS8YVfwklbmLg10UvrqhAUhw7S/Hotel%20California%20Discography.rar
+2021-02-10T17:44:40.294Z info: shortenUrl: http://link1s.com/1xOk
+2021-02-10T17:46:42.842Z info: 27.67.191.138 GET https://www.fshare.vn/file/WM5K5PUVL11U
+2021-02-10T17:46:42.843Z info: getting download link...
+2021-02-10T17:46:43.068Z info: https://download032.fshare.vn/dl/fspoToFsuq9E2wq3+z1V4RpabkshXQBAahxwpAZL8a3cjGtW7EMhuR4lrHY81dDx+t2Nx60aG0maIswG/Hotel%20California%20Discography.rar
+2021-02-10T17:46:55.618Z info: shortenUrl: http://link1s.com/QYhUOcev
+2021-02-10T18:06:49.280Z info: 171.228.92.55 GET https://www.fshare.vn/file/CQGQ1NXG563MO7Q
+2021-02-10T18:06:49.280Z info: getting download link...
+2021-02-10T18:06:59.551Z info: https://download031.fshare.vn/dl/7UcG1sfdU6fViLwTBrC5oa0N5ebPhQj-bPqRcyNUBOZi57q6dOwFSGWb98cAUbCxb0aKJtuu9O6jeARG/Thien.Luan.TVB.1993.E02.mkv
+2021-02-10T18:06:59.799Z info: shortenUrl: http://link1s.com/7kLAe
+2021-02-10T18:12:26.207Z info: 171.228.92.55 GET https://www.fshare.vn/file/CQGQ1NXG563MO7Q
+2021-02-10T18:12:26.208Z info: getting download link...
+2021-02-10T18:12:26.484Z info: https://download031.fshare.vn/dl/t2MZpOjHITnmmcqEdudBDGfwHoRqjmEzgaz3wuuW3guRn5DODSOIkk3jkfALusipL9ELJh7+lXh7sX5f/Thien.Luan.TVB.1993.E02.mkv
+2021-02-10T18:12:26.771Z info: shortenUrl: http://link1s.com/VP8kAw
+2021-02-10T18:26:42.893Z info: 42.118.79.10 GET https://www.fshare.vn/file/93C9XPELKSZC
+2021-02-10T18:26:42.894Z info: getting download link...
+2021-02-10T18:26:43.100Z info: https://download024.fshare.vn/dl/nG3ZIwNZ4JULBZ6iKNL5QKt3nLdhzdakFik28skVU1Oc0+01Jd8rtukLOQlEn7iXPl6h4iKiin59zeEl/Microsoft%20Office%202019%20for%20Mac%20v16.45.zip
+2021-02-10T18:26:50.033Z info: shortenUrl: http://link1s.com/XbI7BEua
+2021-02-10T18:30:37.426Z info: 27.75.97.121 GET https://www.fshare.vn/file/EB4EC7S3P44W
+2021-02-10T18:30:37.426Z info: getting download link...
+2021-02-10T18:30:47.734Z info: https://download040.fshare.vn/dl/3SWoq28rscHkBe1DmVgktcuCXiKk15s3glPRXQq0KnE2LEPZlH6C+e6EN3XtpQP-3+v+NEaTmcmpxG7Z/IPX-182%20Misaki%20Nanami.vietsub_dinhdong%20ch%E1%BB%89nh%20s%E1%BB%AFa%281%29.mkv
+2021-02-10T18:30:48.022Z info: shortenUrl: http://link1s.com/tbtyR
+2021-02-10T18:32:06.797Z info: 27.75.97.121 GET https://www.fshare.vn/file/EB4EC7S3P44W
+2021-02-10T18:32:06.797Z info: getting download link...
+2021-02-10T18:32:07.030Z info: https://download040.fshare.vn/dl/mUSlLt5Xt318Fg85t1VilDUxoqoUBiffjKZuLpkztQUDDHZKF3NYjgKc11IRgE3ptJLQe3brtKHZ1v04/IPX-182%20Misaki%20Nanami.vietsub_dinhdong%20ch%E1%BB%89nh%20s%E1%BB%AFa%281%29.mkv
+2021-02-10T18:32:07.291Z info: shortenUrl: http://link1s.com/SVEDg
+2021-02-10T18:39:28.563Z info: 27.75.97.121 GET https://www.fshare.vn/file/EB4EC7S3P44W
+2021-02-10T18:39:28.564Z info: getting download link...
+2021-02-10T18:39:28.836Z info: https://download040.fshare.vn/dl/HKrdTXHYceZi66KD3i9gw7rHS2NjtCBQjnxTFZfvjibWqOYm7Q3tEZqnct8wvNFFEdJ9+cyq5DShRLS6/IPX-182%20Misaki%20Nanami.vietsub_dinhdong%20ch%E1%BB%89nh%20s%E1%BB%AFa%281%29.mkv
+2021-02-10T18:39:34.618Z info: shortenUrl: http://link1s.com/sJeaCKA
+2021-02-10T18:55:25.177Z info: 171.228.92.55 GET https://www.fshare.vn/file/UPRGMLRSFFNMYPE
+2021-02-10T18:55:25.177Z info: getting download link...
+2021-02-10T18:55:25.447Z info: https://download012.fshare.vn/dl/zSD87oFNQW8WnVEFx8lxKtDyOwK5LUsNg+A64nKMCgL+uhu0w0RTfqi1Upv+T7AeDJFfNnZzy0TKf1ku/Thien.Luan.TVB.1993.E03.mkv
+2021-02-10T18:55:25.682Z info: shortenUrl: http://link1s.com/zM0jRJ93
+2021-02-10T19:16:11.631Z error: download router: TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2021-02-10T19:19:29.575Z info: 115.76.50.223 GET https://www.fshare.vn/file/ZQDDH3OUYYOA
+2021-02-10T19:19:29.575Z info: getting download link...
+2021-02-10T19:19:29.862Z info: https://download014.fshare.vn/dl/X5YoXT+sRYsgU2cDoxt4A43YA5W+XklznessSQ40Z3vrtYBoLoKrOag7JkqyxbwdKzV+erUUPU2IpsdT/Master%20Responsive%20Web%20Design%20CSS%20Grid%20Flexbox%20%20Animations.rar
+2021-02-10T19:19:30.129Z info: shortenUrl: http://link1s.com/0vbyglYv
+2021-02-10T19:21:05.116Z info: 115.76.50.223 GET https://www.fshare.vn/file/ZQDDH3OUYYOA
+2021-02-10T19:21:05.116Z info: getting download link...
+2021-02-10T19:21:15.416Z info: https://download014.fshare.vn/dl/xBXaGd19k3fPDbKzE-mAhoiIfaUhWbuxrU2Emx2rN16ZiWXY1mP7xxKDWpw2Y4RRwUZZVOUY7mlZ3kfq/Master%20Responsive%20Web%20Design%20CSS%20Grid%20Flexbox%20%20Animations.rar
+2021-02-10T19:21:15.677Z info: shortenUrl: http://link1s.com/k63XOeQu
+2021-02-10T22:18:55.258Z info: 88.152.184.136 GET https://www.fshare.vn/file/9QKDTTCZP9U7
+2021-02-10T22:18:55.258Z info: getting download link...
+2021-02-10T22:18:58.603Z info: https://download002.fshare.vn/dl/02llZOSeeLJjIKl3v7snoU6x583rCgQZBYUyM65wClOGlohssFOgUs93RPrdx6BNAjzTn--hwmxbQUGz/Demon%20Slayer%20~%20Kimetsu%20no%20Yaiba%20-%20Mugen%20Train%20%282020%29%5BFinal%5D%5B1080p%20CAMrip%5D%5BCN-Hardsubs%5D.mkv
+2021-02-10T22:18:58.865Z info: shortenUrl: http://link1s.com/dkec1yxy
+2021-02-10T23:41:57.073Z info: 171.229.238.216 GET https://www.fshare.vn/file/NXHBU3MJJT8E
+2021-02-10T23:41:57.073Z info: getting download link...
+2021-02-10T23:42:07.486Z info: https://download024.fshare.vn/dl/uFaZk0ZQouTvbD9kqZo-UUVipBiMYAI+OPNF-MInuVL6Fp6R++YqItexN9Zd3xceXsL8dsylzLdNfyPe/Football.Manager.2021.v21.2.2.dmg
+2021-02-10T23:42:07.761Z info: shortenUrl: http://link1s.com/Gdc2ZS
+2021-02-10T23:48:42.343Z info: 171.229.238.216 GET https://www.fshare.vn/file/NXHBU3MJJT8E
+2021-02-10T23:48:42.343Z info: getting download link...
+2021-02-10T23:48:53.034Z info: https://download024.fshare.vn/dl/wUQhhMujkt9GxnxMrCss+eclndLAFOt+J39wNKnUSOokzk1TP1MACs9uqF-ifwyjkPmBEATsgSCpVhuo/Football.Manager.2021.v21.2.2.dmg
+2021-02-10T23:48:53.260Z info: shortenUrl: http://link1s.com/Bg2F

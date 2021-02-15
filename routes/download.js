@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const fetch = require('node-fetch');
 const contentDisposition = require('content-disposition');
-const client = require('../services/redis-command').client;
 const incrKey = require('../services/redis-command').set.incr;
 const decrKey = require('../services/redis-command').set.decr;
 const getKey = require('../services/redis-command').get.key;
@@ -10,46 +9,37 @@ const logger = require('../methods/logger');
 
 router.get('/', async (req, res, next) => {
     try {
-        let order = await getKey(client, 'visitors');
-        order = Number(order);
+        const available = Number(await getKey('available'));
         
-        if (order > 8) {
+        if (available < 1) {
             res.status(201).send('Server full, thử lại lúc khác nhé fen');
             return;
         }
 
-        // let link = decodeURIComponent(req.query.link);
-        let link = req.query.link;
-        link = new Buffer.from(link, 'base64').toString('ascii');
-        const headResponse = await fetch(link, { method: 'HEAD' });
+        const url = new Buffer.from(req.query.base64_url, 'base64').toString('ascii');
+        const headResponse = await fetch(url, { method: 'HEAD' });
 
         if (!headResponse) {
             res.status(404).send('đù');
             return;
         }
 
-        let filename = new Buffer.from(req.query.filename, 'base64').toString('ascii');
+        const filename = decodeURIComponent(url.slice(url.lastIndexOf('/')));
+        res.set('Content-Disposition', contentDisposition(filename));
 
-        fetch(link).then(async (file) => {
-            // ----------limit stream--------------
-            // file.body.on('data', chunk => {
-            //     file.body.pause();
-            //     setTimeout(() => {
-            //         file.body.resume();
-            //         res.write(chunk);
-            //     }, 4)
-            // });
-            logger.info('start download');
-            await incrKey(client, 'visitors');
-            res.set('Content-Disposition', contentDisposition(filename));
+        logger.info('start download');
+        await decrKey('available');
+        
+        fetch(url).then(async (file) => {
             file.body.pipe(res);
-            file.body.on('end', async () => {
-                setTimeout(() => { res.status(200).end(); }, 100);
+            file.body.on('end', () => {
+                res.status(200).end();
             });
             res.on('close', async () => {
                 file.body.unpipe(res);
+                file.body.destroy();
                 logger.info('download done');
-                await decrKey(client, 'visitors');
+                await incrKey('available');
             });
         });
     } catch (err) {

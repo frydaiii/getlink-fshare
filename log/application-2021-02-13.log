@@ -1,0 +1,852 @@
+2021-02-13T00:20:55.713Z info: 117.5.155.109 GET https://www.fshare.vn/file/8E1P8NEP43W2
+2021-02-13T00:20:55.715Z info: getting download link...
+2021-02-13T00:20:56.045Z info: https://download047.fshare.vn/dl/pFqZzPh5TldekvkKxHB3AH--ke4sFppFfpRjkWzNjgDXWSw1ox1UltE-xtAzvwp8N-eE486+5A6MPekK/%5BSanTruongIT.com%5D%20Folklore.Hunter.v0.3b.rar
+2021-02-13T00:20:56.289Z info: shortenUrl: http://link1s.com/rnYE6sUJ
+2021-02-13T00:37:14.515Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-13T00:37:14.517Z info: getting download link...
+2021-02-13T00:37:14.749Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-13T00:37:14.751Z info: logging out
+2021-02-13T00:37:14.962Z info: redirect link: https://www.fshare.vn/
+2021-02-13T00:37:15.209Z info: status: 200
+2021-02-13T00:37:15.215Z info: logging in with different account...
+2021-02-13T00:37:15.219Z info: getting token and cookie...
+2021-02-13T00:37:15.422Z info: logging in ...
+2021-02-13T00:37:17.158Z info: status: 200
+2021-02-13T00:37:17.161Z info: getting download link...
+2021-02-13T00:37:17.407Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=M1j21a&code=PUUFAT3NSOPC
+2021-02-13T00:37:17.409Z info: logging out
+2021-02-13T00:37:17.592Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-13T00:37:17.807Z info: status: 200
+2021-02-13T00:37:17.807Z info: logging in with different account...
+2021-02-13T00:37:17.808Z info: getting token and cookie...
+2021-02-13T00:37:18.023Z info: logging in ...
+2021-02-13T00:37:19.663Z info: status: 200
+2021-02-13T00:37:19.666Z info: getting download link...
+2021-02-13T00:37:19.913Z error: get-download-link service, link err: Error: https://www.fshare.vn/download/redirect?id=hqoyLp&code=PUUFAT3NSOPC
+2021-02-13T00:37:19.915Z info: logging out
+2021-02-13T00:37:20.071Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-13T00:37:20.290Z info: status: 200
+2021-02-13T00:37:20.293Z info: logging in with different account...
+2021-02-13T00:37:20.294Z info: getting token and cookie...
+2021-02-13T00:37:20.498Z info: logging in ...
+2021-02-13T00:37:22.087Z info: status: 302
+2021-02-13T00:37:22.088Z info: redirect link: https://www.fshare.vn/
+2021-02-13T00:37:22.245Z info: status: 302
+2021-02-13T00:37:22.246Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-13T00:37:22.509Z info: status: 200
+2021-02-13T00:37:22.514Z info: getting download link...
+2021-02-13T00:37:22.847Z info: https://download024.fshare.vn/dl/-3bMnQWSV4c0pkF8TLNDg+oKxp4nUtnY3f+aG7STLfhTtvCM0MuQZsO3cmSi8rRLKTNzq+sBqsWL7tkX/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-13T00:37:23.101Z info: shortenUrl: http://link1s.com/pMRIkwo
+2021-02-13T00:41:34.323Z info: 116.109.29.89 GET https://www.fshare.vn/file/WXQKEYCLM27H
+2021-02-13T00:41:34.324Z info: getting download link...
+2021-02-13T00:41:41.731Z info: https://download011.fshare.vn/dl/ean1TMsVyNIrE70ScvRmIx1MNypHAgVtrhg7EkRyv5OxcqCC3jzIhSNh0TcTMhJw8RytnbFk8KDLLISj/%5BDPHN140%5D%20Yumi%20Kazama%20-%20Erotic%20Virtual.wmv
+2021-02-13T00:41:41.938Z info: shortenUrl: http://link1s.com/DqAC
+2021-02-13T00:44:31.245Z info: start download
+2021-02-13T00:45:36.117Z info: download done
+2021-02-13T00:45:53.216Z info: start download
+2021-02-13T00:46:22.136Z info: start download
+2021-02-13T00:47:05.428Z info: download done
+2021-02-13T00:47:06.769Z info: download done
+2021-02-13T00:48:00.032Z info: 42.119.146.218 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T00:48:00.033Z info: getting download link...
+2021-02-13T00:48:10.323Z info: https://download033.fshare.vn/dl/GkQhe-JJIIOXqx-q9q6eZel5rRmaC+rzHVd1+y-6bPlqacaCCytiQSkmY6QiKr3wkY8RV-6QztyrXqXr/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T00:48:10.572Z info: shortenUrl: http://link1s.com/QW2HgEj
+2021-02-13T00:50:47.916Z info: 42.119.146.218 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T00:50:47.916Z info: getting download link...
+2021-02-13T00:50:48.144Z info: https://download033.fshare.vn/dl/eHWsPAHX72p9dEcKnP+7tAac1uJAt9tPC25+F6oUp-0myl5OuosirpQ2lmLrR7Rq3-PE7MgD3p0qbjtp/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T00:50:48.413Z info: shortenUrl: http://link1s.com/ERZsst6
+2021-02-13T00:52:03.231Z info: start download
+2021-02-13T00:52:06.127Z info: download done
+2021-02-13T01:29:30.078Z info: 125.235.235.120 GET https://www.fshare.vn/file/WWINEQAYPB8X
+2021-02-13T01:29:30.084Z info: getting download link...
+2021-02-13T01:29:31.453Z info: https://download006.fshare.vn/dl/tyVJBGxy-iBCNliWJeyPVfNrYPkBCCmRq4oP7z3UZHQhuE1svvdwSnzHPIvlqgRzuhoq+RA3gJguTsYI/To.All.the.Boys.Always.and.Forever.2021.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-MZABI.mkv
+2021-02-13T01:29:31.709Z info: shortenUrl: http://link1s.com/7Vs9727D
+2021-02-13T01:29:50.417Z info: start download
+2021-02-13T01:44:24.524Z info: 14.252.194.170 GET https://www.fshare.vn/file/DOYLSVS1H1HZ
+2021-02-13T01:44:24.527Z info: getting download link...
+2021-02-13T01:44:34.876Z info: https://download033.fshare.vn/dl/foOaACpV1wYCSPXwyCKlAfy2osZRs-CsfoXBQ43vSAMDXtQq3v6JRlG1RD5qphjjFIoeDKyIsKxBjeou/ABBYY%20FineReader%20v14.0.107.212.rar
+2021-02-13T01:44:35.125Z info: shortenUrl: http://link1s.com/0pDGruE
+2021-02-13T01:45:52.350Z info: start download
+2021-02-13T01:45:52.765Z info: download done
+2021-02-13T01:45:52.991Z info: start download
+2021-02-13T01:46:31.548Z info: download done
+2021-02-13T02:02:20.159Z info: 171.233.158.164 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T02:02:20.160Z info: getting download link...
+2021-02-13T02:02:20.497Z info: https://download802.fshare.vn/dl/pxjZMc5kgY+6X5krewvUYnejjm9l1ZqUUHXcz9yFkOgTByJXNRaDItMWnsLa24tr1Q1Co18wqvWQfKu2/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T02:02:20.779Z info: shortenUrl: http://link1s.com/7FS9z
+2021-02-13T02:02:48.879Z info: start download
+2021-02-13T02:02:49.031Z info: download done
+2021-02-13T02:02:49.299Z info: start download
+2021-02-13T02:11:23.391Z info: download done
+2021-02-13T02:19:17.032Z info: 115.72.107.155 GET https://www.fshare.vn/file/3Q9PJDW5R4ZFVS5
+2021-02-13T02:19:17.032Z info: getting download link...
+2021-02-13T02:19:27.407Z info: https://download045.fshare.vn/dl/EvmBM7uL-97h2lXJf1v-fGRiC0FWfIJ8ATNN-PVpDmi10sYgG6a7GKVpKTMrYa60yYSwkIsR4e-jFAIJ/Wife%27s%20sisters%202020%201080p%20HDRip%20AAC%20H.264.mkv
+2021-02-13T02:19:27.766Z info: shortenUrl: http://link1s.com/nxjvKLkh
+2021-02-13T02:20:20.438Z info: start download
+2021-02-13T02:20:20.628Z info: download done
+2021-02-13T02:20:20.837Z info: start download
+2021-02-13T02:21:07.940Z info: download done
+2021-02-13T03:02:26.274Z info: 113.175.6.73 GET https://www.fshare.vn/file/48IK3GOUY1W8
+2021-02-13T03:02:26.274Z info: getting download link...
+2021-02-13T03:02:26.608Z info: https://download034.fshare.vn/dl/zSASdq7M+fm2RWTQxkSr6A+KnLMTAQgEk4MDNAkCDKWm6YxhlbYraoCL2VY3xiyNS33cdS2IuL2AnPIf/Crash.Landing.on.You.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Ao.mkv
+2021-02-13T03:02:26.889Z info: shortenUrl: http://link1s.com/tEU07f
+2021-02-13T03:03:28.598Z info: start download
+2021-02-13T03:03:38.418Z info: download done
+2021-02-13T03:03:40.572Z info: start download
+2021-02-13T03:04:03.301Z info: download done
+2021-02-13T03:13:02.046Z info: 14.178.203.217 GET https://www.fshare.vn/file/5MDP5D353RD8
+2021-02-13T03:13:02.046Z info: getting download link...
+2021-02-13T03:13:03.355Z info: https://download038.fshare.vn/dl/2YNo2o48bu8jSHmtIsCKXyWRRtKg3yhS20WgOGdYUhs9Nys9xj0eoggq3WsC81P9hfjFZe8PwT2-wy96/%5BHaDoanTV.Com%5Dlittle.nightmares.ii.iso
+2021-02-13T03:13:03.664Z info: shortenUrl: http://link1s.com/7sbhO
+2021-02-13T03:13:37.237Z info: 14.178.203.217 GET https://www.fshare.vn/file/5MDP5D353RD8
+2021-02-13T03:13:37.238Z info: getting download link...
+2021-02-13T03:13:37.564Z info: https://download038.fshare.vn/dl/7oUNhoNMn4pO3QVRsXg-UKBTYZg3jukxFL+4s7AHD6N6nsitxN4Ukjc6cHBq12k4EEJvSZWVpX3pN2qS/%5BHaDoanTV.Com%5Dlittle.nightmares.ii.iso
+2021-02-13T03:13:37.780Z info: shortenUrl: http://link1s.com/xhum
+2021-02-13T03:14:01.204Z info: 113.175.6.73 GET https://www.fshare.vn/file/REGQ3YDMQMKO
+2021-02-13T03:14:01.204Z info: getting download link...
+2021-02-13T03:14:01.534Z info: https://download040.fshare.vn/dl/0rIbnXvm9UVqmcvR41acywCFec+eX2P9y0+nzp+cwCroEF+uwvZN-GIXRH+AZJHfxGUxIhuIVs9vTfox/Ng%C6%B0%E1%BB%A3c.D%C3%B2ng.M%C3%AA.K%C3%B4ng.C%C3%B9ng.Sue.Perkins.S01E01.T%E1%BA%ADp.1.1080p.NF.WEB-DL.DDP2.0.x264.mkv
+2021-02-13T03:14:01.785Z info: shortenUrl: http://link1s.com/WN31s
+2021-02-13T03:15:06.821Z info: start download
+2021-02-13T03:15:07.694Z info: download done
+2021-02-13T03:15:07.948Z info: start download
+2021-02-13T03:15:26.817Z info: start download
+2021-02-13T03:15:26.913Z info: download done
+2021-02-13T03:15:27.200Z info: start download
+2021-02-13T03:15:27.236Z info: download done
+2021-02-13T03:15:30.831Z info: start download
+2021-02-13T03:15:35.380Z info: download done
+2021-02-13T03:15:39.708Z info: start download
+2021-02-13T03:15:42.903Z info: download done
+2021-02-13T03:15:43.096Z info: start download
+2021-02-13T03:15:44.880Z info: download done
+2021-02-13T03:21:19.025Z info: download done
+2021-02-13T03:21:19.388Z info: start download
+2021-02-13T03:26:45.697Z info: download done
+2021-02-13T03:27:05.995Z info: 27.71.122.80 GET https://www.fshare.vn/file/W718RWYSVRW1
+2021-02-13T03:27:05.995Z info: getting download link...
+2021-02-13T03:27:07.436Z info: https://download029.fshare.vn/dl/JXdkZONnyCU2jOHHMOo7y9dFCpggtU13Iv22mqBDx-+ucsKoq0EYoyJh5739Qc8lvx3SGao3HJYMGpVj/BoJack%20Horseman%20Christmas%20Special-%20Sabrinas%20Christmas%20Wish%202014%201080%20WEB-DL%20H264_Viet%20Sub.mp4
+2021-02-13T03:27:07.724Z info: shortenUrl: http://link1s.com/BESo
+2021-02-13T03:27:54.348Z info: start download
+2021-02-13T03:27:54.409Z info: download done
+2021-02-13T03:27:56.427Z info: start download
+2021-02-13T03:27:58.516Z info: download done
+2021-02-13T03:27:58.737Z info: start download
+2021-02-13T03:28:58.899Z info: start download
+2021-02-13T03:29:02.042Z info: download done
+2021-02-13T03:29:02.383Z info: start download
+2021-02-13T03:30:09.716Z info: 171.229.237.215 GET https://www.fshare.vn/file/3VVKVIJYYO7Q
+2021-02-13T03:30:09.716Z info: getting download link...
+2021-02-13T03:30:20.516Z info: https://download018.fshare.vn/dl/pJXHhcZpwoR8I4G6uHTQ8t8nZYixq-0iwntk8xkpWOwqH-WPdJAY9Ba0-xtBfeSgCbShio7GnlG-82A6/Le.Jeu.2018.FRENCH.1080p.NF.WEB-DL.DD5.1.H264-PHI.mkv
+2021-02-13T03:30:20.796Z info: shortenUrl: http://link1s.com/9f9ANI
+2021-02-13T03:30:33.121Z info: download done
+2021-02-13T03:32:00.061Z info: start download
+2021-02-13T03:34:35.247Z info: 14.254.203.109 GET https://www.fshare.vn/file/L7WQMPELHCXH
+2021-02-13T03:34:35.248Z info: getting download link...
+2021-02-13T03:34:45.598Z info: https://download047.fshare.vn/dl/pJ4bYCPz1GhvO7yQIGp5tqmdN4mOUtA4ybONFREmiX5zmUxbXcGATnRPFD+RznBwDJzVemKa3MUU06WP/Adobe_Premiere_Pro_2020_v14.zip
+2021-02-13T03:34:45.917Z info: shortenUrl: http://link1s.com/T5iLONe
+2021-02-13T03:35:06.055Z info: download done
+2021-02-13T03:35:07.873Z info: 171.229.237.215 GET https://www.fshare.vn/file/BG4UONV5UM8Y
+2021-02-13T03:35:07.874Z info: getting download link...
+2021-02-13T03:35:08.133Z info: https://download005.fshare.vn/dl/plZS-fD38iblo-17raRLyai-Cii1KGRhH28lqC7fHeYMgf4sLwSf0a+Aj0LHa38b4-ZEVCSiIjGudGhj/Tiec.Trang.Mau.1080p.mkv
+2021-02-13T03:35:08.361Z info: shortenUrl: http://link1s.com/nyh0A1
+2021-02-13T03:35:08.383Z info: download done
+2021-02-13T03:35:45.800Z info: start download
+2021-02-13T03:35:45.847Z info: download done
+2021-02-13T03:35:56.116Z info: start download
+2021-02-13T03:35:57.297Z info: start download
+2021-02-13T03:38:43.050Z info: download done
+2021-02-13T03:41:27.682Z info: download done
+2021-02-13T03:41:27.977Z info: start download
+2021-02-13T03:43:41.310Z info: download done
+2021-02-13T04:03:53.739Z info: 8.21.11.73 GET https://www.fshare.vn/file/78CN22SJ1B4F
+2021-02-13T04:03:53.740Z info: getting download link...
+2021-02-13T04:03:54.074Z info: https://download025.fshare.vn/dl/bj4mXzcajNkbWD6jjcPq15j+pupzxTa6gulH+f0BDFSRw4nF89AkLCIdCmsEsYmO6sNOlmXq0Xk3+eOz/NSPS-931.mp4
+2021-02-13T04:03:54.388Z info: shortenUrl: http://link1s.com/66DcP
+2021-02-13T04:05:58.667Z info: start download
+2021-02-13T04:05:58.704Z info: download done
+2021-02-13T04:05:58.914Z info: start download
+2021-02-13T04:05:58.932Z info: download done
+2021-02-13T04:06:03.611Z info: start download
+2021-02-13T04:06:53.174Z info: download done
+2021-02-13T04:06:59.483Z info: start download
+2021-02-13T04:06:59.512Z info: download done
+2021-02-13T04:06:59.672Z info: start download
+2021-02-13T04:07:04.607Z info: download done
+2021-02-13T04:07:08.352Z info: start download
+2021-02-13T04:07:08.590Z info: download done
+2021-02-13T04:07:08.761Z info: start download
+2021-02-13T04:07:12.819Z info: download done
+2021-02-13T04:07:19.197Z info: start download
+2021-02-13T04:07:22.416Z info: download done
+2021-02-13T04:07:30.810Z info: start download
+2021-02-13T04:08:06.522Z info: download done
+2021-02-13T04:08:16.085Z info: start download
+2021-02-13T04:08:16.111Z info: download done
+2021-02-13T04:08:16.285Z info: start download
+2021-02-13T04:08:58.320Z info: download done
+2021-02-13T04:09:56.130Z info: start download
+2021-02-13T04:09:56.470Z info: download done
+2021-02-13T04:09:56.666Z info: start download
+2021-02-13T04:09:56.681Z info: download done
+2021-02-13T04:09:56.954Z info: start download
+2021-02-13T04:09:57.135Z info: download done
+2021-02-13T04:09:57.342Z info: start download
+2021-02-13T04:09:57.358Z info: download done
+2021-02-13T04:09:57.901Z info: start download
+2021-02-13T04:11:25.943Z info: 110.175.42.206 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T04:11:25.943Z info: getting download link...
+2021-02-13T04:11:36.304Z info: https://download802.fshare.vn/dl/mwyjm8fCgFYJPUn+L3PPHItc799++ay+h45ue8gezPtLfuPbEUUTjqBnkGuZbFtRyyw9oLORJTlam7Xf/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T04:11:36.563Z info: shortenUrl: http://link1s.com/AqhZXei
+2021-02-13T04:13:59.762Z info: download done
+2021-02-13T04:15:23.955Z info: start download
+2021-02-13T04:15:48.909Z info: start download
+2021-02-13T04:15:49.064Z info: download done
+2021-02-13T04:17:27.532Z info: start download
+2021-02-13T04:17:29.435Z info: download done
+2021-02-13T04:17:29.605Z info: start download
+2021-02-13T04:17:29.634Z info: start download
+2021-02-13T04:17:29.636Z info: download done
+2021-02-13T04:17:42.223Z info: start download
+2021-02-13T04:17:46.290Z info: download done
+2021-02-13T04:17:46.587Z info: start download
+2021-02-13T04:17:46.956Z info: download done
+2021-02-13T04:17:47.359Z info: start download
+2021-02-13T04:18:43.186Z info: download done
+2021-02-13T04:19:11.753Z info: download done
+2021-02-13T04:19:45.557Z info: download done
+2021-02-13T04:20:34.459Z info: 14.252.194.170 GET https://www.fshare.vn/file/OLPGX259M2452KH
+2021-02-13T04:20:34.460Z info: getting download link...
+2021-02-13T04:20:34.878Z info: https://download005.fshare.vn/dl/m6Q-8nZ+pOW1lUMlrMh1dc7dZrt3HcO8AOfM3m5vdg2Cxk9HoZ0HroLteFSuV8HU2GFW66C2JEDxx8CF/IPZ-133%20%20%20Ishihara%20Rina%20%20%20%20%20.MP4
+2021-02-13T04:20:35.183Z info: shortenUrl: http://link1s.com/RyrjrKgB
+2021-02-13T04:22:06.277Z info: start download
+2021-02-13T04:22:06.521Z info: download done
+2021-02-13T04:22:06.765Z info: start download
+2021-02-13T04:30:54.652Z info: download done
+2021-02-13T04:57:56.843Z info: 202.143.110.37 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T04:57:56.844Z info: getting download link...
+2021-02-13T04:57:57.253Z info: https://download802.fshare.vn/dl/VI1E5UVLAM51w0gy3DdW0YA+RPCPyVbHhSFgJm5W+X+0ae2W8ap07ybmO3kGscH3wBWCJ2U-tlULJMx4/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T04:57:57.571Z info: shortenUrl: http://link1s.com/QsVe
+2021-02-13T05:01:37.619Z info: start download
+2021-02-13T05:21:21.997Z info: 115.76.51.21 GET https://www.fshare.vn/file/FDCCCH2MMZSQ
+2021-02-13T05:21:21.997Z info: getting download link...
+2021-02-13T05:21:32.360Z info: https://download044.fshare.vn/dl/-v76nPDhhmjkOv6U4BIWJxNgqJmaGkz0FR89t7kEOyJlEi1lLFXqZn-KBrzCEGQX2q61-REvrDQwETjW/TTM.rar
+2021-02-13T05:21:32.656Z info: shortenUrl: http://link1s.com/CUAmpchJ
+2021-02-13T05:22:29.610Z info: start download
+2021-02-13T05:31:32.364Z info: download done
+2021-02-13T05:36:05.222Z info: start download
+2021-02-13T05:45:10.437Z info: download done
+2021-02-13T05:47:25.794Z info: download done
+2021-02-13T05:55:01.396Z info: 113.179.229.183 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T05:55:01.396Z info: getting download link...
+2021-02-13T05:55:01.706Z info: https://download802.fshare.vn/dl/45AwKDV9EpLbHY3FlOIJAxBh-SE5tOtQjRN4lutZ6S6ZwTs3cwHhgHuRDrLfZSxQ31B7X2JQHFitMU99/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T05:55:01.992Z info: shortenUrl: http://link1s.com/aTFCjnF
+2021-02-13T05:57:53.184Z info: start download
+2021-02-13T05:57:53.496Z info: download done
+2021-02-13T05:57:53.747Z info: start download
+2021-02-13T06:39:02.128Z info: download done
+2021-02-13T06:39:34.644Z info: 14.248.8.155 GET https://www.fshare.vn/file/DCFTMBETLCLO
+2021-02-13T06:39:34.645Z info: getting download link...
+2021-02-13T06:39:34.947Z info: https://download027.fshare.vn/dl/MzPbY0JV-5jT3bn10pe2rWXykUsUQm95pspDNtlNeyZchADOJnlUOuvcZ0MpC0XziuJ4NbH0-HiF-Sbo/01_LamVoAnhNhe.mkv
+2021-02-13T06:39:35.226Z info: shortenUrl: http://link1s.com/aShhau
+2021-02-13T06:39:56.386Z info: start download
+2021-02-13T06:39:56.832Z info: start download
+2021-02-13T06:39:56.907Z info: download done
+2021-02-13T06:47:44.099Z info: 14.252.194.170 GET https://www.fshare.vn/file/BV5TGHR4ZGX3DB6
+2021-02-13T06:47:44.099Z info: getting download link...
+2021-02-13T06:47:44.478Z info: https://download007.fshare.vn/dl/zQrYkDpMn7DOQ4i3g3LgZT9VCBuJLnNSUAHwBZchn7-GXyxqBnOiHFj4OwqOQlvecT1-M+XVerpm5vZS/Ishihara%20Rina%20Saejima%20Kaori%20%E2%80%93%20Stolen%20Sister%20in%20Law%20-%20The%20Cuckolding%20Sex%20Set%20Up%20By%20A%20Brother%20In%20Law%20-%20VietSub.mp4
+2021-02-13T06:47:44.723Z info: shortenUrl: http://link1s.com/oYn6
+2021-02-13T06:48:09.565Z info: 14.227.239.243 GET https://www.fshare.vn/file/4NRKAFZFVT8E
+2021-02-13T06:48:09.566Z info: getting download link...
+2021-02-13T06:48:09.969Z info: https://download802.fshare.vn/dl/Ww87YX4DtviF8qV-X5aLcVIGNw9Dpme9g7D1lZsvyR6nMPyPkXhsDBo9B-NOmkr8GXmfZlzK85BbeKN+/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T06:48:10.182Z info: shortenUrl: http://link1s.com/uVMBW2qG
+2021-02-13T06:49:00.175Z info: start download
+2021-02-13T06:49:00.401Z info: download done
+2021-02-13T06:49:00.809Z info: start download
+2021-02-13T06:50:59.945Z info: 14.252.194.170 GET https://www.fshare.vn/file/C6K3HSBXHARNRJ7
+2021-02-13T06:50:59.946Z info: getting download link...
+2021-02-13T06:51:10.321Z info: https://download043.fshare.vn/dl/q33O+UIB1cycnHeX-xxvNAgO9QqaI00ThCCBKrExbzklDAcwj91eqDVTaWEqJfBhTWohBivu0n4GZEvC/Iori%20Kogawa%20STARS%20-%20237.mp4
+2021-02-13T06:51:10.611Z info: shortenUrl: http://link1s.com/3ZlVl7
+2021-02-13T06:52:22.534Z info: start download
+2021-02-13T06:52:22.727Z info: download done
+2021-02-13T06:52:23.126Z info: start download
+2021-02-13T06:52:29.415Z info: download done
+2021-02-13T06:56:43.875Z info: download done
+2021-02-13T07:16:37.159Z info: download done
+2021-02-13T07:17:33.192Z info: 113.181.184.83 GET https://www.fshare.vn/file/HIS9JNDNV71C
+2021-02-13T07:17:33.192Z info: getting download link...
+2021-02-13T07:17:43.634Z info: https://download007.fshare.vn/dl/EuVcKjaVEzqpJlXR1Qlnomfbg1fEjtjzeNZGEjnM3NoOymtU6qETfQm4xW5EowK7C2kifKkQrabeoMvO/WZRDs%20TATTOO%20PACK%20v2.rar
+2021-02-13T07:17:43.879Z info: shortenUrl: http://link1s.com/Fpd6UDV
+2021-02-13T07:18:03.223Z info: start download
+2021-02-13T07:18:03.381Z info: download done
+2021-02-13T07:18:03.605Z info: start download
+2021-02-13T07:18:04.414Z info: download done
+2021-02-13T07:24:36.631Z info: 14.228.207.141 GET https://www.fshare.vn/file/EMMXN4D6KZYM
+2021-02-13T07:24:36.632Z info: getting download link...
+2021-02-13T07:24:36.974Z info: https://download023.fshare.vn/dl/gXc05rRAKmBJa+Dbv9y4mgvg4WLcG7IQoO8t7m1yDUGSraA235teWBTd3vTWrdJbuZ4BY75825s-QD6B/Fullmetal%20Alchemist%20Brotherhood%20S01E01%201080p%20BluRay%20REMUX%20AVC%20LPCM%202.0-Manifesto_Vietsub.mkv
+2021-02-13T07:24:37.238Z info: shortenUrl: http://link1s.com/TL6B
+2021-02-13T07:25:30.331Z info: start download
+2021-02-13T07:25:30.634Z info: start download
+2021-02-13T07:25:30.830Z info: download done
+2021-02-13T07:26:03.105Z info: download done
+2021-02-13T07:27:32.141Z info: 14.189.253.74 GET https://www.fshare.vn/file/EZGZCFVS64UK
+2021-02-13T07:27:32.143Z info: getting download link...
+2021-02-13T07:27:32.542Z info: https://download020.fshare.vn/dl/yCtg7+Lf5ILrilS3OBoaNjb8B6-rZWkBj+cx3sU-pohhHtN-l7GzMbXGR-nflhZwiO9+wKPAw7cE+qNk/DASD-646.mp4
+2021-02-13T07:27:32.749Z info: shortenUrl: http://link1s.com/Owhn
+2021-02-13T07:28:27.540Z info: start download
+2021-02-13T07:40:14.445Z info: 42.118.14.200 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T07:40:14.448Z info: getting download link...
+2021-02-13T07:40:25.109Z info: https://download802.fshare.vn/dl/Mur9Ia2UPzbSSiBNlrUKh6qyDS7XUzS0Ifh4VAUdIb5Wz2MI2InC7vCrVWMaCXFvwphogNyXH1Lamx7s/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T07:40:26.354Z info: shortenUrl: http://link1s.com/HMhW
+2021-02-13T08:03:26.850Z info: download done
+2021-02-13T08:03:49.136Z info: 202.53.45.20 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T08:03:49.136Z info: getting download link...
+2021-02-13T08:03:49.479Z info: https://download802.fshare.vn/dl/4eVuwupbHRLOpbyeIYN3HGJkWbNtSxvRVsuGs4VSWYRsmuwwtC-s+DwXw8Vl1usU2o4mMqIY6QM-Mu8E/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T08:03:49.750Z info: shortenUrl: http://link1s.com/u3Mt9AW
+2021-02-13T08:07:41.493Z info: 27.78.106.100 GET https://www.fshare.vn/file/H64TJZZTSAPI
+2021-02-13T08:07:41.494Z info: getting download link...
+2021-02-13T08:07:41.849Z info: https://download025.fshare.vn/dl/THkbiux6bEvUjii0tujbm+M7lZynYNcpE-LY4yb63pTbtBJ8dgYbcQA4-m8LcHvWxSAGzwKAqvX4I4HC/MXGS-1111.HD.mp4
+2021-02-13T08:07:42.104Z info: shortenUrl: http://link1s.com/manTM
+2021-02-13T08:07:53.635Z info: start download
+2021-02-13T08:07:53.827Z info: download done
+2021-02-13T08:07:54.159Z info: start download
+2021-02-13T08:24:55.052Z info: 123.24.191.220 GET https://www.fshare.vn/file/SK85PW3IZ5IV
+2021-02-13T08:24:55.053Z info: getting download link...
+2021-02-13T08:24:55.405Z info: https://download022.fshare.vn/dl/6i6eM7GFmtF9rjxfjeENPzeCcOtjNLHIZAVhz9yLn-x2Fb+z+UKMA7QP3wGcs8lm4m-nbWEDNAyWFJJf/SSNI-973.mp4
+2021-02-13T08:24:56.682Z info: shortenUrl: http://link1s.com/rSHr
+2021-02-13T08:30:00.484Z info: 27.78.106.100 GET https://www.fshare.vn/file/WNDJDZJE6FAVDTR
+2021-02-13T08:30:00.485Z info: getting download link...
+2021-02-13T08:30:11.159Z info: https://download005.fshare.vn/dl/NHARRBgzYFaYu-Pe0OPIdBlN4rpcqAkwm+3c7zYFYfjVjpDUarNuOlncMopMKiw+1nEVSKMTo9eEcQd5/I.Am.Not.Okay.With.This.S01E01.Dear.Diary.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+2021-02-13T08:30:16.395Z info: shortenUrl: http://link1s.com/LkQy
+2021-02-13T08:30:42.902Z info: start download
+2021-02-13T08:30:43.039Z info: download done
+2021-02-13T08:30:43.371Z info: start download
+2021-02-13T08:31:44.926Z info: 123.24.191.220 GET https://www.fshare.vn/file/SK85PW3IZ5IV
+2021-02-13T08:31:44.926Z info: getting download link...
+2021-02-13T08:31:48.310Z info: https://download022.fshare.vn/dl/3WKa-o+2YEm85WznD9A4r3fcOismtip7Gf1l0exFSON-ARHTTTdSr0Kpdgxs3q6JZkmjdaswwmsX9OeH/SSNI-973.mp4
+2021-02-13T08:31:48.605Z info: shortenUrl: http://link1s.com/riGC9VK
+2021-02-13T08:33:29.359Z info: start download
+2021-02-13T08:38:39.711Z info: 171.225.254.250 GET https://www.fshare.vn/file/JPKIL7WPI75V
+2021-02-13T08:38:39.716Z info: getting download link...
+2021-02-13T08:38:40.110Z info: https://download033.fshare.vn/dl/NWKG5hc22Vx4Fysx0g8MYKk5nR2hTrrLkBPLhycYEqPG3WRZigakBOfJzfli+5bMnDE6ncnier2GIHgv/Win10x64FS_Lite2.0.iso
+2021-02-13T08:38:40.400Z info: shortenUrl: http://link1s.com/eTsyQn8
+2021-02-13T08:39:38.421Z info: start download
+2021-02-13T08:39:46.778Z info: download done
+2021-02-13T08:44:23.536Z info: download done
+2021-02-13T08:44:26.329Z info: start download
+2021-02-13T08:44:27.828Z info: download done
+2021-02-13T08:44:35.068Z info: start download
+2021-02-13T08:44:36.081Z info: download done
+2021-02-13T08:44:36.303Z info: start download
+2021-02-13T08:44:58.966Z info: download done
+2021-02-13T08:45:14.794Z info: download done
+2021-02-13T08:45:15.024Z info: download done
+2021-02-13T08:55:23.083Z info: 171.251.238.100 GET https://www.fshare.vn/file/KNBBCIBPELGA
+2021-02-13T08:55:23.084Z info: getting download link...
+2021-02-13T08:55:23.446Z info: https://download005.fshare.vn/dl/IUUvjK1COG29wh1jo7x6Mf3e5N3Fl3x64yOhx9BDKwXqph53ahP7l7rcIQXMyW66gdCx9yG4YXbzlh30/1.mp4
+2021-02-13T08:55:23.693Z info: shortenUrl: http://link1s.com/0TA9
+2021-02-13T08:56:33.514Z info: start download
+2021-02-13T08:56:33.703Z info: download done
+2021-02-13T08:56:33.912Z info: start download
+2021-02-13T08:59:10.851Z info: 171.247.27.1 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T08:59:10.851Z info: getting download link...
+2021-02-13T08:59:11.197Z info: https://download802.fshare.vn/dl/PxctFbvBdTGxSfBdoZwooxXcgR7hGPvSKVIWGqLp6+sZLoaPE8z7c+TGk82XoRp14arWRcF+8nRxv8TI/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T08:59:11.432Z info: shortenUrl: http://link1s.com/xRoeXFc
+2021-02-13T09:00:11.445Z info: start download
+2021-02-13T09:00:11.498Z info: download done
+2021-02-13T09:00:11.714Z info: start download
+2021-02-13T09:00:11.941Z info: start download
+2021-02-13T09:00:11.971Z info: download done
+2021-02-13T09:03:58.332Z info: download done
+2021-02-13T09:06:37.378Z info: 171.251.238.100 GET https://www.fshare.vn/file/5UJVIL7WOGY7
+2021-02-13T09:06:37.378Z info: getting download link...
+2021-02-13T09:06:37.757Z info: https://download011.fshare.vn/dl/PjB4Eo7ZrlVf2cXnXY3r-qumpxmjP4Tpj5F3U1CZXABX0p+aTKtBja+lJ1D2mr4Xsn39PYIhELxq0pLu/2.mp4
+2021-02-13T09:06:38.059Z info: shortenUrl: http://link1s.com/191T
+2021-02-13T09:07:34.253Z info: start download
+2021-02-13T09:07:34.586Z info: start download
+2021-02-13T09:07:34.714Z info: download done
+2021-02-13T09:08:07.882Z info: 116.102.41.34 GET https://www.fshare.vn/file/CRGS9N8UCV4N
+2021-02-13T09:08:07.882Z info: getting download link...
+2021-02-13T09:08:08.244Z info: https://download017.fshare.vn/dl/DzV5ba0vPrqJmvCLbkUi2JBjSXB0IzfZcDJtAqy-1UhXU-U-ZhRRqPc54BSJijv3oop3Rtl1gX9SsGlj/Gap.Nhau.Cuoi.Nam.Tao.Quan.2021.mts
+2021-02-13T09:08:08.492Z info: shortenUrl: http://link1s.com/f5UntuoU
+2021-02-13T09:09:24.133Z info: start download
+2021-02-13T09:09:27.903Z info: download done
+2021-02-13T09:09:33.907Z info: 112.197.120.166 GET https://www.fshare.vn/file/ZQDDH3OUYYOA
+2021-02-13T09:09:33.908Z info: getting download link...
+2021-02-13T09:09:34.295Z info: https://download014.fshare.vn/dl/vI7k27P7atrewKeUsuutzOOKLqoqLoGFobeezRUi8Kjy6S7IZCKvaYvEYVyzaNnfzdieHWZqTHsRMxIN/Master%20Responsive%20Web%20Design%20CSS%20Grid%20Flexbox%20%20Animations.rar
+2021-02-13T09:09:34.575Z info: shortenUrl: http://link1s.com/pqjhJmf0
+2021-02-13T09:09:34.718Z info: 116.102.41.34 GET https://www.fshare.vn/file/V15E9SY6PSK8
+2021-02-13T09:09:34.718Z info: getting download link...
+2021-02-13T09:09:38.135Z info: https://download034.fshare.vn/dl/b-KpvcfD+Oa61F70-wxRyfW6gO6EQJP5YaKuWNnB80GX2nMCBIzmtMYpt9RvrZz1ghz3HA24kysUtxCl/Taoquan2021.ts
+2021-02-13T09:09:38.367Z info: shortenUrl: http://link1s.com/EMC2hECl
+2021-02-13T09:09:40.484Z info: start download
+2021-02-13T09:09:40.543Z info: download done
+2021-02-13T09:09:52.998Z info: start download
+2021-02-13T09:09:53.137Z info: download done
+2021-02-13T09:09:53.430Z info: start download
+2021-02-13T09:10:51.487Z info: download done
+2021-02-13T09:11:00.109Z info: start download
+2021-02-13T09:11:00.667Z info: download done
+2021-02-13T09:11:00.844Z info: start download
+2021-02-13T09:11:37.926Z info: download done
+2021-02-13T09:17:28.453Z info: download done
+2021-02-13T09:26:49.242Z info: download done
+2021-02-13T09:31:01.624Z info: 123.208.55.197 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T09:31:01.625Z info: getting download link...
+2021-02-13T09:31:02.057Z info: https://download802.fshare.vn/dl/FKrktXvayCv7nqxFGPUrfW1lC8LP5ij3cuct-2QNVnW2QmJIWnE+loiGluXKFOEtKY2Skl5iWABrKLL4/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T09:31:02.342Z info: shortenUrl: http://link1s.com/2yVseCO
+2021-02-13T09:31:47.507Z info: 14.161.212.211 GET https://www.fshare.vn/file/4NRKAFZFVT8E
+2021-02-13T09:31:47.507Z info: getting download link...
+2021-02-13T09:31:57.961Z info: https://download802.fshare.vn/dl/8MbJWsoIw8bVN+l08GER95wTPdfoCChsvf9Tp+tzMV-ojH99c+7D5EFdhBS2sc8uAUta7uVDotNNiuJx/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T09:31:58.184Z info: shortenUrl: http://link1s.com/jNjuUc5
+2021-02-13T09:32:52.969Z info: start download
+2021-02-13T09:32:53.253Z info: download done
+2021-02-13T09:32:53.746Z info: start download
+2021-02-13T09:33:13.587Z info: start download
+2021-02-13T09:33:45.068Z info: download done
+2021-02-13T09:36:24.881Z info: 14.161.212.211 GET https://www.fshare.vn/file/RLCN2YFX6R4W
+2021-02-13T09:36:24.881Z info: getting download link...
+2021-02-13T09:36:32.304Z info: https://download026.fshare.vn/dl/t5AKgxY-gMEHJQIGQ02ryWdxg3Y+s++FWK7s9LL5ErRaRPvI1Y2+b9PioemU5W-Am0-67UGvq0sHaXlB/Assassination%202015%20mHD%20BluRay%20DD5.1%20x264-TRiM.mkv
+2021-02-13T09:36:32.573Z info: shortenUrl: http://link1s.com/DkdlCXc8
+2021-02-13T09:37:31.979Z info: start download
+2021-02-13T09:38:14.982Z info: 123.28.14.200 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T09:38:14.983Z info: getting download link...
+2021-02-13T09:38:15.294Z info: 171.224.178.37 GET https://www.fshare.vn/file/D44W27KYXHD6
+2021-02-13T09:38:15.295Z info: getting download link...
+2021-02-13T09:38:15.384Z info: https://download802.fshare.vn/dl/BCDCk-DlhIN9BvSAx09tI3zgnRFiOfm-ytnLaBL95sELvL+PeZZnCBxCIAMfHso9SJjGzi39aQ3SJ9pX/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T09:38:15.711Z info: https://download031.fshare.vn/dl/9I-DQLLIeg5VHnTeKuuuwBzreTgC2PudT-GdgmX8eptanUJ4V7pY9A1QDIMeihyqGaKMq+IJ9r8TNEKs/Install%20macOS%20Sierra%2012.4.06.dmg
+2021-02-13T09:38:15.733Z info: shortenUrl: http://link1s.com/Ar4e0b
+2021-02-13T09:38:15.956Z info: shortenUrl: http://link1s.com/ZpzCCo
+2021-02-13T09:42:42.590Z info: download done
+2021-02-13T09:47:10.432Z info: download done
+2021-02-13T09:49:15.028Z info: 14.169.197.70 GET https://www.fshare.vn/file/FGTEB4D8S2I8
+2021-02-13T09:49:15.028Z info: getting download link...
+2021-02-13T09:49:15.413Z info: https://download005.fshare.vn/dl/c34GOR4HN76BHtujEjUgTEbbVryISEG2HBj88quoNamDpFXBRT9TbsFYS7BQ1QP3wxDcIpVjItlCiyw6/UEFI%20Win7x64.Mar.2020.tib
+2021-02-13T09:49:15.742Z info: shortenUrl: http://link1s.com/TNmR6gP
+2021-02-13T09:50:05.755Z info: start download
+2021-02-13T09:50:59.510Z info: download done
+2021-02-13T09:50:59.821Z info: start download
+2021-02-13T10:11:08.034Z info: start download
+2021-02-13T10:15:28.087Z info: 125.235.232.60 GET https://www.fshare.vn/file/IPSK6UHK7XXI
+2021-02-13T10:15:28.087Z info: getting download link...
+2021-02-13T10:15:28.530Z info: https://download036.fshare.vn/dl/S8JGKdhCajFiiOC7CRjy1D2Qx6DNTjZm3fBre1yP1u5HbsAu87orE6DbTMdVCri6oSBCO7xKrhKRCwwA/Win10x32_LTSB.iso
+2021-02-13T10:15:33.855Z info: shortenUrl: http://link1s.com/uIxeu
+2021-02-13T10:23:40.101Z info: 125.235.232.60 GET https://www.fshare.vn/file/IPSK6UHK7XXI
+2021-02-13T10:23:40.101Z info: getting download link...
+2021-02-13T10:23:40.504Z info: https://download036.fshare.vn/dl/m84+ZDXp2SVeFyGZxKnwyJN-Svfaw7wO1KSbrlMmRhWBXMJ2Ns-EyBRturmu5SXIl9jwftpA2afYS1kY/Win10x32_LTSB.iso
+2021-02-13T10:23:40.811Z info: shortenUrl: http://link1s.com/99YDD7dx
+2021-02-13T10:24:32.858Z info: start download
+2021-02-13T10:24:32.909Z info: download done
+2021-02-13T10:25:23.621Z info: start download
+2021-02-13T10:25:55.332Z info: 8.38.148.180 GET https://www.fshare.vn/file/VCTR7CV3K9CP
+2021-02-13T10:25:55.332Z info: getting download link...
+2021-02-13T10:25:55.737Z info: https://download013.fshare.vn/dl/pEdu-zFiyQW81OerH1tX3oXvlNw7257xzUGnXOUVHcyBTV0KQd6Ag1gnVS5xpRkR5FrUJ90BHNf31xuy/Soul.2020.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-CM.mkv
+2021-02-13T10:25:55.986Z info: shortenUrl: http://link1s.com/d5LEI
+2021-02-13T10:26:23.618Z info: start download
+2021-02-13T10:26:23.883Z info: download done
+2021-02-13T10:26:24.301Z info: start download
+2021-02-13T10:28:53.374Z info: 125.235.235.120 GET https://www.fshare.vn/file/2A1XFZESIWOI
+2021-02-13T10:28:53.375Z info: getting download link...
+2021-02-13T10:28:53.767Z info: https://download035.fshare.vn/dl/qHCXDCxByAtkwbWkJ5eVYLqwxQL9S1cI+kqNAZMMCIip0HPddsJmZlj8HjyEY15v85gNlnZpJkA4eRAw/emlabanoicuaanh.mkv
+2021-02-13T10:28:54.044Z info: shortenUrl: http://link1s.com/wAtjnV
+2021-02-13T10:29:05.703Z info: start download
+2021-02-13T10:34:05.523Z info: download done
+2021-02-13T10:34:56.255Z info: 117.2.210.21 GET https://www.fshare.vn/file/RX6PSLDSMEUV
+2021-02-13T10:34:56.256Z info: getting download link...
+2021-02-13T10:34:56.716Z info: https://download001.fshare.vn/dl/T6avj44pJd0jMz--XsSGRfAxqAI36VccBneS+nCxJYQ4OJuxVEQ61RT6OnOw45rGcuLRaPmZMoEPMQku/TUT4ALL.COM__Adobe%20Photoshop%20CC%202020%2021.1.2.iso
+2021-02-13T10:34:57.014Z info: shortenUrl: http://link1s.com/Oj6QNT9
+2021-02-13T10:35:15.143Z info: start download
+2021-02-13T10:35:15.339Z info: download done
+2021-02-13T10:35:15.560Z info: start download
+2021-02-13T10:39:52.986Z info: download done
+2021-02-13T10:47:04.731Z info: start download
+2021-02-13T10:47:22.196Z info: download done
+2021-02-13T10:49:20.979Z info: download done
+2021-02-13T10:50:48.169Z info: download done
+2021-02-13T10:54:05.319Z info: start download
+2021-02-13T10:54:05.523Z info: download done
+2021-02-13T10:54:19.386Z info: start download
+2021-02-13T10:54:19.448Z info: download done
+2021-02-13T10:54:27.682Z info: download done
+2021-02-13T10:54:36.340Z info: start download
+2021-02-13T10:54:36.498Z info: download done
+2021-02-13T10:54:36.739Z info: start download
+2021-02-13T10:54:42.174Z info: download done
+2021-02-13T10:54:53.148Z info: start download
+2021-02-13T10:54:53.304Z info: download done
+2021-02-13T10:54:53.521Z info: start download
+2021-02-13T11:08:08.743Z info: download done
+2021-02-13T11:16:01.386Z info: 171.251.238.100 GET https://www.fshare.vn/file/H7CSR54WXPGV
+2021-02-13T11:16:01.386Z info: getting download link...
+2021-02-13T11:16:11.971Z info: https://download025.fshare.vn/dl/PRzfOLSHEW6tt+rypDXRpMDOl-wZ3lzrdPANGHjkSrPBTMnooP1Vokqv0IZnACyIJOxlm2n9qE4cRp3c/3.mp4
+2021-02-13T11:16:12.309Z info: shortenUrl: http://link1s.com/4RinMWER
+2021-02-13T11:16:54.700Z info: start download
+2021-02-13T11:18:07.134Z info: start download
+2021-02-13T11:18:07.286Z info: download done
+2021-02-13T11:18:07.495Z info: start download
+2021-02-13T11:19:43.229Z info: download done
+2021-02-13T11:26:11.932Z info: download done
+2021-02-13T11:26:12.744Z info: start download
+2021-02-13T11:26:27.613Z info: start download
+2021-02-13T11:26:48.165Z info: start download
+2021-02-13T11:27:01.074Z info: download done
+2021-02-13T11:27:02.373Z info: start download
+2021-02-13T11:27:21.573Z info: download done
+2021-02-13T11:27:24.026Z info: download done
+2021-02-13T11:27:33.471Z info: start download
+2021-02-13T11:27:43.685Z info: download done
+2021-02-13T11:28:00.989Z info: download done
+2021-02-13T11:28:19.961Z info: 171.251.238.100 GET https://www.fshare.vn/file/J75SC2YFVWLY
+2021-02-13T11:28:19.962Z info: getting download link...
+2021-02-13T11:28:29.122Z info: start download
+2021-02-13T11:28:39.801Z info: https://download041.fshare.vn/dl/FftckBWzLQ8X+9YWV-ahRK0kE+C+Gwzo1txIw90SmpH20jko3GxMj-bRPGwz0OpYu8cEtkUtKzYBj0ar/8653.mp4
+2021-02-13T11:28:59.823Z error: get-link router: FetchError: request to https://link1s.com/api?api=9fce4a3ce21f62d52b6d8d0d8767d4c344bbfb2a&url=http://getlink.vippromax.xyz/redirect.html?base64_url=aHR0cHM6Ly9kb3dubG9hZDA0MS5mc2hhcmUudm4vZGwvRmZ0Y2tCV3pMUThYKzlZV1YtYWhSSzBrRStDK0d3em8xdHhJdzkwU21wSDIwamtvM0d4TWotYlJQR3d6ME9wWXU4Y0V0a1V0S3pZQmowYXIvODY1My5tcDQ= failed, reason: getaddrinfo EAI_AGAIN link1s.com
+2021-02-13T11:29:11.824Z info: download done
+2021-02-13T11:29:26.686Z info: start download
+2021-02-13T11:29:36.318Z info: download done
+2021-02-13T11:29:36.503Z info: start download
+2021-02-13T11:30:32.889Z info: download done
+2021-02-13T11:30:47.055Z info: start download
+2021-02-13T11:30:50.426Z info: download done
+2021-02-13T11:30:58.439Z info: start download
+2021-02-13T11:31:58.252Z info: download done
+2021-02-13T11:31:59.681Z info: start download
+2021-02-13T11:33:24.858Z info: start download
+2021-02-13T11:35:03.426Z info: download done
+2021-02-13T11:39:32.797Z info: download done
+2021-02-13T11:43:54.308Z info: 123.16.238.151 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T11:43:54.309Z info: getting download link...
+2021-02-13T11:44:04.827Z info: https://download802.fshare.vn/dl/4juKxHzP-Nqr6SJB41B9vuJqrMbIE14EaWrFUPZxJt9+qzdiooW+PkBr7+xeAKlcwW1Qk6QcpfDLtt7T/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T11:44:15.176Z info: shortenUrl: http://link1s.com/s4joce
+2021-02-13T11:46:39.859Z info: start download
+2021-02-13T11:49:33.752Z info: download done
+2021-02-13T11:56:59.245Z info: 113.176.215.50 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T11:56:59.246Z info: getting download link...
+2021-02-13T11:56:59.686Z info: https://download802.fshare.vn/dl/BwQLpfOJAMNWcf3e9XCGGDe-9ov-f1rthEaLmC-ag90ptPSceZcYat-njd2HvypH7bJJ5VhZ+iRWsEXf/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T11:57:00.416Z info: shortenUrl: http://link1s.com/yfJsZzz
+2021-02-13T11:58:07.930Z info: start download
+2021-02-13T11:59:07.157Z info: start download
+2021-02-13T11:59:24.045Z info: download done
+2021-02-13T11:59:25.696Z info: start download
+2021-02-13T12:01:44.787Z info: download done
+2021-02-13T12:04:35.653Z info: 171.251.238.100 GET https://www.fshare.vn/file/H7CSR54WXPGV
+2021-02-13T12:04:35.653Z info: getting download link...
+2021-02-13T12:04:38.344Z info: download done
+2021-02-13T12:04:43.372Z info: download done
+2021-02-13T12:04:46.145Z info: https://download025.fshare.vn/dl/xqv+v6Mo0o81Wfnlz2nkUGpxGhzjU4QK1crtkYEAEzOVdsk9IKU5O9Yw7NFa4i6cPUrbwmj28A-iPVYE/3.mp4
+2021-02-13T12:04:46.698Z info: shortenUrl: http://link1s.com/f7D7NT
+2021-02-13T12:05:38.645Z info: start download
+2021-02-13T12:05:38.988Z info: start download
+2021-02-13T12:05:39.088Z info: download done
+2021-02-13T12:15:11.294Z info: download done
+2021-02-13T12:15:46.019Z info: 171.251.238.100 GET https://www.fshare.vn/file/J75SC2YFVWLY
+2021-02-13T12:15:46.020Z info: getting download link...
+2021-02-13T12:15:46.563Z info: https://download041.fshare.vn/dl/-XcR2pfS29aoABfHKOQ1mRDWgM3AMVYkTpSFZzLlaqY3U3vpJvnf98qZT+SX7Nqv1EPQpt5X8D8I6f3i/8653.mp4
+2021-02-13T12:15:46.868Z info: shortenUrl: http://link1s.com/qDKapTl
+2021-02-13T12:16:47.032Z info: start download
+2021-02-13T12:16:47.211Z info: download done
+2021-02-13T12:16:47.388Z info: start download
+2021-02-13T12:28:37.878Z info: download done
+2021-02-13T12:31:21.865Z info: 42.118.3.91 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T12:31:21.865Z info: getting download link...
+2021-02-13T12:31:22.344Z info: https://download802.fshare.vn/dl/j7IxJo7bLFMsQaVcPsiW63R6TI2EEFwolJvl6qQ49Ewfq8B33gzF1Y+7TISXBFN8M3iv0BynEOMkfNyx/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T12:31:27.975Z info: shortenUrl: http://link1s.com/Q1RVeQs
+2021-02-13T12:34:31.751Z info: 116.106.185.245 GET https://www.fshare.vn/file/FDCCCH2MMZSQ
+2021-02-13T12:34:31.751Z info: getting download link...
+2021-02-13T12:34:32.203Z info: https://download044.fshare.vn/dl/a7p7a6a7X3ve7JvedNFR+bned-RaP9z08v1+Fjqi6DPUhmqrJOy5uX0lgMvZBy2QmDhAkXI8UaS0qmmn/TTM.rar
+2021-02-13T12:34:37.567Z info: shortenUrl: http://link1s.com/6wYED
+2021-02-13T12:35:43.917Z info: start download
+2021-02-13T12:36:34.118Z error: download router: FetchError: request to https://download044.fshare.vn/dl/a7p7a6a7X3ve7JvedNFR+bned-RaP9z08v1+Fjqi6DPUhmqrJOy5uX0lgMvZBy2QmDhAkXI8UaS0qmmn/TTM.rar failed, reason: getaddrinfo EAI_AGAIN download044.fshare.vn
+2021-02-13T12:38:05.574Z info: 117.2.210.21 GET https://www.fshare.vn/file/ICWCNZPA3BYM
+2021-02-13T12:38:05.574Z info: getting download link...
+2021-02-13T12:38:07.074Z info: https://download005.fshare.vn/dl/FwldItjRqLU748HgJHl+VmWq-52qIKxARGwRUe0vCU94cP7Eu9U9FIxsnnjBUnJ54Gczvf6Gf6Z-r98a/UEFI%20Win10.20H2.x64.Lite.tib
+2021-02-13T12:38:07.962Z info: shortenUrl: http://link1s.com/SqcZwQ
+2021-02-13T12:54:36.296Z info: 171.251.238.100 GET https://www.fshare.vn/file/HPVXU73MKPJC
+2021-02-13T12:54:36.296Z info: getting download link...
+2021-02-13T12:54:36.762Z info: https://download009.fshare.vn/dl/g-J9sbuif+mER8o6lFGntXp8XA+UNa1pgHwOukuhDhlZEyznlcH8nFZ77iTe39qzTXRGK1-jwgVC3zFU/Valentina.Nappi.an.open.relationship.mp4
+2021-02-13T12:54:37.057Z info: shortenUrl: http://link1s.com/PQUv
+2021-02-13T12:55:30.702Z info: start download
+2021-02-13T12:55:30.898Z info: download done
+2021-02-13T12:55:31.083Z info: start download
+2021-02-13T13:05:56.835Z info: download done
+2021-02-13T13:08:10.448Z info: 171.251.238.100 GET https://www.fshare.vn/file/YDRFJ6WU9EW7
+2021-02-13T13:08:10.448Z info: getting download link...
+2021-02-13T13:08:10.955Z info: https://download028.fshare.vn/dl/9kMwBX-SyUDaKgqMIKSWmmbKVZ62KTFGP3FFEFtKJOCLUKr-n93YrOe8yJd69dtyzAXjGYGtjAv6nCmp/scene_1080p%20%286%29.mp4
+2021-02-13T13:08:16.481Z info: shortenUrl: http://link1s.com/gzpd
+2021-02-13T13:09:20.785Z info: start download
+2021-02-13T13:09:20.984Z info: download done
+2021-02-13T13:09:21.179Z info: start download
+2021-02-13T13:12:54.856Z info: start download
+2021-02-13T13:19:40.077Z info: download done
+2021-02-13T13:19:45.478Z info: download done
+2021-02-13T13:19:45.516Z info: start download
+2021-02-13T13:21:33.127Z info: download done
+2021-02-13T13:23:22.682Z info: start download
+2021-02-13T13:23:26.460Z info: download done
+2021-02-13T13:23:43.370Z info: 171.224.178.37 GET https://www.fshare.vn/file/D44W27KYXHD6
+2021-02-13T13:23:43.371Z info: getting download link...
+2021-02-13T13:23:49.095Z info: https://download031.fshare.vn/dl/jMJgpZqjUFZCt3PC7P8TgY9yFYwSX5iBNlMbMsfzgFperhk-xpcu9hWCynWZiEj90q8m+Yc4nfUuD8yu/Install%20macOS%20Sierra%2012.4.06.dmg
+2021-02-13T13:23:49.528Z info: shortenUrl: http://link1s.com/Pkge
+2021-02-13T13:24:50.445Z info: start download
+2021-02-13T13:29:17.545Z info: start download
+2021-02-13T13:30:48.018Z info: download done
+2021-02-13T13:31:07.485Z info: download done
+2021-02-13T13:36:22.329Z info: 14.250.151.190 GET https://www.fshare.vn/file/93C9XPELKSZC
+2021-02-13T13:36:22.329Z info: getting download link...
+2021-02-13T13:36:32.899Z info: https://download024.fshare.vn/dl/4RJ8e1EYGaenoZGHWam3cJw3NtKNU51rXxz-qvMHzjYahNQjT78ESmOnHQEwTNHShZWrgYgXoxYwrYCm/Microsoft%20Office%202019%20for%20Mac%20v16.45.zip
+2021-02-13T13:36:33.629Z info: shortenUrl: http://link1s.com/5GeA
+2021-02-13T13:36:35.388Z info: start download
+2021-02-13T13:36:40.110Z info: 14.250.151.190 GET https://www.fshare.vn/file/93C9XPELKSZC
+2021-02-13T13:36:40.110Z info: getting download link...
+2021-02-13T13:36:42.195Z info: https://download024.fshare.vn/dl/SuNdqNF4Bn9oow5venQpCNEf0HOUqnARy1+vezQEgKeNcX4lXpuuj2Cr5lXFXzdJ7eqXcSHzVIgOF9k0/Microsoft%20Office%202019%20for%20Mac%20v16.45.zip
+2021-02-13T13:36:43.098Z info: shortenUrl: http://link1s.com/kVjkVv
+2021-02-13T13:37:19.698Z info: start download
+2021-02-13T13:37:21.256Z info: start download
+2021-02-13T13:38:02.730Z info: download done
+2021-02-13T13:38:04.996Z info: start download
+2021-02-13T13:38:05.555Z info: start download
+2021-02-13T13:38:10.175Z info: download done
+2021-02-13T13:38:13.072Z info: download done
+2021-02-13T13:38:14.497Z info: start download
+2021-02-13T13:41:26.994Z info: download done
+2021-02-13T13:50:23.344Z info: start download
+2021-02-13T13:52:06.504Z info: download done
+2021-02-13T13:53:21.747Z info: download done
+2021-02-13T13:54:06.802Z info: download done
+2021-02-13T13:54:19.090Z info: download done
+2021-02-13T13:59:00.899Z info: 171.251.238.100 GET https://www.fshare.vn/file/D8OIAJM7S7DW
+2021-02-13T13:59:00.899Z info: getting download link...
+2021-02-13T13:59:02.498Z info: https://download033.fshare.vn/dl/2V900ctM1w1OWNkx5G9XNDi--1eI0DyeCAmSLkbg9WuZRffwjHEqueNvvbRkTG2MfB5ibqkmke0YLas8/teensloveblackcocks_mandy_muse_and_valentina_nappi_full_hi_720hd.mp4
+2021-02-13T13:59:04.243Z info: shortenUrl: http://link1s.com/Fcg5Q
+2021-02-13T13:59:57.892Z info: start download
+2021-02-13T13:59:58.123Z info: download done
+2021-02-13T13:59:59.471Z info: start download
+2021-02-13T14:00:35.459Z info: download done
+2021-02-13T14:00:37.880Z info: start download
+2021-02-13T14:00:38.246Z info: download done
+2021-02-13T14:00:50.724Z info: start download
+2021-02-13T14:01:11.232Z info: download done
+2021-02-13T14:01:20.891Z info: 171.251.238.100 GET https://www.fshare.vn/file/D8OIAJM7S7DW
+2021-02-13T14:01:20.891Z info: getting download link...
+2021-02-13T14:01:21.400Z info: https://download033.fshare.vn/dl/hsTxUtDaaoqhxpBiwIku8-DfPy2nhRb-ihgOsifC0F1OBE871iUpeFXP8dU694i8zVolzkUns6K0XwXq/teensloveblackcocks_mandy_muse_and_valentina_nappi_full_hi_720hd.mp4
+2021-02-13T14:01:21.868Z info: shortenUrl: http://link1s.com/NsGDI4y
+2021-02-13T14:04:00.525Z info: start download
+2021-02-13T14:04:00.873Z info: start download
+2021-02-13T14:04:01.588Z info: download done
+2021-02-13T14:04:14.564Z info: download done
+2021-02-13T14:35:16.585Z info: 42.112.148.40 GET https://www.fshare.vn/file/ODI76Z8S4UPO
+2021-02-13T14:35:16.585Z info: getting download link...
+2021-02-13T14:35:17.043Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-13T14:35:17.047Z info: logging out
+2021-02-13T14:35:27.625Z info: redirect link: https://www.fshare.vn/
+2021-02-13T14:35:27.956Z info: status: 200
+2021-02-13T14:35:27.957Z info: logging in with different account...
+2021-02-13T14:35:27.959Z info: getting token and cookie...
+2021-02-13T14:35:28.468Z info: logging in ...
+2021-02-13T14:35:30.141Z info: status: 302
+2021-02-13T14:35:30.143Z info: redirect link: https://www.fshare.vn/
+2021-02-13T14:35:30.279Z info: status: 302
+2021-02-13T14:35:30.281Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-13T14:35:41.011Z info: status: 200
+2021-02-13T14:35:41.048Z info: getting download link...
+2021-02-13T14:35:41.831Z info: https://download026.fshare.vn/dl/XauZmTzmQWwNM5q1LuQ2IWQivxtwlN3N3Fme0JW6f24Q0mIVYoEfXl3Irof+AdZUcLxsZA+DvddNuWIG/Little.Nightmares.II.Deluxe%20Edition_LinkNeverDie.Com.rar
+2021-02-13T14:35:42.425Z info: shortenUrl: http://link1s.com/A9WuNZ
+2021-02-13T14:39:16.969Z info: 171.255.114.243 GET https://www.fshare.vn/file/ODI76Z8S4UPO
+2021-02-13T14:39:16.970Z info: getting download link...
+2021-02-13T14:39:17.847Z info: https://download026.fshare.vn/dl/oph153bll6biXO0yxc7Qp+XFrf-j8ivztY5AGOFZzCdu3VbsxHcqYWC9uoJvUodaMi7Nu+CkBWjPyhZW/Little.Nightmares.II.Deluxe%20Edition_LinkNeverDie.Com.rar
+2021-02-13T14:39:19.967Z info: shortenUrl: http://link1s.com/kCcJq
+2021-02-13T14:45:55.292Z info: 171.251.238.100 GET https://www.fshare.vn/file/NWDQEHVSY95L
+2021-02-13T14:45:55.293Z info: getting download link...
+2021-02-13T14:45:56.047Z info: https://download018.fshare.vn/dl/qOby5xFr6QdAR3goGs0mACNAAeiSMsE4+Mr9PGYPa7RzlVzj5IFt8MxyMrwTT2jCBKtcpF6MBDLG0Akz/BLACKED_100954_2160P.mp4
+2021-02-13T14:45:56.721Z info: shortenUrl: http://link1s.com/23MOSXB
+2021-02-13T14:46:46.829Z info: start download
+2021-02-13T14:46:47.390Z info: download done
+2021-02-13T14:46:48.007Z info: start download
+2021-02-13T14:47:01.123Z info: download done
+2021-02-13T15:18:39.937Z info: 42.112.148.40 GET https://www.fshare.vn/file/DI5VRVTALVE3VXQ
+2021-02-13T15:18:39.937Z info: getting download link...
+2021-02-13T15:18:40.395Z info: https://download003.fshare.vn/dl/bIOuckswuPizi6r2-opepJg0JISBvYZysOTo25oM9XvpDjibGHkzLJgOQgaGjxlgKPtFIO2ipdKXiKSw/VTV-HD%20G%E1%BA%B7p%20Nhau%20Cu%E1%BB%91i%20N%C4%83m%20-%20T%C3%A1o%20Qu%C3%A2n%202021%201080p.mp4
+2021-02-13T15:18:41.060Z info: shortenUrl: http://link1s.com/1GlQZ
+2021-02-13T15:20:23.446Z info: 171.242.31.29 GET https://www.fshare.vn/file/WJPQ9RUOLM2441H
+2021-02-13T15:20:23.446Z info: getting download link...
+2021-02-13T15:20:23.906Z info: https://download008.fshare.vn/dl/0wwmU4P08zTLXJOYcBJyyNjpPqxdRGkkPb4JZFjSJQDJf3R3EmX-HEUkx12lIPJ2WVnO85iiL7Nq3eJ4/A.Werewolf.in.England.2020.1080p.WEB-DL.DD5.1.H.264-EVO.mkv
+2021-02-13T15:20:24.700Z info: shortenUrl: http://link1s.com/IXinDg
+2021-02-13T15:21:16.345Z info: start download
+2021-02-13T15:21:31.265Z info: start download
+2021-02-13T15:21:49.964Z info: download done
+2021-02-13T15:21:51.746Z info: start download
+2021-02-13T15:21:53.097Z info: download done
+2021-02-13T15:21:53.830Z info: start download
+2021-02-13T15:21:54.014Z info: download done
+2021-02-13T15:21:54.878Z info: start download
+2021-02-13T15:22:06.360Z info: download done
+2021-02-13T15:29:23.308Z info: 14.250.102.72 GET https://www.fshare.vn/file/OYJGFI19XN8W
+2021-02-13T15:29:23.308Z info: getting download link...
+2021-02-13T15:29:23.767Z info: https://download014.fshare.vn/dl/pjpVLbUGv2Qj6AgZ5-nGvJXunZmeXGfl8G5-jb58QI+Fo9DbraxjMJDb-BGozpYeg53W+Vb2YVwpuaLZ/Win10Pro_2004_English_x64.iso
+2021-02-13T15:29:24.515Z info: shortenUrl: http://link1s.com/naw97
+2021-02-13T15:29:48.875Z info: start download
+2021-02-13T15:29:49.094Z info: download done
+2021-02-13T15:29:49.604Z info: start download
+2021-02-13T15:30:44.194Z info: download done
+2021-02-13T15:45:06.946Z info: 42.113.151.31 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-13T15:45:06.946Z info: getting download link...
+2021-02-13T15:45:07.451Z info: https://download802.fshare.vn/dl/3NH5QPdslI5p0bpryb8NLQuYeH4QY+n302DpDNVx2eeQ34vwmSUQjE4TDpJRIAKLMx0FhOJ2+rTzno6z/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-13T15:45:07.989Z info: shortenUrl: http://link1s.com/yt8DNB
+2021-02-13T15:45:28.126Z info: download done
+2021-02-13T15:45:28.913Z info: start download
+2021-02-13T15:45:29.058Z info: download done
+2021-02-13T15:45:29.447Z info: start download
+2021-02-13T15:46:08.567Z info: start download
+2021-02-13T15:46:09.302Z info: download done
+2021-02-13T15:46:09.708Z info: start download
+2021-02-13T15:47:18.254Z info: download done
+2021-02-13T15:47:47.069Z info: download done
+2021-02-13T15:52:38.624Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-13T15:52:38.627Z info: getting download link...
+2021-02-13T15:52:39.123Z info: https://download024.fshare.vn/dl/M0PG3uuh8vDW-Nip8Tb4SsXn+FUb5xCRpI+oxGp-wHzg7jCUbMs2JLJlpvk6O1IqigZ3gQ0jm7NSZ49Q/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-13T15:52:39.938Z info: shortenUrl: http://link1s.com/8Tjff
+2021-02-13T15:53:28.610Z info: start download
+2021-02-13T15:54:05.151Z info: download done
+2021-02-13T15:54:45.608Z info: start download
+2021-02-13T15:55:10.351Z info: download done
+2021-02-13T16:01:52.675Z info: start download
+2021-02-13T16:01:57.251Z info: download done
+2021-02-13T16:12:57.276Z info: start download
+2021-02-13T16:12:59.217Z info: download done
+2021-02-13T16:13:07.594Z info: start download
+2021-02-13T16:13:09.940Z info: download done
+2021-02-13T16:13:18.376Z info: start download
+2021-02-13T16:14:27.915Z info: 113.162.190.142 GET https://www.fshare.vn/file/553PZMU5THON
+2021-02-13T16:14:27.918Z info: getting download link...
+2021-02-13T16:14:29.018Z info: https://download040.fshare.vn/dl/t7hGXxQC1XlpARlwDeSn7i07jOQWa4+m+YoITFkEBoGcc4eLV7AOTXZPlGdqRXxJKA5mxwXwOC2qsjgy/ePub%20Converter%203.19.918.379.rar
+2021-02-13T16:14:30.075Z info: shortenUrl: http://link1s.com/w5yN
+2021-02-13T16:16:12.156Z info: start download
+2021-02-13T16:16:24.719Z info: download done
+2021-02-13T16:18:04.736Z info: start download
+2021-02-13T16:19:28.199Z info: 1.52.230.225 GET https://www.fshare.vn/file/HPVXQNTWRVS1
+2021-02-13T16:19:28.199Z info: getting download link...
+2021-02-13T16:19:38.854Z info: https://download025.fshare.vn/dl/awPeGpSAhBtohRR89OIs9PBxGYBnx4VlVKpmPPRM6F90XUgLAkMOnGOMNtlibrGrgtLU5gt15FRrc3jc/%5BFullcrackpc.com%5D%20Hearts.of.Iron.IV.La.Resistance-HOODLUM.iso
+2021-02-13T16:19:39.452Z info: shortenUrl: http://link1s.com/H22sB6b
+2021-02-13T16:20:40.727Z info: start download
+2021-02-13T16:20:41.476Z info: download done
+2021-02-13T16:20:41.485Z info: start download
+2021-02-13T16:21:19.349Z info: start download
+2021-02-13T16:21:25.645Z info: download done
+2021-02-13T16:21:59.520Z info: start download
+2021-02-13T16:22:04.913Z info: download done
+2021-02-13T16:24:17.366Z info: start download
+2021-02-13T16:24:17.527Z info: download done
+2021-02-13T16:26:29.189Z info: download done
+2021-02-13T16:26:29.308Z info: start download
+2021-02-13T16:28:40.851Z info: download done
+2021-02-13T16:29:11.625Z info: start download
+2021-02-13T16:29:11.778Z info: download done
+2021-02-13T16:29:13.223Z info: start download
+2021-02-13T16:29:19.918Z info: download done
+2021-02-13T16:29:19.946Z info: start download
+2021-02-13T16:31:50.295Z info: 171.251.238.100 GET https://www.fshare.vn/file/NWDQEHVSY95L
+2021-02-13T16:31:50.298Z info: getting download link...
+2021-02-13T16:31:50.772Z info: https://download018.fshare.vn/dl/GS8UmybGLQ0BDXXijv7QJZpFH7v3+tkYI9UUka2SPB8y8N81xjVl6fnUMbWpBb3FMpPTxKe-Gnmsc2XI/BLACKED_100954_2160P.mp4
+2021-02-13T16:31:51.327Z info: shortenUrl: http://link1s.com/KBbyZ
+2021-02-13T16:32:43.141Z info: start download
+2021-02-13T16:32:43.856Z info: download done
+2021-02-13T16:32:43.887Z info: start download
+2021-02-13T16:38:48.495Z info: download done
+2021-02-13T16:41:11.106Z info: start download
+2021-02-13T16:41:33.187Z info: download done
+2021-02-13T16:43:38.548Z info: 171.251.238.100 GET https://www.fshare.vn/file/NN36BROSQYCK
+2021-02-13T16:43:38.548Z info: getting download link...
+2021-02-13T16:43:49.134Z info: https://download037.fshare.vn/dl/diGrnLUa5DU1kCGkLYdUQq19x0syqoRWDjcGZ1MyMN9wSyNFEpz-0+OGy4wFMF9oqghciwfKrj05-8k8/Dani.Daniels.penthouse.16.08.18.XXX.1080.mp4
+2021-02-13T16:43:50.388Z info: shortenUrl: http://link1s.com/f5vzmztt
+2021-02-13T16:44:39.652Z info: start download
+2021-02-13T16:44:39.924Z info: download done
+2021-02-13T16:44:40.009Z info: start download
+2021-02-13T16:48:56.302Z info: download done
+2021-02-13T16:52:24.645Z info: 171.251.238.100 GET https://www.fshare.vn/file/D8OIAJM7S7DW
+2021-02-13T16:52:24.645Z info: getting download link...
+2021-02-13T16:52:25.236Z info: https://download033.fshare.vn/dl/7bylMBBYnbisYuoMNsgqf1htfA3933p9tymL76mWhk5ZE4P+m1yc9I0T7uU3-TAS6WE1vm+IOUFVdVp6/teensloveblackcocks_mandy_muse_and_valentina_nappi_full_hi_720hd.mp4
+2021-02-13T16:52:25.489Z info: shortenUrl: http://link1s.com/sKmo
+2021-02-13T16:53:15.199Z info: start download
+2021-02-13T16:53:15.496Z info: download done
+2021-02-13T16:53:15.584Z info: start download
+2021-02-13T16:59:48.551Z info: download done
+2021-02-13T17:35:55.335Z info: 14.252.47.157 GET https://www.fshare.vn/file/2W5OPA1ZO356
+2021-02-13T17:35:55.336Z info: getting download link...
+2021-02-13T17:36:05.846Z info: https://download012.fshare.vn/dl/k0T6Tla65yJ51DsK8U9xmPwr7fb4nw+QqU3rHsOnIiBazNbu152slj89jnqdhFXPpv31xtRAgLYDZUig/Seven.Worlds.One.Planet.S01E01.Antarctica.1080p.UHD.BluRay.DDP7.1.HDR.x265-HDVN.mkv
+2021-02-13T17:36:06.106Z info: shortenUrl: http://link1s.com/WgacS
+2021-02-13T17:36:56.944Z info: start download
+2021-02-13T17:36:59.501Z info: download done
+2021-02-13T17:36:59.652Z info: start download
+2021-02-13T17:43:08.278Z info: download done
+2021-02-13T17:43:08.571Z info: start download
+2021-02-13T17:45:09.086Z info: 8.39.127.142 GET https://www.fshare.vn/file/9QKDTTCZP9U7
+2021-02-13T17:45:09.086Z info: getting download link...
+2021-02-13T17:45:10.632Z info: https://download002.fshare.vn/dl/C4lwkxxrjfQeew68pZ1vSWqeLLXSq2ENJQ65PrRZx5Qr0+HNIB+b3EuKdyaPDNgB0O1ustTSFgtCMkWI/Demon%20Slayer%20~%20Kimetsu%20no%20Yaiba%20-%20Mugen%20Train%20%282020%29%5BFinal%5D%5B1080p%20CAMrip%5D%5BCN-Hardsubs%5D.mkv
+2021-02-13T17:45:10.851Z info: shortenUrl: http://link1s.com/4AaH468
+2021-02-13T17:45:24.854Z info: download done
+2021-02-13T17:46:02.433Z error: download router: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+2021-02-13T17:46:57.459Z info: start download
+2021-02-13T17:46:59.253Z info: download done
+2021-02-13T17:46:59.360Z info: start download
+2021-02-13T18:09:09.701Z info: 171.251.238.100 GET https://www.fshare.vn/file/WF6AMZV4NQDF
+2021-02-13T18:09:09.701Z info: getting download link...
+2021-02-13T18:09:09.924Z info: https://download034.fshare.vn/dl/gIpngqM1LwEGHUwrYo6QzozQCw+bQs0-Rgh8wMgg8Qm1ei7eo+LC3fgjVKyruszamoxmDBfNEiqOUYnx/Freaky%20Teens%20Amateur%20Sextape.mp4
+2021-02-13T18:09:10.185Z info: shortenUrl: http://link1s.com/bLMSx
+2021-02-13T18:09:58.938Z info: start download
+2021-02-13T18:09:59.213Z info: download done
+2021-02-13T18:09:59.288Z info: start download
+2021-02-13T18:09:59.317Z info: start download
+2021-02-13T18:09:59.407Z info: download done
+2021-02-13T18:12:47.253Z info: download done
+2021-02-13T18:12:50.687Z info: download done
+2021-02-13T18:12:51.031Z info: start download
+2021-02-13T18:15:04.827Z info: download done
+2021-02-13T18:21:30.828Z info: 171.251.238.100 GET https://www.fshare.vn/file/KVGC1V3I2EMM
+2021-02-13T18:21:30.828Z info: getting download link...
+2021-02-13T18:21:41.332Z info: https://download006.fshare.vn/dl/2NnlKb1WZo9FPc5qrLF3sgJsMyfnoXKTl+xdSdvviovue91MmMy4o23PYzWpEg0CT6fmZ04RZugSJbgM/Hot%20Teen%20Plays%20With%20Sex%20Toy.mp4
+2021-02-13T18:21:41.556Z info: shortenUrl: http://link1s.com/yIwzm9lz
+2021-02-13T18:23:06.836Z info: start download
+2021-02-13T18:23:07.084Z info: download done
+2021-02-13T18:23:07.169Z info: start download
+2021-02-13T18:25:57.808Z info: download done
+2021-02-13T18:25:58.148Z info: start download
+2021-02-13T18:27:11.582Z info: download done
+2021-02-13T18:29:54.066Z info: 123.23.6.144 GET https://www.fshare.vn/file/F9SWXPELKSX1
+2021-02-13T18:29:54.067Z info: getting download link...
+2021-02-13T18:29:54.336Z info: https://download025.fshare.vn/dl/iWNtI3CwLRJFFqHJvP6AzkliKUYB3KLBw-tQXJrkcrIVKM9uEVazEbqG-iCvol66UC3r9FgDhkcX4nc3/Seven.Worlds.One.Planet.S01E02.Asia.1080p.UHD.BluRay.DDP7.1.HDR.x265-HDVN.mkv
+2021-02-13T18:29:54.583Z info: shortenUrl: http://link1s.com/8AsjRU
+2021-02-13T18:31:21.035Z info: start download
+2021-02-13T18:31:21.293Z info: download done
+2021-02-13T18:31:23.130Z info: start download
+2021-02-13T18:36:37.891Z info: download done
+2021-02-13T18:37:12.970Z info: start download
+2021-02-13T18:37:14.788Z info: download done
+2021-02-13T18:37:14.895Z info: start download
+2021-02-13T18:43:53.042Z info: download done
+2021-02-13T20:40:12.648Z info: 27.75.97.121 GET https://www.fshare.vn/file/O48JRX4FJ71B
+2021-02-13T20:40:12.649Z info: getting download link...
+2021-02-13T20:40:12.965Z info: https://download027.fshare.vn/dl/MEXJgqGJWiwnO0VAdYTmL5KatKFzJPW0w-2Z3AWRBhEXWFVJIzwMFY0A1Xgrnm4OKnaqQb8DWiwqawAh/spc_6_s.mp4
+2021-02-13T20:40:13.237Z info: shortenUrl: http://link1s.com/ZHxU7y
+2021-02-13T20:41:18.182Z info: start download
+2021-02-13T20:41:18.351Z info: download done
+2021-02-13T20:41:18.485Z info: start download
+2021-02-13T20:46:15.347Z info: 27.75.97.121 GET https://www.fshare.vn/file/QGR6BTVNEQ9P
+2021-02-13T20:46:15.347Z info: getting download link...
+2021-02-13T20:46:15.609Z info: https://download019.fshare.vn/dl/jtZ21eCXQTd8otLzPeIykqqFG9KAYj6uxUE4xl8dlBb-Xis9gsXy6VMJ33KkatH5OuMNM9FIy48N4d1o/%E5%9C%8B%20%E7%94%A3%20AV%E5%8A%87%20%E6%83%85%20%E8%A3%9D%20%E7%9D%A1%20%E7%9A%84%20%E5%A4%96%20%E7%94%A5%20%E5%A5%B3%20%E6%AF%8F%20%E5%A4%A9%20%E9%83%BD%20%E5%8B%BE%20%E5%BC%95%20%E6%88%91%20%E4%BA%82%20%E5%80%AB%20%E5%9C%8B%20%E8%AA%9E%20%E4%B8%AD%20%E6%96%87%20%E5%AD%97%20%E5%B9%95.mp4
+2021-02-13T20:46:15.864Z info: shortenUrl: http://link1s.com/Uot9
+2021-02-13T20:47:17.301Z info: start download
+2021-02-13T20:47:17.486Z info: download done
+2021-02-13T20:47:17.622Z info: start download
+2021-02-13T20:47:54.169Z info: download done
+2021-02-13T20:48:07.619Z info: download done
+2021-02-13T22:53:36.873Z info: 49.178.53.16 GET https://www.fshare.vn/file/7NH5ZCFSGK71
+2021-02-13T22:53:36.873Z info: getting download link...
+2021-02-13T22:53:47.182Z info: https://download045.fshare.vn/dl/kt5Pp3VwE0yTxx0TNf4Gprf75AJSLJ1sCIrFwQzVjfuzKka5tdRyGbld90p202cJYzif9RzTZuO9F5Z-/Tuxerantfs_2020.dmg
+2021-02-13T22:53:47.433Z info: shortenUrl: http://link1s.com/TuiKKJ
+2021-02-13T22:54:29.252Z info: start download
+2021-02-13T22:54:36.033Z info: download done
+2021-02-13T22:55:24.817Z info: 49.178.53.16 GET https://www.fshare.vn/file/I1CEP2VYV9EV
+2021-02-13T22:55:24.817Z info: getting download link...
+2021-02-13T22:55:35.090Z info: https://download006.fshare.vn/dl/WOIuPKXQkkWhD8jZ-jAiab8VfrpAd4uZJnIkITDuiMCYe3yQ2RWURzZ6nuPEJieUO9Qv4rihYMxBfEP6/tuxerantfs_2020.1.dmg
+2021-02-13T22:55:35.314Z info: shortenUrl: http://link1s.com/MVaOyKFz
+2021-02-13T22:55:56.649Z info: start download
+2021-02-13T22:56:17.775Z info: download done

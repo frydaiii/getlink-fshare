@@ -1,0 +1,285 @@
+2021-02-15T01:36:39.803Z info: 14.227.71.251 GET https://www.fshare.vn/file/ZMYM1XCNYMXK
+2021-02-15T01:36:39.805Z info: getting download link...
+2021-02-15T01:36:40.034Z error: get-download-link service, link err: FetchError: invalid json response body at https://www.fshare.vn/download/get reason: Unexpected token < in JSON at position 3
+2021-02-15T01:36:40.036Z info: logging out
+2021-02-15T01:36:40.211Z info: redirect link: https://www.fshare.vn/site/login
+2021-02-15T01:36:40.413Z info: status: 200
+2021-02-15T01:36:40.413Z info: logging in with different account...
+2021-02-15T01:36:40.414Z info: getting token and cookie...
+2021-02-15T01:36:40.615Z info: logging in ...
+2021-02-15T01:36:42.394Z info: status: 302
+2021-02-15T01:36:42.394Z info: redirect link: https://www.fshare.vn/
+2021-02-15T01:36:42.556Z info: status: 302
+2021-02-15T01:36:42.556Z info: redirect link: https://www.fshare.vn/file/manager
+2021-02-15T01:36:42.833Z info: status: 200
+2021-02-15T01:36:42.838Z info: getting download link...
+2021-02-15T01:36:43.213Z info: https://download044.fshare.vn/dl/6TmPGuOiXkd73wU6BQWHi8fmPum8QrqPYbz+Pe-qoUZm+a9NjUgOPvZPogbg7a6BtG+Z3Hx2VIuHhSdW/Faithfully.Yours.1988.CHINESE.1080p.NF.WEBRip.DDP2.0.x264-Ao%20~TM.mkv
+2021-02-15T01:36:43.493Z info: shortenUrl: http://link1s.com/v06LIwa
+2021-02-15T01:37:40.972Z info: start download
+2021-02-15T01:52:13.968Z info: 14.227.71.251 GET https://www.fshare.vn/file/15EB21RJ1B8V
+2021-02-15T01:52:13.969Z info: getting download link...
+2021-02-15T01:52:14.306Z info: https://download020.fshare.vn/dl/-zSXhTzWVoret5PAvNcRM3KhraBlcyjav641t98f0Wrx5F7hdEfZ0yfZFfNJrLp2SqBA2tC8w2KNeLD7/The.Tricky.Master.1999.WEB-DL.1080p.H264.AAC-CHDWEB~USLT.mkv
+2021-02-15T01:52:14.574Z info: shortenUrl: http://link1s.com/D6nMEjY
+2021-02-15T01:53:49.400Z info: start download
+2021-02-15T02:32:35.578Z info: 113.183.226.253 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T02:32:35.578Z info: getting download link...
+2021-02-15T02:32:35.882Z info: https://download033.fshare.vn/dl/wdP8bfwevNG++llUPZr7+GuM4+qn7yHtmqpwrke+GxtiY1N-+c1O7z8vMPpz24h7KQqYCkYjM0NBBIAO/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T02:32:36.144Z info: shortenUrl: http://link1s.com/HGh9eB
+2021-02-15T02:32:56.046Z info: 113.183.226.253 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T02:32:56.046Z info: getting download link...
+2021-02-15T02:32:56.326Z info: https://download033.fshare.vn/dl/5MhfZFcaoY4pSaOqFoPKsBzhhxt2wJAMfyqRmVDek1h21QgBE0HqvLuM9Lntnt7JUvrSPHE5kTK-ZJj8/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T02:32:56.563Z info: shortenUrl: http://link1s.com/3bFR4b
+2021-02-15T02:33:48.612Z info: start download
+2021-02-15T02:33:48.860Z info: download done
+2021-02-15T02:33:49.008Z info: start download
+2021-02-15T02:46:08.892Z info: start download
+2021-02-15T02:46:30.024Z info: download done
+2021-02-15T02:53:56.880Z info: download done
+2021-02-15T02:54:00.127Z info: start download
+2021-02-15T02:54:02.398Z info: download done
+2021-02-15T03:23:37.558Z info: 123.16.3.58 GET https://www.fshare.vn/file/PKG9PJ89AG3R
+2021-02-15T03:23:37.559Z info: getting download link...
+2021-02-15T03:23:37.854Z info: https://download026.fshare.vn/dl/-aYYNYzK4+W8vINZsQeP8gkecQczXr6Ieo-V6TVkzTJR0ME0oFU6uCAjSL7H3BGv120WaER+-4mlpOE1/Long.Days.Journey.Into.Night.2018.WEB-DL.1080P.X264.AAC.CHS.mkv
+2021-02-15T03:23:38.122Z info: shortenUrl: http://link1s.com/gAcr
+2021-02-15T03:25:13.060Z info: start download
+2021-02-15T03:25:21.536Z info: 116.102.41.34 GET https://www.fshare.vn/file/VOGX26GGPX82
+2021-02-15T03:25:21.536Z info: getting download link...
+2021-02-15T03:25:21.836Z info: https://download005.fshare.vn/dl/spPzdHV6nCJgWPgGdbpVeZ8O3l9HE0LJI+SqidLsLI4y0WVU784eeByrhD8BHnWoUJQxAFZ6b0mzlQb4/Fool%20for%20Love%202010%201080p%20NF%20WEB-DL%20DDP%202.0%20x264.mkv
+2021-02-15T03:25:22.128Z info: shortenUrl: http://link1s.com/wxxhu5
+2021-02-15T03:26:06.737Z info: 171.252.153.147 GET https://www.fshare.vn/file/L997WRTL6R3S
+2021-02-15T03:26:06.738Z info: getting download link...
+2021-02-15T03:26:07.069Z info: https://download035.fshare.vn/dl/laZKh0hNUgwqw9bJ86zrDexT1rgxwDas6ehiLi1A9A9g78wni1R75lGJCKjuBFj9MySuwKOOJsjfNq0n/Win10.LSTC.x86.Dec.2020.tib
+2021-02-15T03:26:07.335Z info: shortenUrl: http://link1s.com/6xxB7SG
+2021-02-15T03:26:13.980Z info: download done
+2021-02-15T03:26:14.283Z info: start download
+2021-02-15T03:26:20.600Z info: start download
+2021-02-15T03:26:21.481Z info: download done
+2021-02-15T03:26:21.596Z info: start download
+2021-02-15T03:26:48.085Z info: download done
+2021-02-15T03:26:54.517Z info: start download
+2021-02-15T03:26:55.036Z info: download done
+2021-02-15T03:26:55.144Z info: start download
+2021-02-15T03:27:09.809Z info: start download
+2021-02-15T03:27:54.291Z info: download done
+2021-02-15T03:27:59.829Z info: 171.252.153.147 GET https://www.fshare.vn/file/OEOW9CLRSCZR
+2021-02-15T03:27:59.830Z info: getting download link...
+2021-02-15T03:28:00.150Z info: https://download027.fshare.vn/dl/IM7PhX7LoLFY-Jl86UowY0ThFgY4WEycdvoc1jPnx+hy8fdq8NI9sR1KuW0aJAoMBb4gYGG8V2EcGwhx/UEFI%20Win10.2009.x64.Lehait.tib
+2021-02-15T03:28:00.461Z info: shortenUrl: http://link1s.com/sxpDSHQ
+2021-02-15T03:28:37.438Z info: start download
+2021-02-15T03:28:38.751Z info: download done
+2021-02-15T03:28:38.858Z info: start download
+2021-02-15T03:29:02.731Z info: start download
+2021-02-15T03:29:38.377Z info: download done
+2021-02-15T03:29:38.536Z info: start download
+2021-02-15T03:29:59.947Z info: download done
+2021-02-15T03:30:20.488Z info: start download
+2021-02-15T03:30:26.487Z info: download done
+2021-02-15T03:30:28.117Z info: start download
+2021-02-15T03:30:35.759Z info: download done
+2021-02-15T03:30:51.531Z info: start download
+2021-02-15T03:30:52.974Z info: download done
+2021-02-15T03:31:05.549Z info: start download
+2021-02-15T03:31:07.478Z info: download done
+2021-02-15T03:31:07.735Z info: start download
+2021-02-15T03:31:27.437Z info: download done
+2021-02-15T03:32:57.302Z info: download done
+2021-02-15T03:33:16.098Z info: start download
+2021-02-15T03:33:23.315Z info: download done
+2021-02-15T03:33:23.815Z info: start download
+2021-02-15T03:34:36.728Z info: start download
+2021-02-15T03:35:16.008Z info: download done
+2021-02-15T03:37:06.310Z info: 123.16.3.58 GET https://www.fshare.vn/file/PKG9PJ89AG3R
+2021-02-15T03:37:06.311Z info: getting download link...
+2021-02-15T03:37:06.610Z info: https://download026.fshare.vn/dl/nQlkZga7E1KRyya+eTBawmqceQbb1ZiRP6M7KwvNm8Wx3OaA8-zgahba9qheE3AMKin2MzfQKbRbQJHs/Long.Days.Journey.Into.Night.2018.WEB-DL.1080P.X264.AAC.CHS.mkv
+2021-02-15T03:37:07.410Z info: shortenUrl: http://link1s.com/Yl3jm0ka
+2021-02-15T03:38:36.076Z info: start download
+2021-02-15T03:38:36.378Z info: download done
+2021-02-15T03:38:36.499Z info: start download
+2021-02-15T03:43:36.282Z info: download done
+2021-02-15T03:44:41.734Z info: 171.246.197.177 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T03:44:41.734Z info: getting download link...
+2021-02-15T03:44:43.085Z info: https://download803.fshare.vn/dl/mLV-oE+K77kPmQifxNAU380gUosOMbruzv1p6ufQ69b35QmdVz0odFReccuiSpVASpyXfA7gUWzoOg3a/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T03:44:43.694Z info: shortenUrl: http://link1s.com/39U5auq4
+2021-02-15T03:47:04.959Z info: start download
+2021-02-15T03:47:50.898Z info: download done
+2021-02-15T03:50:46.358Z info: download done
+2021-02-15T03:51:54.920Z info: download done
+2021-02-15T03:52:02.637Z info: start download
+2021-02-15T03:52:28.061Z info: download done
+2021-02-15T03:52:39.958Z info: download done
+2021-02-15T03:52:42.981Z info: start download
+2021-02-15T03:53:07.722Z info: download done
+2021-02-15T03:53:11.085Z info: download done
+2021-02-15T03:54:09.450Z info: 59.153.224.84 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T03:54:09.450Z info: getting download link...
+2021-02-15T03:54:09.792Z info: https://download803.fshare.vn/dl/TCGX2w70zLyK0xhrCh2g3dOG06vM55Ze3JEw1ou76xv1WrbxN9asBvycm236avf8YAlwvTpN7WI+f7D8/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T03:54:10.560Z info: shortenUrl: http://link1s.com/Iq3mY7
+2021-02-15T04:02:39.753Z info: 14.175.144.73 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:02:39.754Z info: getting download link...
+2021-02-15T04:02:50.150Z info: https://download803.fshare.vn/dl/AJYr+bNeKS9wjeTRS73FYn2KaDv9aTYeo3yXHtUxJsumXrz4bAqsElnGRUJe0gDc-74jyoboKt6FeYnB/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:02:50.494Z info: shortenUrl: http://link1s.com/yCeRaP
+2021-02-15T04:03:13.163Z info: 14.175.144.73 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:03:13.163Z info: getting download link...
+2021-02-15T04:03:13.525Z info: https://download803.fshare.vn/dl/bo09bqkzUslgOsPsZVzq-j6eAHho1Yvam5Fij4fRg-s7-HNS1wblEsjx90gqkYXNNmGD3om1WAEqsjJz/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:03:14.194Z info: shortenUrl: http://link1s.com/7bICPu
+2021-02-15T04:03:42.855Z info: 103.199.33.204 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:03:42.856Z info: getting download link...
+2021-02-15T04:03:43.198Z info: https://download803.fshare.vn/dl/kg1nQ4dRF5Jv0IrylTRjJrxnI4Cs723t1D0n48WsBmiZ6Z8fPkMGWRTLBwY1YxtBl5-x8KY0NoyoMLqo/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:03:43.821Z info: shortenUrl: http://link1s.com/gIowb
+2021-02-15T04:04:07.888Z info: 1.54.251.83 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:04:07.888Z info: getting download link...
+2021-02-15T04:04:08.196Z info: https://download803.fshare.vn/dl/rkBGX2YpUvaAkXUyf2yHiTIWEnOisxzgQuy+IUyU544gIBHqFFoXRbMys2s3xa2RmK1-N6j+Qm0hviXi/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:04:08.875Z info: shortenUrl: http://link1s.com/i4XVrRlZ
+2021-02-15T04:04:27.897Z info: start download
+2021-02-15T04:04:32.625Z info: download done
+2021-02-15T04:04:58.353Z info: download done
+2021-02-15T04:05:19.141Z info: 103.199.33.204 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:05:19.142Z info: getting download link...
+2021-02-15T04:05:20.013Z info: https://download803.fshare.vn/dl/lcHae2T2uLiJi7TfphzElT6Rrf7uealegmVAWmK3RA-J7EqqfyumIxgfodxfjVXyblDOQHZ7uF0v2Jbe/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:05:20.404Z info: shortenUrl: http://link1s.com/kbuPm
+2021-02-15T04:06:34.412Z info: start download
+2021-02-15T04:07:47.255Z info: 107.150.30.181 GET https://www.fshare.vn/file/JJS2LKQSFJ5R
+2021-02-15T04:07:47.255Z info: getting download link...
+2021-02-15T04:07:47.591Z info: https://download032.fshare.vn/dl/7sKkgWngEDxxlo-x71I1l0Se+GVLz4YhVLxf+qnqOqlSljTyWkwhwlLMlMBydHcmUfOO0iU6yxytj8l-/SNIS-865.FHD.mkv
+2021-02-15T04:07:48.121Z info: shortenUrl: http://link1s.com/LxRbFw
+2021-02-15T04:08:32.857Z info: 113.23.96.109 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:08:32.857Z info: getting download link...
+2021-02-15T04:08:33.147Z info: https://download803.fshare.vn/dl/lWIR-jeGwRgWoo4PKEflHc99WLLk9qWJZqLNu2vpNAq6gzv1KrY8GYU3Ozg-Lyr-T48iA4mAVqEuxUWp/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:08:33.416Z info: shortenUrl: http://link1s.com/vPOrHW
+2021-02-15T04:08:37.742Z info: start download
+2021-02-15T04:08:38.988Z info: start download
+2021-02-15T04:08:39.151Z info: download done
+2021-02-15T04:10:07.851Z info: 116.98.61.214 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:10:07.851Z info: getting download link...
+2021-02-15T04:10:08.373Z info: https://download803.fshare.vn/dl/I4VcxuI7EviQT8zkERlgDGd0gnEQg09CMRaB+hQpg4wGSWqvYofAISND1178RA84Q1FDiTDOc3dpdSYI/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:10:08.849Z info: shortenUrl: http://link1s.com/yfSk
+2021-02-15T04:10:24.376Z info: download done
+2021-02-15T04:10:57.068Z info: start download
+2021-02-15T04:11:21.002Z info: download done
+2021-02-15T04:11:30.551Z info: 107.150.30.181 GET https://www.fshare.vn/file/JJS2LKQSFJ5R
+2021-02-15T04:11:30.551Z info: getting download link...
+2021-02-15T04:11:30.909Z info: https://download032.fshare.vn/dl/cYWNJZFweS7gHQhGbGdHf+Tdp9+cOJtl9GpuYDrY68SWJui2IVcVhCfr30VsjJKJZZP+Ip+Pjt1a27IH/SNIS-865.FHD.mkv
+2021-02-15T04:11:31.600Z info: shortenUrl: http://link1s.com/LjMdfqTt
+2021-02-15T04:11:47.012Z info: download done
+2021-02-15T04:12:15.877Z info: start download
+2021-02-15T04:12:16.881Z info: start download
+2021-02-15T04:12:17.164Z info: download done
+2021-02-15T04:12:35.076Z info: 123.20.15.235 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:12:35.076Z info: getting download link...
+2021-02-15T04:12:35.347Z info: https://download803.fshare.vn/dl/ZmCn3rbcqd1hYVl4ecgV6VX2Q4ngmSJ-RWJLaQOkeFtjIpfK2a0Hamxq0+8KEeHN4tdaXzbfG4Wc79AL/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:12:36.096Z info: shortenUrl: http://link1s.com/4mXfrY62
+2021-02-15T04:12:53.799Z info: start download
+2021-02-15T04:16:14.657Z info: download done
+2021-02-15T04:16:22.380Z info: 35.245.51.76 GET https://www.fshare.vn/file/5BWAEX817L7W
+2021-02-15T04:16:22.380Z info: getting download link...
+2021-02-15T04:16:22.784Z info: https://download013.fshare.vn/dl/q-E-kWZxJ-wqSc6SMn-Oyev7UY3K7xZv3gRun+vwNESFmDewv9gvaGp8JR3+C-y07ENKU7qzmqTNnzXo/Dragon%20Ball%20Super%20S01E01%202015%201080p%20Blu-ray%20REMUX%20AVC%20TrueHD%202.0%20-%20AYA.mkv
+2021-02-15T04:16:24.872Z info: shortenUrl: http://link1s.com/yvI3dZf
+2021-02-15T04:18:25.901Z info: 117.5.155.109 GET https://www.fshare.vn/file/8E1P8NEP43W2
+2021-02-15T04:18:25.901Z info: getting download link...
+2021-02-15T04:18:29.266Z info: https://download047.fshare.vn/dl/apu5QPP-sjTD-w0CjHFpJjLGnVzk2dRjURVbxRWmdbTKZ3TvfIfvV9gZegD-ijPYxEtd8AxErdNrvLeP/%5BSanTruongIT.com%5D%20Folklore.Hunter.v0.3b.rar
+2021-02-15T04:18:29.725Z info: shortenUrl: http://link1s.com/AZulHXC8
+2021-02-15T04:18:51.180Z info: 113.172.207.220 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:18:51.180Z info: getting download link...
+2021-02-15T04:18:51.495Z info: https://download803.fshare.vn/dl/gwb7YmGXXO8nVnPePIwNe02foqN5Um7hwxrNh-733x5wgIEAPBbzks-WVsU17NAQf-04ln-ZXAcE0M40/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:18:53.610Z info: shortenUrl: http://link1s.com/quSsF
+2021-02-15T04:19:23.842Z info: start download
+2021-02-15T04:19:44.282Z info: download done
+2021-02-15T04:20:08.156Z info: start download
+2021-02-15T04:20:09.424Z info: start download
+2021-02-15T04:20:09.623Z info: download done
+2021-02-15T04:20:18.000Z info: start download
+2021-02-15T04:21:04.878Z info: 117.5.155.109 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-15T04:21:04.878Z info: getting download link...
+2021-02-15T04:21:15.240Z info: https://download024.fshare.vn/dl/ZBFxJkw4X7U8pQv1LZdBD08iXiF02+OwlSH+lIytzobuSwaxW7Xyl99jlCskNaUoUOCxLeFFFpYqsGSI/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-15T04:21:15.450Z info: shortenUrl: http://link1s.com/z0Qv9y
+2021-02-15T04:21:36.911Z info: download done
+2021-02-15T04:22:25.083Z info: start download
+2021-02-15T04:24:02.033Z info: 35.245.51.76 GET https://www.fshare.vn/file/MPENRKCO4BVA
+2021-02-15T04:24:02.033Z info: getting download link...
+2021-02-15T04:24:02.399Z info: https://download033.fshare.vn/dl/P7X8xxVtzG+nYubHq0QFIDXzUK8yCjrz86hpUdPO8cYmw6SBsRqUJt4VgCsPuKdooW4qNPHnxwK4SRO2/Dragon%20Ball%20Super%20S01E02%202015%201080p%20Blu-ray%20REMUX%20AVC%20TrueHD%202.0%20-%20AYA.mkv
+2021-02-15T04:24:02.857Z info: shortenUrl: http://link1s.com/BXLX3Bx
+2021-02-15T04:24:34.918Z info: download done
+2021-02-15T04:25:09.697Z info: start download
+2021-02-15T04:25:10.088Z info: download done
+2021-02-15T04:25:26.711Z info: start download
+2021-02-15T04:26:11.258Z info: start download
+2021-02-15T04:26:25.376Z info: 171.248.244.89 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T04:26:25.376Z info: getting download link...
+2021-02-15T04:26:25.671Z info: https://download803.fshare.vn/dl/7Qel9kG8ZosuxpabQX+ldWRZqDrO6EbVGp+sKT3WygM1R8a9DGKurmYU3XFN-OopHHJCRCy8wP-1tQ0T/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T04:26:25.988Z info: shortenUrl: http://link1s.com/beMS
+2021-02-15T04:26:51.285Z info: start download
+2021-02-15T04:26:51.887Z info: start download
+2021-02-15T04:26:52.073Z info: download done
+2021-02-15T04:27:23.121Z info: start download
+2021-02-15T04:27:42.504Z info: download done
+2021-02-15T04:27:44.709Z info: download done
+2021-02-15T04:27:55.891Z info: download done
+2021-02-15T04:29:19.402Z info: start download
+2021-02-15T05:19:25.414Z info: download done
+2021-02-15T05:19:25.470Z info: download done
+2021-02-15T05:19:25.552Z info: download done
+2021-02-15T05:33:38.704Z info: start download
+2021-02-15T05:33:39.098Z info: start download
+2021-02-15T05:33:42.654Z info: download done
+2021-02-15T05:33:45.305Z info: download done
+2021-02-15T05:59:28.094Z info: 125.235.235.251 GET https://www.fshare.vn/file/WRSGLFYDMQLJKXS
+2021-02-15T05:59:28.095Z info: getting download link...
+2021-02-15T05:59:28.486Z info: https://download037.fshare.vn/dl/SNrI0nFrGDEe19-rMt6r9cz43WU30vlNZmsJYgVGGX72+ST+XX1i7rPuWeZh2jKupk4kzQ3C-Dysd1Eo/Bad.Genius.2017.mHD.BluRay.DD5.1.x264-TRiM.mkv
+2021-02-15T05:59:29.724Z info: shortenUrl: http://link1s.com/v76rSv02
+2021-02-15T05:59:43.461Z info: start download
+2021-02-15T06:00:03.968Z info: download done
+2021-02-15T06:00:08.811Z info: start download
+2021-02-15T06:00:12.489Z info: download done
+2021-02-15T06:00:12.602Z info: start download
+2021-02-15T06:00:17.137Z info: download done
+2021-02-15T06:00:19.887Z info: start download
+2021-02-15T06:00:21.439Z info: download done
+2021-02-15T06:00:21.553Z info: start download
+2021-02-15T06:02:14.327Z info: download done
+2021-02-15T06:02:14.331Z info: download done
+2021-02-15T06:02:22.806Z info: start download
+2021-02-15T06:03:29.554Z info: download done
+2021-02-15T06:11:00.820Z info: 113.169.96.237 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T06:11:00.820Z info: getting download link...
+2021-02-15T06:11:01.199Z info: https://download803.fshare.vn/dl/t1TUN6G1Xmjw7QR+tzvJX05mkBOb0XJVEYNE5Vik1xGYaStqHWLrCPqEZqVyYup2ogNWeAbNgMC4rH0i/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T06:11:01.903Z info: shortenUrl: http://link1s.com/5fG9hhu
+2021-02-15T06:11:16.794Z info: 171.227.162.19 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T06:11:16.795Z info: getting download link...
+2021-02-15T06:11:17.108Z info: https://download803.fshare.vn/dl/a07gIRsoBVYFOmj6uzo91qnYIGtINDYB6u-daCjGAGzwSm7PpUFNpCkD+LFXsMf1F1McgPVP42D9IQ2v/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T06:11:17.896Z info: shortenUrl: http://link1s.com/4haRo9EE
+2021-02-15T06:11:46.162Z info: 113.169.96.237 GET https://www.fshare.vn/file/TQYESJYYN38M6PRE
+2021-02-15T06:11:46.165Z info: getting download link...
+2021-02-15T06:11:46.478Z info: https://download803.fshare.vn/dl/9HLpTptQH1CchXmKGjx1qDvoKwDVCG8or7IhLfWGuHP5hdsU+rJ11T7VtgLaCdXuRmIX0f7HnG53JkYw/Blood%20Moon%20Party%202020%201080p%20WEB-DL%20DDP%205.1%20H.264%20-%20HBO.mkv
+2021-02-15T06:11:47.187Z info: shortenUrl: http://link1s.com/uLFI
+2021-02-15T06:12:23.726Z info: start download
+2021-02-15T06:12:49.857Z info: download done
+2021-02-15T06:12:57.169Z info: start download
+2021-02-15T06:13:03.971Z info: ::ffff:103.145.63.96 GET https://www.fshare.vn/file/PUUFAT3NSOPC
+2021-02-15T06:13:03.971Z info: getting download link...
+2021-02-15T06:13:04.317Z info: https://download024.fshare.vn/dl/at+xQ3VH6bOel8aMJpBB1yc9Rvq5T1NPf0d9yYU-ngPoKRQdM3AQrTAN-wxTZ+G-PloJ0DIlOFCyD7ma/%5BSanTruongIT.com%5D%20Adobe.After.Effects.2020.v17.1.0.72u1.zip
+2021-02-15T06:13:04.997Z info: shortenUrl: http://link1s.com/rFntrWV
+2021-02-15T06:13:50.492Z info: start download
+2021-02-15T06:14:14.544Z info: download done
+2021-02-15T06:15:02.075Z info: download done
+2021-02-15T06:15:40.513Z info: start download
+2021-02-15T06:15:42.805Z info: download done
+2021-02-15T06:18:02.639Z info: start download
+2021-02-15T06:18:07.741Z info: download done
+2021-02-15T06:22:08.234Z info: ::ffff:103.145.63.96 GET https://www.fshare.vn/file/93C9XPELKSZC
+2021-02-15T06:22:08.236Z info: getting download link...
+2021-02-15T06:22:08.673Z info: https://download024.fshare.vn/dl/6fGY7iDmfKL4V4CCTQwC4XtVGbtV3UxzO+Ef4qGVKK7ADDqTbwZ2gTEpEyw3RL+icdoRQNgUkmwrSHVl/Microsoft%20Office%202019%20for%20Mac%20v16.45.zip
+2021-02-15T06:22:09.488Z info: shortenUrl: http://link1s.com/zxrApk
+2021-02-15T06:22:29.906Z info: ::ffff:103.145.63.96 GET https://www.fshare.vn/file/WRSGLFYDMQLJKXS
+2021-02-15T06:22:29.907Z info: getting download link...
+2021-02-15T06:22:30.273Z info: https://download037.fshare.vn/dl/Dp61tYYMuQeFxnMZzazaylSb21U0KaiJUMOjMtj2FOReQAKv+V12jgGDZUmvfnu4fH-VnaCgy9MLM+qs/Bad.Genius.2017.mHD.BluRay.DD5.1.x264-TRiM.mkv
+2021-02-15T06:22:31.459Z info: shortenUrl: http://link1s.com/vKcMyzdJ
+2021-02-15T06:23:27.103Z info: start download
+2021-02-15T06:24:59.921Z info: start download
+2021-02-15T06:26:28.881Z info: start download
+2021-02-15T06:26:42.376Z info: download done
+2021-02-15T06:26:43.548Z info: start download
+2021-02-15T06:26:44.521Z info: download done
+2021-02-15T06:26:47.531Z info: start download
+2021-02-15T06:26:53.280Z info: download done
+2021-02-15T06:29:52.244Z info: download done
+2021-02-15T06:42:27.795Z info: download done

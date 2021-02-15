@@ -1,7 +1,7 @@
 const redis = require('redis');
-const client = redis.createClient();
+const client = redis.createClient({port: 6380});
 
-const getkey = function(client, name) {
+const getkey = function(name) {
     return new Promise((resolve, reject) => {
         client.get(name, (err, reply) => {
             if (err) reject(err);
@@ -10,7 +10,7 @@ const getkey = function(client, name) {
     });
 }
 
-const getlist = function(client, name) {
+const getlist = function(name) {
     return new Promise((resolve, reject) => {
         client.lrange(name, 0, -1, (err, reply) => {
             if (err) reject(err);
@@ -22,7 +22,7 @@ const getlist = function(client, name) {
     });
 } 
 
-const incrkey = function(client, name) {
+const incrkey = function(name) {
     return new Promise((resolve, reject) => {
         client.incr(name, (err, reply) => {
             if (err) reject(err);
@@ -31,7 +31,7 @@ const incrkey = function(client, name) {
     });
 }
 
-const decrkey = function(client, name) {
+const decrkey = function(name) {
     return new Promise((resolve, reject) => {
         client.decr(name, (err, reply) => {
             if (err) reject(err);
@@ -40,7 +40,7 @@ const decrkey = function(client, name) {
     });
 }
 
-function mUpdate(client, data) {
+function mUpdate(data) {
     return new Promise((resolve, reject) => {
         client.mset(data, (err, reply) => {
             if (err) reject(err);

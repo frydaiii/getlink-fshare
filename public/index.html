@@ -13,24 +13,24 @@
 
     gtag('config', 'G-LN2TKX1GM6');
   </script>
-  <script data-ad-client="ca-pub-6618528019970480" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script data-ad-client="ca-pub-5242334266505252" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
   <div id="container">
     <h1>Get Link Fshare Vippromax</h1>
-    <h4><i>fb.com/getlinkfshare</i></h4>
-    <p><a href="" id="link-download" target="_blank"></a></p>
-    <p id="note">Nhập code file cần tải.<br> 
-      VD: https://www.fshare.vn/file/<b>LVCSNN3554RA</b>?token=1612146449<br>
-      Nhập <b>LVCSNN3554RA</b>. 
-    </p>
-    <p>
-      Giới hạn 6Gb/1 file và 2 lần get/15 phút. Tải lại trang để get tiếp.<br>
-      <b>Một số file bị lỗi tên bạn hãy đặt lại tên và thêm đuôi để tải về.</b>
-    </p>
+    <h4><i>Tải chậm? Lỗi? Liên hệ: fb.com/getlinkfshare</i></h4>
+    <p style="font-size: x-large;"><a href="" id="link-download" target="_blank"></a></p>
+    <p id="note" style="font-size: x-large;"><b>Happy new year.</b></p>
+    <p>Giới hạn 6Gb/1 file và 2 lần get/60 phút.<br>
+    Copy nguyên cả link và dán vào đây</p>
     <div class="form">
-      <input type="text" value="" id="linkcode"/>
+      <input 
+      id="file_url" 
+      type="text" 
+      value="" 
+      placeholder="VD: https://www.fshare.vn/file/LVCSNN3554RA"
+      style="width: 50%;"/>
       <button onclick="get()" id="button">Get</button>
     </div>
   </div>
@@ -38,9 +38,16 @@
   <script>
     function get() {
       document.getElementById('note').innerHTML = 'loading...';
+      document.getElementById('link-download').innerHTML = '';
       document.getElementById('button').style.visibility = 'hidden';
-      const code = document.getElementById("linkcode").value;
-      fetch('http://getlink.vippromax.xyz/get/' + code)
+      
+      let file_url = document.getElementById("file_url").value;
+      if (file_url.lastIndexOf('?') != -1)
+      file_url = file_url.slice(0, file_url.lastIndexOf('?'));
+      file_url = encodeURIComponent(file_url);
+      
+      document.getElementById("file_url").value = '';
+      fetch('/get/' + file_url)
       .then(res => {
         if (res.status == 200) {
           res.text().then(data => {
@@ -53,6 +60,7 @@
             document.getElementById('note').innerHTML = data;
           });
         }
+        document.getElementById('button').style.visibility = 'visible';
       })
       .catch(err => console.log(err));
     }
